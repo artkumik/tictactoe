@@ -1,0 +1,8166 @@
+Unnamed: 0,state,action,pos
+,         ,4,8711.771484375
+, X  O    ,6,41.1328125
+, X XO O  ,7,3.09375
+, X XO OOX,2,7.0
+,         ,5,179.595703125
+,    XO   ,2,-7.7578125
+,  O XO  X,1,92.8125
+, OO XOX X,3,-6.0
+,         ,2,379.775390625
+,  O   X  ,0,9.421875
+,O O X X  ,5,2.0625
+,O O XOXX ,8,9.0
+,         ,8,375.64453125
+,   X    O,0,10.8046875
+,O  X  X O,5,4.3125
+,O  X OXXO,4,6.0
+,         ,3,321.6796875
+,   O X   ,2,7.1015625
+,  OO XX  ,0,1.875
+,O OOXXX  ,7,9.75
+,O OOXXXOX,1,29.0
+,         ,0,522.3515625
+,O      X ,2,0.421875
+,O OX   X ,8,1.5
+,O OX  XXO,4,3.0
+,         ,7,216.685546875
+,  X    O ,5,-0.65625
+, XX  O O ,6,1.875
+, XXX OOO ,8,3.0
+,    X  O ,0,-1.21875
+,O   X  OX,2,3.1875
+,O O XX OX,1,6.0
+,         ,1,398.197265625
+,XO       ,2,0.09375
+,XOOX     ,4,-2.0
+,O X      ,7,-2.015625
+,O X  X O ,1,-1.5
+,OOX XX O ,6,-6.0
+,   O  X  ,5,0.0
+, X O OX  ,7,0.28125
+, X OXOXO ,0,-4.25
+,OX OXOXOX,2,12.5
+,X   O    ,8,20.6953125
+,X   O X O,5,-3.25
+,XX  OOX O,7,-9.0
+,         ,6,353.00390625
+,      O X,2,4.1484375
+,X O   O X,4,8.0
+,     O  X,4,28.921875
+,    OOX X,3,73.5
+, X O     ,6,3.890625
+,XX O  O  ,5,0.375
+,XX O OO X,2,-3.5
+,  X    O ,1,4.359375
+, OX   XO ,3,-3.5
+, OXO XXO ,0,-2.0
+,  X    O ,6,3.9375
+,  X   OOX,1,2.40625
+,  X  O   ,0,1.875
+,O X  O  X,1,0.09375
+,OOX XO  X,6,4.875
+,OOX XOOXX,3,42.0
+,X  O     ,5,0.3515625
+,XX O O   ,6,-1.0
+,XX O OO X,7,-5.0
+,XO       ,5,1.59375
+,XO   O X ,4,2.625
+,XO XOO X ,8,-0.625
+,XOXXOO XO,6,49.0
+,O       X,1,4.265625
+,OO    X X,2,9.0
+,O O   XX ,8,3.75
+,O O X XXO,1,6.0
+,   O X   ,7,-0.28125
+,   OXX O ,0,0.65625
+,O XOXX O ,6,3.0
+,  X  O   ,4,27.84375
+,  X OO  X,1,3.65625
+, OX OOX X,3,3.0
+,OO    X X,4,2.5625
+,OO XO X X,2,18.0
+, O      X,6,0.8203125
+, O   XO X,0,0.75
+,OO X XO X,2,3.0
+,O    X   ,8,24.5859375
+,O   XX  O,3,4.3125
+,O XOXX  O,6,3.0
+,    X O  ,3,8.71875
+,   OXXO  ,7,1.3125
+, X OXXOO ,8,8.0
+, O X     ,2,1.546875
+, OOX X   ,6,3.0
+, OOX XOX ,0,6.0
+,     XO  ,1,1.3125
+, O  XXO  ,3,3.1875
+, O OXXO X,0,9.0
+,  O  XO X,1,2.25
+,XOO  XO X,4,4.0
+,    OX   ,1,360.4453125
+, O  OX  X,0,-24.375
+,OO  OX XX,3,-9.0
+, OOXX    ,5,3.375
+, OOXXO  X,7,-4.0
+, OOXXOXOX,0,27.0
+, X  O    ,3,400.640625
+,XX OO    ,5,31.0
+,    X   O,1,10.640625
+,XO  X   O,7,0.375
+,XO XX  OO,2,-7.0
+,  O   X  ,1,-0.9609375
+,XOO   X  ,5,-3.0
+,XOO  OX X,3,-4.0
+,  XO     ,7,-6.328125
+,  XO   OX,6,-2.25
+,X XO  OOX,4,-6.0
+,    XO   ,3,-26.4375
+, X OXO   ,8,-3.1875
+,    O  X ,2,217.4765625
+,  OXO  X ,6,35.0
+,   OX    ,8,2.859375
+, X OX   O,7,-0.375
+, X OX XOO,5,-2.25
+,O    X   ,3,10.96875
+,O  O X X ,4,0.375
+,OX OOX X ,8,7.0
+,    OX   ,2,6824.2265625
+,X O OX   ,8,10.125
+,XXO OX  O,7,3.75
+,XXO OXXOO,3,83.0
+,  X   O  ,4,-2.1328125
+,X X O O  ,7,-3.75
+,X X OXOO ,3,-5.0
+, OX      ,4,23.6484375
+,XOX O    ,6,31.3125
+,XOX OXO  ,8,5.25
+,XOXXOXO O,7,62.0
+,    OX   ,6,211.171875
+,    OXOX ,1,1.78125
+, O  OXOXX,3,-1.0
+, X      O,7,2.8125
+, X    XOO,5,0.5625
+, X  XOXOO,3,-6.5
+, X   O   ,2,5.1796875
+, XOX O   ,0,0.84375
+,OXOXXO   ,8,4.0
+,   O    X,1,4.6875
+, O OX   X,5,-1.9375
+, O OXOX X,2,-5.0
+,   OX    ,5,-6.6328125
+,   OXOX  ,7,-7.9375
+,X  OXOXO ,8,-1.5
+,  X O    ,8,286.3125
+, XX O   O,6,-3.25
+, XX O OXO,0,5.0
+,O    X   ,7,-4.6171875
+,OX   X O ,4,1.5
+,OX XOX O ,8,8.0
+,    OX   ,0,166.96875
+,O   OXX  ,7,2.25
+,O X OXXO ,8,7.0
+,    X  O ,5,-15.046875
+,    XO OX,2,-0.15625
+, XO XO OX,6,-2.875
+, XOXXOOOX,0,21.0
+,  O  X   ,8,3.09375
+,  OX X  O,7,1.6875
+, XOX X OO,0,0.0
+,OXOX XXOO,4,22.0
+,     X O ,1,-0.421875
+, O   XXO ,8,1.875
+,XO   XXOO,4,3.0
+,O   X    ,7,2.859375
+,O   X  OX,6,-0.46875
+,O  XX OOX,2,-0.5
+, XO XO   ,0,-4.96875
+,OXOXXO   ,7,2.25
+,OXOXXO OX,6,20.0
+,X   O    ,7,19.1953125
+,X   O XO ,5,2.25
+,X X OOXO ,1,10.0
+, O   X   ,0,0.5625
+,OO   XX  ,8,1.3125
+,OO   XXXO,2,2.0
+,  X  O   ,7,-0.3984375
+,  X  O OX,1,-1.5
+, OX  OXOX,0,-1.0
+,X     O  ,8,6.3046875
+,X    XO O,2,2.25
+,XXO  XO O,7,3.0
+,     O X ,8,6.3515625
+,  X  O XO,1,0.09375
+,XOX  O XO,6,0.375
+,XOX XOOXO,3,161.5
+, X     O ,4,3.0703125
+, X XO  O ,5,1.03125
+, XXXOO O ,8,-3.25
+, XXXOOXOO,0,15.0
+, X     O ,3,2.8359375
+,XX O   O ,4,-0.96875
+,XX OO XO ,5,9.0
+,   XO    ,1,28.1953125
+, OXXO    ,8,1.875
+, OXXOX  O,0,4.0
+,O  X     ,1,6.3046875
+,OO X   X ,4,1.78125
+,OO XOX X ,2,8.0
+, OX      ,7,2.2265625
+, OX  X O ,6,-0.75
+,XOX  XOO ,3,-3.25
+,X     O  ,2,4.0078125
+,X O   OX ,4,8.0
+, OX      ,5,4.6640625
+, OX  O X ,3,2.0625
+,XOXO O X ,4,4.0
+,      X O,0,16.40625
+,O     XXO,2,1.5
+,OXO   XXO,5,5.0
+,X      O ,8,15.0234375
+,X  X   OO,5,-3.9375
+,X XX O OO,1,-2.25
+,XOXXXO OO,6,19.0
+,  X   O  ,7,2.25
+,  X   OOX,3,-4.0
+,X XO  OOX,5,-5.0
+,O      X ,4,6.7734375
+,O X O  X ,3,1.5
+,OXXOO  X ,8,9.0
+,X       O,1,2.9765625
+,XO    X O,7,-3.25
+,XOX   XOO,3,-1.0
+,  O    X ,4,5.390625
+,  O OX X ,8,288.75
+, XO OX XO,6,11.0
+, O    X  ,5,-2.8125
+, OX  OX  ,4,2.25
+, OX OOXX ,3,15.0
+,O X      ,3,10.5
+,O XO X   ,4,-3.75
+,OX  X  O ,6,1.5
+,OX  XXOO ,3,5.0
+,    XO   ,7,-13.0078125
+,    XO OX,0,0.375
+,O  XXO OX,1,2.625
+,OOXXXO OX,6,14.0
+,     OX  ,1,-3.796875
+, O  XOX  ,7,-0.75
+, O XXOXO ,2,-3.5
+,       XO,3,4.5
+, X O   XO,2,0.9375
+, XOO X XO,6,-0.25
+,XXOO XOXO,4,15.0
+, O X     ,8,-0.4453125
+, O X   XO,0,3.5625
+,OO X X XO,6,-0.25
+,OOXX XOXO,4,52.0
+,      X O,7,-4.359375
+,  X   XOO,0,-2.0
+,  O  X   ,6,7.734375
+,  O  XO X,7,1.3125
+,  OX XOOX,4,5.0
+, X    O  ,7,1.40625
+, XX   OO ,0,2.8125
+,OXX X OO ,8,5.0
+,     O  X,3,2.0390625
+, X O O  X,0,1.59375
+,OX OXO  X,7,1.875
+,  XO   OX,5,0.75
+,X XO O OX,1,-0.5
+, X O     ,7,-2.015625
+,XX O   O ,6,-4.75
+,  O  X   ,3,5.90625
+, XOO X   ,4,0.84375
+, XOOOX X ,8,11.25
+, XOOOXXXO,0,81.0
+,O      X ,1,9.421875
+,OO XO XX ,5,-3.25
+,   O  X  ,7,-4.1484375
+,   O XXO ,2,1.125
+, XOO XXO ,8,0.375
+,XXOO XXOO,4,21.0
+,  O X    ,7,-2.25
+,  O X XO ,0,3.0
+,O O X XOX,1,5.0
+,O    X   ,2,6.515625
+,O O  X  X,7,3.1875
+,OXO  X OX,3,1.5
+,OXOOXX OX,6,13.0
+,    O   X,5,33.421875
+,  X OO  X,7,5.625
+, XX OO OX,0,3.375
+,OXX OOXOX,3,29.0
+,O     X  ,5,2.4609375
+,O    OX X,4,0.03125
+,O X OOX X,3,10.0
+, X      O,2,22.828125
+, XO  X  O,7,3.9375
+, XOX X OO,6,3.0
+,  XO     ,5,0.796875
+,  XO O X ,1,0.5625
+, OXO O XX,6,3.0
+,XOXO OOXX,4,19.0
+,X O      ,8,-2.109375
+,X OX    O,5,3.0
+,  O X    ,6,-6.515625
+, XO X O  ,8,-0.1875
+, XOXX O O,5,7.0
+, X   O   ,6,-0.3046875
+, XX  OO  ,4,-1.46875
+, XX OOO X,0,13.5
+,OXXXOOO X,7,39.5
+,   OX    ,6,3.984375
+,   OX OX ,2,-5.5
+,  OOX OXX,1,-4.25
+,    X O  ,2,-6.2578125
+,  O X O X,0,23.625
+,O O X OXX,3,15.0
+,    X  O ,8,5.1328125
+,    XX OO,0,-7.53125
+,O   X    ,1,6.5859375
+,OO  X  X ,6,4.96875
+,OOX X OX ,8,0.75
+,OOX XXOXO,3,21.0
+, OX    OX,6,-3.0
+,XOX   OOX,3,-4.0
+,      X O,3,3.0234375
+,   O XX O,7,3.09375
+,  XO XXOO,0,-3.25
+,X    O   ,7,-2.0625
+,X    OXO ,2,-1.9375
+,XXO  OXO ,3,1.5
+,XXOOXOXO ,8,18.0
+,      XO ,2,4.59375
+,OXO X XO ,5,5.625
+,OXOXXOXO ,8,24.0
+,X   O    ,3,28.6640625
+,XX OO    ,2,7.96875
+,XXOOO X  ,7,2.625
+,XXOOO XOX,5,36.0
+,OX       ,3,7.1953125
+,OX O   X ,8,0.625
+,OXXO   XO,6,10.0
+, X  O    ,8,31.40625
+, X  O X O,5,3.75
+, X XOOX O,0,2.0
+,       XO,2,2.2265625
+,  OX   XO,4,3.0
+,X OXO  XO,6,6.0
+,XO       ,3,2.9765625
+,XO O    X,4,3.375
+,XO OO X X,5,9.0
+,X O      ,5,3.0
+,XXO  O   ,7,1.875
+,XXO XO O ,3,-2.75
+,    O   X,6,160.921875
+,  X O O X,3,-21.4375
+,X XOO O X,1,-0.5
+,XOXOO OXX,5,31.0
+, X     O ,8,5.25
+, X    XOO,0,1.21875
+,OX X  XOO,5,0.75
+,OXXX OXOO,4,19.0
+,       OX,0,9.796875
+,O  X   OX,2,1.125
+,O OXX  OX,5,3.375
+,O OXXOXOX,1,30.0
+, XO      ,0,6.75
+,OXOX     ,5,1.03125
+,OXOX O  X,6,1.875
+,OXOXXOO X,7,80.0
+, O  X    ,6,9.515625
+, O  X OX ,2,-0.75
+, OO X OXX,0,7.0
+,      OX ,5,2.671875
+,   X OOX ,2,2.8125
+,X OX OOX ,4,6.0
+,  O   X  ,8,29.6484375
+,  OX  X O,7,1.875
+, XOX  XOO,4,0.5
+, XOXOXXOO,0,50.0
+,  OX     ,6,7.1015625
+,  OX XO  ,0,-3.0
+,OXOX XO  ,7,-2.25
+,   O  X  ,1,-7.078125
+, OXO  X  ,8,-2.4375
+,O       X,7,5.4140625
+,O  X   OX,5,2.25
+,O  X OXOX,4,1.5
+,O XXOOXOX,1,38.0
+,X    O   ,3,-0.5859375
+,X  O O X ,8,3.65625
+,X  O OXXO,4,1.0
+,    X   O,3,1.171875
+,   OXX  O,6,6.75
+, X OXXO O,0,10.0
+, O     X ,0,5.671875
+,OOX    X ,4,1.3125
+,OOX O  XX,6,-10.125
+,OOXXO OXX,5,28.0
+, X  OXO  ,7,4.5
+,XX  OXOO ,8,3.0
+,      X O,2,10.1015625
+,  O X X O,7,1.03125
+, XO X XOO,5,11.0
+,     X O ,0,1.03125
+,O    X OX,3,-0.25
+, X   O XO,2,3.75
+, O  X    ,8,8.859375
+, O  X X O,5,-0.9375
+,XO  XOX O,3,-2.5
+,XO OXOXXO,2,30.0
+,  X O    ,5,32.625
+,  X OO  X,3,15.0
+,  O X    ,1,22.9453125
+, OO X   X,3,-4.9375
+, OOOX  XX,6,0.25
+, X   O   ,3,2.3203125
+, X O O X ,2,1.0625
+, XOO OXX ,8,5.0
+,  OX     ,0,30.609375
+,O OX  X  ,4,1.59375
+,O OXO XX ,1,14.0
+,    XOXO ,0,-4.65625
+,OX  XOXO ,3,-4.0
+, X OXO   ,6,-1.4375
+, XXOXOO  ,7,-2.5
+, XXOXOOOX,0,20.0
+,     O X ,1,3.984375
+, OX  O X ,4,4.21875
+, OXXOO X ,0,5.625
+,OOXXOOXX ,8,15.0
+,  X O    ,0,23.8828125
+,O XXO    ,6,1.03125
+,O XXO O X,1,-5.5
+,O       X,5,1.8984375
+,O   XO  X,1,-0.1875
+,OO  XO XX,3,-2.25
+,OX       ,7,8.7890625
+,OX   X O ,3,0.84375
+,OX O X OX,2,0.75
+,OXOO XXOX,4,13.5
+,   OXXO  ,8,3.9375
+,  XOXXO O,0,11.0
+, O    X  ,2,3.9609375
+, OO   X X,7,0.75
+,XOO   XOX,4,4.0
+,  X    O ,0,0.65625
+,O X   XO ,1,-4.1875
+,OOXX  XO ,5,0.0
+,OOXX OXOX,4,16.0
+, X    O  ,5,-1.921875
+, X   OOX ,0,-0.3125
+,OXX  OOX ,4,7.5
+,OXXXOOOX ,8,52.0
+,  X   O  ,1,-2.6953125
+, OX   OX ,4,1.125
+, OX OXOX ,3,-1.125
+,XOXOOXOX ,8,18.0
+,OX       ,2,6.5625
+,OXOX     ,6,0.65625
+,OXOXX O  ,5,-6.5
+,   X   O ,4,21.5390625
+,  XXO  O ,5,0.1875
+, O    X  ,7,0.0
+, O X  XO ,0,0.5625
+, O   X   ,3,3.1640625
+, O OXX   ,2,4.78125
+, OOOXXX  ,7,1.875
+,XOOOXXXO ,8,30.5
+,  O XX  O,3,1.875
+,  OOXXX O,0,9.75
+,OXOOXXX O,7,24.0
+,  X     O,4,37.21875
+,  X OX  O,7,15.375
+,X X OX OO,1,16.0
+,  O    X ,6,10.125
+,  O  XOX ,4,7.0
+,  OXXOOX ,8,6.0
+,     XO  ,8,33.5859375
+,X    XO O,4,0.09375
+,X X OXO O,3,-4.25
+,XO       ,7,1.5
+,XO   X O ,8,0.28125
+,XO  XX OO,2,1.625
+,XOO XXXOO,3,39.0
+, O      X,3,-9.046875
+, O O X  X,4,-1.625
+, O OOX XX,0,-9.0
+,  O     X,3,1.828125
+,X OO    X,1,-2.25
+,XOOO X  X,6,-2.0
+,      O X,0,6.140625
+,O X   O X,1,-0.6875
+,    O   X,2,37.21875
+,  OXO   X,0,12.75
+,O OXO  XX,6,2.0
+,XO     XO,3,0.84375
+,XO OX  XO,5,3.75
+,    XOXO ,1,-8.25
+,O X      ,6,214.4296875
+,O X  XO  ,7,0.625
+,OXX  XOO ,4,0.75
+,OXXXOXOO ,8,30.0
+,OXO    X ,8,0.75
+,OXOX   XO,4,4.0
+,     O X ,0,6.515625
+,O   XO X ,2,-3.75
+,O O XO XX,3,-7.0
+,  X O    ,7,27.046875
+,  XXO  O ,1,15.0
+,     X  O,4,9.3046875
+, XX OX OO,6,7.0
+,X      O ,4,5.2265625
+,X  XO  O ,8,1.5
+,X      O ,2,-2.859375
+,X O  X O ,8,-1.6875
+,X O  XXOO,1,-2.25
+,OXO   X  ,8,4.03125
+,OXO  XX O,4,2.0
+,O   XO  X,2,1.03125
+,OXO XO  X,7,7.875
+,OXO XOXOX,3,41.0
+, X  O    ,5,29.2265625
+,XX  OO   ,6,2.0
+,XX  OOOX ,3,4.0
+,X  O O X ,1,0.28125
+,XOXO O X ,6,1.125
+,XOXOXOOX ,8,29.0
+,X   O    ,6,24.0703125
+,X   OXO  ,1,2.34375
+,XO  OXOX ,8,11.625
+,XOX OXOXO,3,36.5
+,   O X   ,1,1.1953125
+, OXO X   ,0,-3.625
+,OOXO X X ,8,0.75
+,OOXO XXXO,4,13.0
+, O   X   ,2,36.9140625
+, OO  X X ,8,2.8125
+, OOX X XO,4,3.75
+, OOXOXXXO,0,45.0
+,    X O  ,1,4.0078125
+,XOO X OX ,5,0.25
+,    O  X ,0,25.8984375
+,O  XO  X ,2,3.0
+,O OXOX X ,1,44.0
+,  O  X   ,4,39.46875
+, XO OX   ,3,17.0625
+, XOOOX X ,6,6.0
+,X O  X O ,6,15.9375
+,X OX XOO ,8,1.0
+,O    X   ,6,7.59375
+,OX   XO  ,8,3.0
+,OXX  XO O,3,2.0
+,   OXO  X,1,-8.4375
+,    O X  ,3,214.2421875
+,   OO X X,5,59.25
+, O O X  X,6,-0.0625
+,XO O XO X,2,0.25
+,X       O,7,5.34375
+,X X    OO,4,-1.1875
+, O X     ,5,0.84375
+,XO X O   ,7,-0.6875
+,XOXX O O ,4,2.0
+,   O OX X,4,16.0
+, XO   X O,5,23.0
+,     X  O,2,3.1640625
+,  O  X XO,3,1.96875
+,  OO XXXO,1,3.0
+, OOOXXXXO,0,38.0
+,   X    O,6,8.6015625
+, X X  O O,0,0.75
+,OXXX  O O,7,21.0
+,X  O     ,7,2.25
+,X  O  XO ,2,1.78125
+,X OOX XO ,8,6.375
+,XXOOX XOO,5,34.0
+, X O     ,8,2.8125
+, XXO    O,0,-0.75
+,OXXO   XO,5,-4.0
+,  O X O X,5,-12.09375
+, XO XOO X,7,-11.25
+,   XO  OX,2,10.21875
+,  OXOX OX,0,8.25
+,O OXOXXOX,1,217.0
+,       XO,4,43.9453125
+,    O XXO,0,15.0
+, OO XX   ,7,0.84375
+,XOO XX O ,3,-5.875
+,   X    O,7,3.140625
+,   XX  OO,5,3.375
+,X  XXO OO,2,3.0
+,    XO   ,6,5.3203125
+,   XXOO  ,8,5.90625
+, X XXOO O,7,4.0
+,X     O  ,3,-3.4921875
+,X  O  OX ,1,0.09375
+,XO O  OXX,4,3.0
+,X  XO  O ,5,-4.1875
+,   XO    ,5,16.8984375
+,   XOOX  ,2,-4.5
+,  OXOOXX ,1,-4.0
+,XO       ,8,2.5078125
+,XOX     O,7,1.5
+,XOX  X OO,4,2.0
+,  O  XX O,0,6.9375
+,O O  XXXO,1,5.0
+,O XO  X  ,4,21.1875
+,O XOO X X,1,-12.0
+,  X  O   ,6,1.78125
+, XX  OO  ,3,-1.5
+, XXOXOO  ,8,-3.0
+,XOOX     ,8,-1.6875
+,XOOX X  O,7,-4.0
+,X  OXO   ,1,-6.25
+,   X    O,4,27.234375
+,   XOX  O,6,7.125
+, X XOXO O,7,7.0
+,O    XOX ,1,0.5625
+,OO  XXOX ,2,2.0
+, XO   O X,3,2.8125
+, XOO XO X,7,4.5
+,XXOO XOOX,4,22.0
+,    X  O ,1,-20.5546875
+, OX X  O ,3,-2.1875
+, OXOXX O ,6,1.0
+,XOXOXXOO ,8,20.0
+,    X O  ,0,120.0703125
+,O   X O X,2,4.3125
+,O O X OXX,5,-0.5
+,O    X   ,4,5.5546875
+,O   OX  X,3,-21.4375
+,O  OOXX X,7,-6.25
+,  O X XO ,3,-0.09375
+,  OOX XOX,5,-2.0
+, XOO O XX,4,4.0
+,O  X     ,4,38.1328125
+,O  XOX   ,7,3.375
+,O  XOXXO ,2,9.0
+,OXOXOXXO ,8,165.0
+,    X O  ,7,13.6875
+,  X X OO ,8,38.0
+,O   X    ,8,-0.046875
+,OX  X   O,6,0.3125
+,OX  XXO O,3,4.0
+,   O   X ,0,9.890625
+,O  O   XX,6,28.0
+,    O X  ,2,5.6015625
+,  OXO X  ,0,19.875
+,OXOXO X  ,8,10.0
+, OX O  X ,3,2.625
+, OXOO XX ,0,-0.25
+,OOXOOXXX ,8,33.0
+,OXOX OX  ,8,3.0
+, O   OXX ,2,-4.75
+,XOO  OXX ,3,-2.0
+, O  XX  O,3,3.5625
+, O OXXX O,0,2.0
+,OO OXXXXO,2,22.0
+,    O X  ,0,32.7890625
+,O  XO X  ,7,4.6875
+,O XXO XO ,5,6.75
+,OXXXOOXO ,8,36.0
+,    OO XX,0,-1.75
+,O  XOO XX,6,6.75
+,O XXOOOXX,1,73.0
+, XXO   O ,4,-1.0
+,XO  X O  ,2,-13.1875
+,XOO X OX ,3,-1.625
+,XX   OO  ,3,-3.9375
+,   X  O  ,8,6.84375
+,   XX O O,0,-0.1875
+,OX XX O O,5,-1.25
+,OXXXXOO O,7,28.0
+,     OX  ,7,-5.671875
+,    XOXO ,8,-11.5
+,   XXOXOO,2,10.0
+,   X O   ,4,2.390625
+,   XOO X ,1,-0.9375
+, O XOOXX ,0,-1.75
+,X O      ,3,0.6796875
+,XXOO     ,6,0.0
+,XXOOX O  ,5,-3.0
+, XO X  O ,6,-0.5625
+,XXO X OO ,3,-3.75
+,      XO ,0,0.6796875
+,O X   XO ,4,8.4375
+,O X OXXO ,3,1.25
+,OXXOOXXO ,8,36.0
+,     OXXO,1,0.0
+, O  XOXXO,3,-5.5
+, OO  X X ,0,17.0
+,X       O,2,22.78125
+,X O X   O,1,1.40625
+,XOOXX   O,5,3.0
+,O      X ,8,6.046875
+,O  X   XO,2,0.75
+,O OX  XXO,1,3.0
+,X  O     ,2,5.5078125
+,X OOX    ,8,6.1875
+,X OOXX  O,1,5.625
+,XOOOXX XO,6,34.0
+,X   O O X,5,23.625
+,X X OOO X,3,24.0
+,  O  XX O,4,0.9375
+,  OXOXX O,7,-6.0
+,X  XOX OO,1,28.0
+,XO  X   O,5,-0.28125
+, O  X    ,7,-23.2734375
+, O  X  OX,0,2.90625
+,OO  X XOX,5,-2.25
+,  O X O X,1,-5.875
+, OOXX O X,7,-2.0
+,  X O  OX,1,36.75
+, OX OX OX,3,10.0
+,       OX,1,7.6171875
+, X O     ,2,7.8046875
+, XOO  X  ,0,0.09375
+,OXOO  XX ,8,-4.0
+,X       O,4,2.390625
+,X   O  XO,2,5.71875
+,X O OX XO,1,17.25
+,XOO OXXXO,3,65.5
+,    X   O,6,1.9453125
+, X  X O O,2,0.8125
+,X O      ,4,1.734375
+,X OXO    ,6,22.0
+,  O X    ,0,21.9609375
+,O O X  X ,5,-6.0
+,O O XOXX ,3,-4.0
+,O XX  O  ,5,8.15625
+,O XXXOO  ,8,7.125
+,O XXXOOXO,1,45.0
+, XO      ,6,7.7109375
+,XXO   O  ,4,6.0
+, O X O X ,4,-0.65625
+, OXXOO X ,8,2.25
+, O   OX X,7,1.6875
+, O  XOXOX,0,0.75
+,    O  X ,6,51.3984375
+,    OXOX ,0,5.0625
+,O   OXOXX,1,-3.0
+,  XO     ,4,1.546875
+,  XOO   X,7,-1.0
+,  XOO XOX,0,-6.5
+,  X  O   ,3,-1.1015625
+,  XOXO   ,0,-8.0
+,OXXOXO   ,7,1.0
+,O X X  O ,8,-4.25
+,O X XX OO,6,5.0
+, O O   XX,4,-0.375
+,XO OO  XX,6,4.5
+,XO OOXOXX,2,24.0
+,OO   X X ,6,4.125
+,OO   XOXX,2,4.0
+,  X     O,5,-5.34375
+,  X  O XO,6,0.65625
+,  X XOOXO,3,-5.875
+,   O  X  ,0,-8.0625
+,O  O  X X,4,-3.0
+,  O     X,6,24.5859375
+,  O   OXX,3,0.75
+,X     O  ,4,3.1875
+,X X O O  ,8,-2.21875
+,X XXO O O,7,42.0
+,X    O XO,2,1.0
+, X   O   ,7,-3.0
+,XX   O O ,6,-3.9375
+,XX   OOOX,3,-6.0
+, O X     ,6,2.6484375
+, O X XO  ,7,0.5
+,XO X XOO ,8,5.0
+, X   O   ,8,1.21875
+, X   O XO,3,2.0625
+, XXO O XO,6,-6.0
+,  O X    ,5,89.1796875
+,  OXXO   ,0,4.875
+,O OXXOX  ,7,2.25
+,X  X  O O,7,1.0
+,       XO,1,9.140625
+, OX    XO,4,3.5625
+, OX O XXO,5,6.0
+, OXXOOXXO,0,40.0
+, X OX O  ,8,0.375
+,XX OX O O,2,2.75
+,XXOOXXO O,7,23.0
+,OX       ,6,25.3359375
+,OX X  O  ,2,0.28125
+,OXOXX O  ,7,-7.0
+,OXOXX OOX,5,25.0
+,OX XO    ,8,16.0
+,X OO X   ,7,0.65625
+,X OOXX O ,6,-1.5
+,XXOOXXOO ,8,33.0
+,X   O    ,5,29.71875
+,X  XOO   ,2,-0.4375
+,X OXOO  X,7,1.25
+,XXOXOO OX,6,32.0
+,      O X,1,5.3203125
+, O   XO X,2,3.5625
+, OOX XO X,7,-0.5
+,XOOX XOOX,4,20.0
+, XO  OX  ,3,1.78125
+, XOOXOX  ,8,1.0
+,    O   X,7,44.0390625
+,X   O  OX,2,8.4375
+,X O OX OX,3,2.25
+,XXOOOX OX,6,48.0
+,O   X X O,2,17.90625
+,O OXX X O,1,4.0
+,X      O ,5,-3.328125
+,X   XO O ,8,-1.6875
+,X   XOXOO,1,-7.0
+,       OX,3,-3.9609375
+, X O   OX,2,1.40625
+, XOO X OX,0,1.875
+, XO      ,4,34.546875
+,XXO O    ,7,2.71875
+,XXO O XO ,3,9.375
+,XXOOOXXO ,8,288.0
+,  O XXO  ,7,0.375
+, XO XXOO ,3,8.25
+, OX O   X,3,1.5
+, OXOO X X,7,3.0
+,XO    O X,3,-1.375
+,XOXO  O X,4,1.25
+,X     O  ,1,12.46875
+,XO  X O  ,8,38.90625
+,XO XX O O,5,3.75
+,XOXXXOO O,7,38.0
+,   O   X ,1,0.9609375
+, OXO   X ,4,-0.46875
+, OXOO  XX,0,-4.0
+,   X  O  ,1,3.4453125
+,XO X  O  ,7,2.8125
+,XO X  OOX,4,4.0
+,   O    X,2,-0.1171875
+,  OO   XX,4,-1.25
+,X OOO  XX,5,10.0
+,      OX ,3,12.5390625
+,   O  OXX,4,2.25
+, X OO OXX,0,10.0
+, X     O ,6,1.5
+, X X  OO ,0,0.75
+,OX X XOO ,8,7.0
+, O      X,0,3.375
+,OO  X   X,7,0.0
+,OOX X  OX,5,-5.25
+, X    O  ,4,26.4609375
+, X  OXO  ,2,5.0
+,X    O   ,8,0.4921875
+,X   XO  O,3,-0.375
+,X  OXOX O,2,3.0
+, OX  O X ,0,0.09375
+,OOX  OXX ,8,-3.0
+,  O     X,0,1.5703125
+,O O X   X,6,2.25
+,O OXX O X,1,31.0
+,X  OX   O,2,0.84375
+,X OOX  XO,6,-1.0
+,   XO    ,8,23.8828125
+,  XXOXO O,1,6.0
+, OXXOXOXO,0,52.0
+,  OXX  O ,1,-1.75
+, OOXX XO ,8,-6.0
+,  X  O   ,8,-0.3515625
+,  X  OX O,4,3.5625
+, XX OOX O,3,6.0
+,  OX     ,1,-0.28125
+, OOXX    ,0,33.0
+,O  XOX OX,6,0.0
+,OX XOXOOX,2,29.0
+,    O X  ,1,33.1640625
+, O XO X  ,0,12.375
+,OO XOXX  ,7,7.0
+,O     XXO,4,8.0
+,     X O ,2,4.03125
+,X O  X O ,4,4.5
+,X OXOX O ,1,10.0
+,       OX,6,-3.46875
+,X     OOX,1,-0.75
+,XO   XOOX,4,2.0
+,X  XXO OO,1,-1.25
+,  X X OO ,3,7.5
+, XXOX OO ,8,3.0
+,     XO  ,4,2.9765625
+,  X OXO  ,0,-19.4375
+,O XXOXO  ,7,-5.5
+,    XO   ,0,-5.4375
+,O X XO   ,6,8.53125
+,O X XOO X,7,1.5
+,OXX XOOOX,3,24.0
+,X  X   OO,4,-1.6875
+,   O X   ,6,5.953125
+,   OXXOOX,1,-6.0
+, O XOX   ,7,39.0
+,  OXXO   ,1,6.0
+, OOXXO  X,6,-3.5
+, OX  O  X,7,1.875
+,XOX  O OX,6,-2.0
+,    O  X ,1,16.4296875
+, O  O  XX,3,0.125
+, OXOO  XX,6,-0.25
+,  O X X O,5,16.0
+,O    X XO,4,5.0
+, O  O X X,5,-0.75
+,XO  OOX X,3,11.0
+, XO      ,5,-3.140625
+, XO XO   ,3,-2.96875
+,X XO O   ,4,8.0
+, XXO   O ,6,0.5
+, XXOX OO ,0,4.0
+,XX   O  O,3,-0.75
+,XX O O XO,6,-6.0
+,  O    X ,5,4.03125
+,  O  OXX ,0,-0.75
+,O OX OXX ,4,-2.0
+,     O  X,7,0.4921875
+,X    O OX,4,9.375
+,X   OOXOX,2,-1.25
+,XXO OOXOX,3,33.0
+,OX  X O  ,5,-4.03125
+,OX  XOO X,3,15.0
+,     O X ,3,0.328125
+,   OXO X ,2,-2.5
+,  OOXO XX,1,-8.0
+,    X XOO,3,-1.84375
+,    X O  ,5,-2.203125
+,X   XOO  ,1,0.78125
+,XO  XOOX ,2,0.5
+,XOOXXOOX ,8,26.0
+,   X   O ,0,0.4453125
+,O XX   O ,8,2.0625
+,O XXX  OO,6,8.0
+,   O  XXO,0,1.3125
+,O XO  XXO,4,10.0
+, XO O   X,3,4.3125
+, XOOO  XX,5,7.0
+,O X      ,5,12.8203125
+,O X  O  X,6,0.84375
+,O X  OOXX,4,3.75
+,O     XXO,5,0.75
+,O X  OXXO,3,-1.5
+,O   X    ,3,6.6796875
+,O  OX  X ,5,-1.25
+, O X     ,4,29.34375
+, O XO X  ,8,-7.125
+, O XOXX O,2,-6.0
+,X   O    ,1,379.8046875
+,XO  O   X,5,2.8125
+,XO XOO  X,7,6.0
+,O  O X  X,2,3.09375
+,O OO XX X,7,0.75
+,  X O  OX,3,-2.9375
+,  XOO XOX,5,9.0
+, O X     ,7,3.1640625
+, OXX   O ,6,0.0
+,XOXX  OO ,4,5.0
+,  X O    ,6,14.8125
+,X X O O  ,1,27.375
+,XOXXO O  ,8,35.25
+,XOXXO OXO,5,75.0
+, X   OOX ,3,-0.5
+,   X  O  ,7,7.4765625
+,   XX OO ,2,-17.09375
+,O   OX  X,1,-29.1875
+,OO  OXX X,3,-2.0
+,  O O XX ,5,-20.375
+,X O OOXX ,3,2.0
+, OO X X  ,8,5.8125
+, OOXX X O,7,-7.0
+, X OO X  ,8,31.59375
+, X OOXX O,2,7.125
+,XXOOOXX O,7,245.0
+, O  X    ,0,7.9453125
+,OOX X    ,7,-6.25
+,XO   OX  ,3,-1.5
+,XO OXOX  ,7,-3.0
+, X  XOO  ,0,-1.09375
+,OX  XOO X,7,4.125
+, X OXO   ,7,-1.5
+,XX OXO O ,8,-1.25
+, O  X    ,2,246.2578125
+, OO X X  ,7,2.15625
+, OO XXXO ,8,3.375
+,O  XOX   ,8,44.0
+,    X   O,7,11.5546875
+, X  X  OO,5,1.875
+, X XXO OO,2,9.0
+,X O      ,7,13.828125
+,X OX   O ,1,-1.5
+,XOOX X O ,8,-2.0
+,   O    X,4,3.515625
+,   OO  XX,6,4.125
+,X  OO OXX,1,0.75
+,X OO   X ,6,1.3125
+,X OOX OX ,8,1.5
+,X OOXXOXO,1,24.5
+, OX X  O ,6,4.59375
+, OXXX OO ,8,8.0
+, X  O O X,2,46.0
+,      OX ,8,-4.40625
+,   X  OXO,5,1.5
+, X X OOXO,0,-0.5
+,OXXX OOXO,4,19.0
+,OX       ,4,11.4375
+,OX  O X  ,2,3.65625
+,   X O   ,2,7.40625
+, XOX O   ,6,5.53125
+, XOXXOO  ,7,2.25
+, X      O,3,1.875
+, X OX   O,5,2.0
+,XX OXO  O,2,11.0
+,   X O   ,7,0.7734375
+,   X OXO ,4,-0.25
+,   XOOXOX,2,-4.25
+, X      O,6,8.25
+, X    OXO,4,2.0625
+, X  OXOXO,2,8.0
+,X   OXO  ,7,23.0625
+,X X OXOO ,8,20.0
+,     X  O,7,9.984375
+,X    X OO,3,0.84375
+,X  OXX OO,2,1.5
+,X OOXXXOO,1,27.0
+, XX    OO,3,1.5
+, XXO X OO,6,2.0
+,   X XO O,0,0.0
+,OX X XO O,4,3.0
+, XO  O  X,7,0.09375
+, XOX O OX,4,0.75
+, XOXOOXOX,0,14.0
+,  XXO   O,7,8.25
+,X XXO  OO,1,4.0
+,  O   X  ,3,3.140625
+, XOO  X  ,4,2.8125
+, XOOO XX ,5,31.0
+,O X      ,8,14.7421875
+,OXX     O,7,0.75
+,OXXX   OO,6,5.0
+,  OO X X ,4,0.375
+,  OOOX XX,1,-3.5
+,X   XO O ,1,-2.5
+,XO  XOXO ,3,-3.0
+,XX  OO   ,7,1.4375
+,XX  OO OX,2,5.25
+, X O     ,5,-1.7578125
+, X O O X ,8,0.0
+, XXO O XO,0,-4.25
+, OX X  O ,5,-1.5
+, OX XO OX,0,-6.0
+,O       X,6,8.4140625
+,O     OXX,2,3.5625
+,OXO   OXX,3,9.0
+,X   O XO ,2,-2.125
+,XXO O XO ,5,0.5
+,OX       ,5,1.59375
+,OX   OX  ,4,1.3125
+,OX  OOX X,3,13.0
+,  O   XXO,3,3.75
+,X   O O X,3,3.0
+,X XOO O X,5,6.0
+,X   O    ,2,20.6015625
+,X O OX   ,3,22.40625
+,X OOOX X ,6,21.0
+,  X    O ,3,-6.140625
+,X XO   O ,8,-1.75
+,X XOX  OO,1,-0.75
+,     XO  ,7,4.828125
+, X   XOO ,0,0.0
+,OX  XXOO ,2,-1.0
+,   O  X  ,2,1.8515625
+,X OO  X  ,1,-1.6875
+,XOOO  X X,7,-2.5
+,     O  X,1,0.7265625
+, O   O XX,6,1.125
+,XO   OOXX,2,0.25
+,XOOX OOXX,4,14.0
+,OO  X   X,6,2.90625
+,OO XX O X,2,11.0
+,XXO  O   ,3,4.5
+,XXOO OX  ,4,5.0
+,  X XO O ,8,-4.5
+,  X OXO  ,7,-19.25
+, O   OX X,2,-4.0
+,X    O   ,1,2.9296875
+,XO  XO   ,8,2.25
+,XO XXO  O,2,2.0
+,XOO     X,4,9.0
+,XOO OX  X,3,11.25
+,XOOOOXX X,7,111.0
+,   X  OXO,1,-0.9375
+, O XX OXO,2,-4.5
+,X O   O X,7,1.3125
+,XXO   OOX,4,3.0
+,   OX X O,1,-3.46875
+,   O   X ,2,0.84375
+,  OO  XX ,0,-3.25
+,OXOO  XX ,4,-3.25
+,     O  X,2,-3.0234375
+,  O  OX X,7,-2.25
+,X O  OXOX,1,-5.0
+,X O      ,1,-3.8203125
+,XOO     X,3,-2.875
+,XOOO   XX,5,-4.0
+,XO   X O ,6,-0.75
+,       XO,6,3.0703125
+,   X  OXO,2,1.5
+,  OXX OXO,5,6.0
+,     O X ,6,-1.1953125
+,OXX OOOXX,3,40.0
+,      XO ,5,1.6171875
+, X   OXO ,8,0.375
+, XX  OXOO,0,3.0
+,OXX O    ,7,2.8125
+,OXX O XO ,8,16.0
+,     X  O,6,6.234375
+,  X  XO O,7,10.0
+,   O O XX,1,1.875
+, O OXO XX,0,-0.75
+,OOXOXO XX,6,14.0
+,     O  X,6,1.875
+,    XOO X,0,6.9375
+,  OO X  X,7,-0.46875
+, XOO X OX,4,1.875
+, XOOOXXOX,0,290.5
+, O X X  O,6,0.125
+,XO X XO O,4,2.25
+,  O   X  ,4,-2.5078125
+,  O O X X,1,0.8125
+,O OX   X ,4,5.625
+,  OX     ,4,7.6875
+,X OX O   ,4,2.9375
+,O   OX X ,6,8.25
+,O   OXOXX,3,3.0
+, OX    OX,5,3.0
+, OX  OXOX,4,7.0
+, O O X X ,0,1.3125
+,OO O XXX ,8,0.75
+,   O    X,7,0.9609375
+,   OX  OX,2,-4.21875
+, O X X  O,4,0.5625
+,XO XOX  O,6,2.25
+, X O   XO,5,-0.1875
+, O     X ,3,4.2421875
+, O O   XX,0,0.0
+,OO O X XX,4,-6.0
+, X  OO  X,6,2.625
+,XX  OOO X,7,-5.0
+, XO O   X,0,1.875
+,OXOXO   X,5,2.25
+,OXOXOOX X,7,16.5
+, O    X  ,8,2.484375
+, O    XXO,0,2.0625
+,OO  X XXO,3,-1.25
+,       OX,2,2.6953125
+,X O    OX,6,-2.1875
+,XXOO O  X,7,-0.25
+,XXOO OXOX,4,15.0
+,   XO    ,0,52.2890625
+,O XXO    ,8,60.0
+, X    O  ,3,5.671875
+, XXO  O  ,0,5.0
+,XOO X    ,5,-3.4375
+,XOO XO X ,6,-3.25
+,O  X     ,5,7.3828125
+,O  XXO   ,7,1.78125
+,O  XXOXO ,2,3.75
+,  XXO   O,5,2.15625
+,  XXOO XO,0,35.0
+,    XOOX ,3,-8.5625
+, XX   OO ,5,-0.25
+, O OXXO X,7,-2.0
+,     X O ,3,6.09375
+,   O X OX,2,3.1875
+,X OO X OX,6,-1.25
+, OOX OXX ,4,-3.0
+,   X   O ,5,1.8046875
+,   XXO O ,6,-0.9375
+,X  XXOOO ,2,-4.75
+,   XO  OX,6,4.59375
+,X  XO OOX,1,1.0
+,XXOX OO  ,4,4.0
+, XX OXOO ,3,-2.0
+,   O   X ,8,4.0546875
+, X O   XO,0,-0.75
+,OX O  XXO,5,-4.0
+, X   XOO ,8,8.0
+,O O   X X,5,0.09375
+,O  XO X  ,2,5.53125
+,O OXOXX  ,1,298.0
+,      OX ,1,4.4296875
+, O  X OX ,5,6.0
+, O XXOOX ,2,6.75
+,O X  OX  ,8,12.1875
+,O XX OX O,7,-1.0
+,   X O   ,1,1.59375
+, O X O X ,2,0.5625
+, X  O  OX,2,1.125
+, XO O XOX,3,11.625
+, OO X X  ,0,41.0
+, OOXXO  X,0,21.0
+,   O X   ,0,20.2734375
+,OX O X   ,2,3.65625
+,OXOO X X ,6,1.0
+, OX      ,8,4.9453125
+,XOX     O,6,3.375
+,XOX  XO O,3,1.875
+,XOXO XOXO,4,13.0
+,X OO  X  ,8,1.59375
+,X OO  XXO,1,4.875
+,XOOO XXXO,4,12.0
+,  X     O,3,1.3828125
+,  XO   XO,5,0.0
+,  XOXO XO,0,-4.0
+,O   X X O,1,-2.125
+,OO  XXX O,7,-7.0
+,     XOOX,2,-1.125
+,  OX XOOX,0,-2.0
+,XX OO    ,8,-0.625
+,XX OOX  O,2,16.125
+,OXO X    ,3,-0.40625
+,OXOOX X  ,8,-0.625
+,   X  O  ,4,36.0703125
+,   XOXO  ,2,16.0
+,   O    X,5,8.0625
+,XO O O XX,4,3.0
+,O X O X  ,8,5.0
+,XO   O X ,2,2.0625
+, X  O O X,3,5.25
+,XX OO O X,2,13.0
+,    X  O ,6,95.4140625
+,   XX OO ,1,-20.46875
+,  XO XO  ,4,0.40625
+,  XOOXOX ,8,4.5
+, XXOOXOXO,0,41.0
+,  O   X  ,5,-1.59375
+,  O XOX  ,1,5.25
+,XOO XOX  ,8,10.0
+,X  O O X ,2,0.75
+,X OO O XX,4,1.0
+,     O X ,2,-1.21875
+,  O XO X ,0,-4.0
+,   X   O ,1,-1.453125
+, O XX  O ,2,-5.4375
+,O X    OX,3,-3.0
+,O X X  O ,5,-1.96875
+,O X XO OX,3,-1.5
+,OXXOXO OX,6,23.0
+,  X XO O ,6,0.0
+,X X XOOO ,3,-3.0
+,O     X  ,4,2.71875
+,O X O X  ,7,2.625
+,X    O   ,2,15.75
+,X OX O   ,8,1.0
+, XX  O O ,0,0.5625
+,OXX XO O ,8,-0.25
+,OXXXXO OO,6,25.0
+,  X O O X,5,112.5
+,  XXOOO X,1,84.75
+, OXXOOOXX,0,128.0
+, O  X  OX,5,-8.59375
+,X O X O  ,7,-1.6875
+,X O XXOO ,3,-2.25
+,      XO ,1,0.234375
+,XO    XO ,8,0.5
+,X O  O  X,3,-5.75
+, X     O ,2,25.59375
+,XXO    O ,4,2.71875
+,XXO OX O ,6,16.0
+, O      X,4,4.6640625
+, O  O  XX,5,-2.59375
+,  X   O  ,0,20.8828125
+,O XX  O  ,8,130.59375
+,O XX  OXO,1,78.375
+,O X O  X ,1,1.5
+,OOX OX X ,8,11.0
+,    O  X ,3,43.3828125
+,X  OO  X ,2,2.34375
+,XXOOO  X ,8,10.5
+,XXOOOX XO,6,85.0
+, OX  O  X,4,2.25
+,XOX OO  X,3,3.0
+,   XXOXOO,1,-6.0
+, O   X   ,8,4.078125
+, O   X XO,6,0.5625
+,XO   XOXO,2,4.125
+,XOO XXOXO,3,21.5
+, X    O  ,8,2.671875
+, X    OXO,3,-0.75
+, XXO  OXO,5,-2.0
+,X  O OX  ,4,4.0
+,    OO XX,6,3.9375
+, X  OOOXX,3,2.0
+,  X OX  O,6,8.625
+,  X OXOXO,1,7.5
+,  XXO  O ,6,5.34375
+,  XXOXOO ,8,1.0
+,   X  O  ,0,1.40625
+,O  X XO  ,2,-1.4375
+,    XXO O,3,28.40625
+,   OXXOXO,2,-2.375
+, X OX   O,0,0.75
+,OXXOX   O,6,10.0
+, X    OOX,4,-2.25
+,XX  O OOX,5,-4.0
+, OXX    O,7,0.5625
+, OXXX  OO,0,-6.0
+,   O   X ,4,8.015625
+,   OO  XX,5,9.5
+,   O    X,6,0.234375
+,X  O  O X,5,-1.25
+, X X  O O,5,5.625
+, XXX OO O,7,1.0
+,X    OXO ,4,-2.25
+, X      O,5,8.53125
+, X  XO  O,0,-0.6875
+,OX XXO  O,7,5.25
+,X XOO    ,5,6.0
+,XO  X O  ,5,-3.8125
+,XOX XOO  ,7,0.25
+,  O     X,5,0.7265625
+,  O XO  X,7,-29.5625
+,    OXO X,1,-4.75
+, O XOXO X,2,16.0
+,XX  O O  ,2,42.0
+, OX OX   ,7,48.5
+,O   O  XX,3,-5.0
+,   O XOX ,0,1.0
+, OX   XO ,4,9.0
+,X OOXO X ,6,-3.0
+,   X   O ,2,1.8046875
+, XOX   O ,4,2.34375
+,XXOXO  O ,8,1.25
+,XXOXOX OO,6,38.0
+,      OX ,0,34.171875
+,O X   OX ,5,4.125
+,O X  OOXX,3,2.0
+,O O X X  ,7,1.3125
+,O OXX XO ,1,6.0
+,      X O,4,26.71875
+, X  O X O,3,3.375
+, X OO XXO,2,6.0
+,XXOOO XXO,5,34.0
+,X   OX O ,1,351.0
+,  XX  OO ,4,1.3125
+,  XXOXOO ,1,8.0
+,XOO X    ,7,-4.9375
+,XOOXX  O ,8,-3.0
+,O X      ,1,-10.359375
+,OOXX     ,8,-0.1875
+,OOXX X  O,6,2.0
+,OO XX OX ,8,-2.875
+,OOXXX OXO,5,87.5
+,O     X  ,3,-3.5625
+,O XO  X  ,1,-8.5625
+,OOXO XX  ,4,-2.75
+,OO   X X ,3,0.5625
+,OO O XXX ,4,-0.25
+,X       O,6,4.0546875
+,X  X  O O,4,1.78125
+,X  XO OXO,2,24.0
+, X X OO  ,0,1.125
+,OX X OO X,7,1.125
+,OXXX OOOX,4,9.0
+,    X   O,0,10.0078125
+,O   XX  O,6,2.625
+,O X XXO O,1,-2.5
+,O       X,3,14.25
+,O  OX   X,7,2.8125
+,O  OXX OX,6,7.0
+,X   OX O ,3,3.1875
+,XX OOX O ,8,-4.25
+,XX OOXXOO,2,39.5
+,    XO   ,1,-5.25
+, OX XO   ,8,-1.3125
+, OXXXO  O,6,4.125
+,OX  X O  ,7,31.3125
+,OXX X OO ,3,19.0
+,  X O    ,1,27.5390625
+, OX O  X ,8,23.15625
+,XOX OOXXO,3,35.0
+,X   OOXOX,3,4.0
+,  X O OX ,1,-1.40625
+, OXXO OX ,8,8.25
+,  O    X ,3,-1.9921875
+,X OOX OX ,1,0.75
+,XOOOXXOX ,8,6.0
+,O    OX X,7,1.03125
+,O  X OXOX,2,2.625
+,O O  X X ,3,1.3125
+,O OO X XX,1,3.0
+,O       X,4,0.2578125
+,O  XO   X,2,-0.46875
+,O OXO X X,5,-2.25
+, XO O  X ,3,20.8125
+,XX  OO   ,2,13.6875
+,XXO OO  X,6,10.0
+,   XO    ,2,34.6640625
+, XOXO    ,7,1.96875
+, O  X    ,3,0.0
+, OXOX    ,7,-0.625
+,XOXOX  O ,6,0.5
+, X O     ,4,30.515625
+, X OOX   ,6,8.625
+,XX OOXO  ,8,-3.25
+,     OOXX,2,-0.1875
+,X O  OOXX,1,-1.25
+,   X    O,2,7.734375
+,  OX   XO,5,1.0
+,X X   O O,5,-0.15625
+,X X  OOXO,1,1.875
+,XOXX OOXO,4,8.0
+,     O  X,0,-0.5859375
+,OX   O  X,4,-1.5
+,OX  OOX X,2,-4.25
+,O  X O X ,8,4.96875
+,    O   X,0,9.84375
+,OX  O   X,3,4.40625
+,OXXOO   X,7,0.75
+,OXXOO XOX,5,31.0
+,  OOX   X,1,-0.5
+, OOOX X X,0,7.0
+,O OXO  XX,1,8.0
+,XOO   X  ,3,-1.125
+, O X     ,0,5.0859375
+,OO X    X,7,1.40625
+,OOXX   OX,4,7.0
+, O     X ,2,37.640625
+, OO   XX ,5,-1.5
+, OOX OXX ,0,3.0
+,  X OX  O,0,70.0
+,  X OO X ,0,1.3125
+,O X OOXX ,1,-4.0
+,     X O ,8,22.03125
+, X   X OO,0,1.3125
+,OX  XX OO,3,2.25
+,OXXOXX OO,6,21.0
+, OX      ,3,-0.5859375
+,  X     O,7,4.03125
+,  X   XOO,1,-0.75
+, OXX  XOO,0,-1.25
+,  XO     ,8,2.25
+,  XOXO XO,1,-2.0
+,  O  X   ,1,7.6640625
+, OOX XO X,4,5.0
+,  O  X   ,0,6.4453125
+,OXO  X   ,8,-1.6875
+,OXO XX  O,6,-3.0
+,O      X ,5,2.2265625
+,O  X O X ,6,2.0625
+,O  X OOXX,1,3.375
+,OO XXOOXX,2,30.0
+,O  O   XX,2,-3.4375
+,OXOO   XX,6,5.0
+, XXO    O,6,1.25
+, XXO  OXO,0,5.0
+,O   X O X,5,4.3125
+,O   XOOXX,2,-3.0
+,O O    XX,6,8.8125
+,O OX  OXX,5,0.75
+,OXOX OOXX,4,19.0
+, O  X X O,0,-2.25
+,OO  X XXO,5,0.5
+,X  O X O ,4,1.40625
+,X  OOXXO ,8,4.125
+,  O X O X,7,-6.59375
+,  OXX OOX,5,-5.875
+,   O  X  ,8,12.5390625
+,  XO  X O,0,-2.5
+,OO X X   ,6,-1.1875
+,OO X XOX ,2,2.0
+,OX X   O ,8,1.5
+,OXXX   OO,4,2.0
+,  XX O O ,8,-1.5
+,  XX OXOO,1,-2.0
+,XX  O   O,5,9.875
+,XX  OO XO,6,-2.25
+,XX XOOOXO,2,31.0
+,X  OX O  ,2,-2.75
+, O  XXO  ,7,-3.5
+,X  X O O ,1,-0.625
+,XOXX O O ,6,1.5
+,XOXX OOOX,4,22.0
+,XO       ,6,4.1953125
+,XOX   O  ,5,0.9375
+,XOXX OO  ,7,3.0
+,XOXXXOOO ,8,24.0
+,OX    O X,5,1.5
+,     OX  ,4,26.6953125
+,  X OOX  ,3,16.0
+,OO   X  X,3,-2.75
+,OO O XX X,2,3.0
+,XOX O    ,3,27.5625
+,XOXOO  X ,8,3.75
+,XOXOOX XO,6,36.5
+, X X  O O,7,2.0
+,OX X   O ,2,1.125
+,OXOX   OX,4,3.75
+,OXOXOX OX,6,46.0
+,  OX     ,8,5.578125
+,  OX X  O,4,0.375
+,OO X X   ,7,-1.75
+,O   X    ,2,32.953125
+,O O X  X ,3,-0.6875
+,O OOX  XX,5,-3.0
+,     X  O,3,5.203125
+,   OXXXOO,2,6.0
+, XOOXXXOO,0,21.5
+,      O X,4,9.375
+,   O X OX,6,-1.125
+, X O XOOX,2,2.25
+,O X   OX ,1,2.8125
+,OOX  XOX ,3,4.0
+,XO  XXOO ,3,-4.0
+,  XO  XO ,1,-5.5
+, OXO XXO ,8,-3.0
+, O   XO X,4,0.75
+, O  OXOXX,2,18.0
+, O X OX  ,2,-1.75
+,OX X XOO ,2,-2.0
+,      X O,5,0.0
+,X    OX O,4,-1.75
+,X X OOX O,7,-4.0
+,OXX   O  ,4,19.03125
+,OXX O O X,3,12.0
+,  OO X  X,6,1.875
+,  OO XOXX,1,1.5
+,XOOO XOXX,4,19.0
+,XO       ,4,39.2109375
+,XOX O    ,5,14.34375
+,XOXXOO   ,6,7.5
+,XOXXOOO X,7,61.0
+, XOX O   ,8,1.0
+,    O X  ,7,40.453125
+, X  O XO ,0,6.375
+,X O X  O ,5,-2.375
+,      O X,3,-1.359375
+, O X X O ,2,1.6875
+, OOX X OX,6,1.25
+,   O XO X,7,-2.0
+,   OXXOOX,0,4.0
+, X  XO O ,2,-0.1875
+, XOXXO O ,8,7.0
+,O  XOX   ,2,7.3125
+,O OXOXX  ,8,47.0
+, OX O X  ,0,1.125
+,OOX O XX ,5,-0.25
+,      OX ,2,6.984375
+,  O  XOX ,0,1.5
+,O O XXOX ,3,9.0
+,X   O  XO,5,21.84375
+,X   OOXXO,3,14.0
+,    O   X,1,16.6171875
+, O XO   X,2,3.75
+, OOXO  XX,0,4.0
+,   O X   ,8,5.6953125
+,   O X XO,6,1.78125
+,  XO XOXO,0,9.0
+,  XO X  O,7,4.6875
+,  XOXX OO,6,4.0
+, XO XXO O,3,-0.5
+, OX  O X ,6,0.84375
+,XOX  OOX ,8,1.125
+,    X   O,2,14.0625
+, XO X   O,3,-1.375
+, XOOX X O,5,10.0
+,     OX  ,2,0.1875
+,X O  OX  ,4,1.25
+,X O OOX X,1,-6.0
+,XO    X O,3,2.625
+,XO OX X O,2,4.875
+,XOOOXXX O,7,34.5
+,X   OX  O,7,2.8125
+,XX  OX OO,6,22.0
+,   XO XO ,2,5.0625
+,  OXO XOX,5,-2.125
+,    OX   ,3,57.09375
+,   OOX  X,1,-23.25
+, O OOX XX,6,-4.5
+, X O     ,0,6.3984375
+,OX O   X ,6,12.0
+, OOXO X X,5,-6.0
+,X     OXO,1,0.5625
+,XOX   OXO,4,0.75
+,XX O   O ,5,-1.5
+,XX O OXO ,4,4.0
+,   X O   ,0,25.6640625
+,OX X O   ,8,4.6875
+,OXXX O  O,6,0.75
+,  O  X OX,3,0.375
+,XO X  OXO,5,1.125
+,XO XXOOXO,2,33.0
+,  X     O,0,7.6640625
+,O X    XO,5,-1.21875
+,O XX O XO,6,3.375
+,O   O X X,5,0.125
+,OX  OOX X,7,3.0
+,OX XOOXOX,2,19.5
+,     XO  ,3,4.6171875
+,   OXXO  ,1,0.75
+,O OX  X  ,7,1.3125
+,O     X  ,8,7.21875
+,OX    X O,4,6.0
+,XOX OO X ,3,7.0
+,  X XO O ,0,-2.0
+,    XO   ,8,68.2734375
+,X   XO  O,2,53.0
+, X OX   O,6,1.8125
+, XXOX O O,7,6.0
+,X X  O O ,8,-4.0
+,X X XO OO,3,-4.0
+,O X X OOX,1,0.75
+,OOXXX OOX,5,32.5
+,X   OO  X,2,0.0
+,X O OOX X,7,-2.5
+,    OX   ,7,418.6640625
+,  X OX O ,3,-3.4375
+,  XOOXXO ,8,15.0
+,X XOOXXOO,1,64.0
+,   X  O  ,2,1.1484375
+,  OX  OX ,0,0.0
+,O OX  OXX,1,3.0
+, O  XX O ,8,-1.75
+,O  XOX   ,6,3.5625
+,OX XOXO  ,8,7.0
+,     X O ,6,6.328125
+,OX  XXOO ,8,11.0
+,O X   O X,4,-1.125
+,O XXO O X,5,11.625
+,O X XXO O,3,14.0
+,   OX  OX,1,-3.1875
+, O OX XOX,2,-0.75
+,X XO   O ,1,0.5625
+,XOXO X O ,4,1.0
+,   O OX X,1,-3.0
+, O OXOX X,0,-2.0
+,     O X ,4,25.921875
+,    OOXX ,0,-1.5
+,O X OOXX ,3,6.0
+,    X OXO,1,2.71875
+, OX X OXO,3,6.0
+,XOXOX OXO,5,39.0
+, XX    OO,6,-1.0
+,O  X OX  ,8,2.0625
+,O  X OXXO,1,3.0
+,OO XXOXXO,2,23.0
+, X OO  X ,6,3.5625
+,XX OO OX ,8,-1.5
+,   X  O  ,5,7.5234375
+,X  X OO  ,2,2.25
+,X OXXOO  ,8,7.0
+,O    XXO ,2,2.71875
+,O OX XXO ,1,4.0
+,   OX    ,7,-2.4609375
+,  XOX  O ,5,-5.0
+,  XO     ,1,1.453125
+,XOXO     ,6,0.28125
+,XOXO XO  ,4,-0.625
+, OO   XX ,0,36.0
+,   O   X ,5,6.8671875
+,XX O O XO,2,2.0
+,O X XO   ,3,-1.0625
+,O XOXO X ,8,-4.0
+,      XO ,4,36.375
+, X  O XO ,2,0.65625
+, XOXO XO ,0,3.0
+,OXOXO XOX,5,27.5
+,   X OXO ,8,-2.9375
+,  XX OXOO,4,0.5
+,O    X   ,1,5.671875
+,OO   X  X,7,-1.75
+, O X XO  ,8,-3.0
+,XO X XO O,2,0.5
+, XO OX   ,6,382.0
+,    X XOO,1,-2.71875
+, O  XXXOO,3,-3.25
+,  OXO   X,7,2.0625
+, XOXOX O ,6,16.0
+,X  O     ,4,21.0
+,X  OOX   ,7,2.25
+,X  OOX OX,6,-0.25
+,XX X OOO ,4,-4.0
+, XXOO    ,5,43.0
+,XO   OX  ,7,-0.25
+,XO  XOXO ,8,-3.0
+,O     X  ,1,36.09375
+,OO    XX ,8,3.1875
+,OO X  XXO,4,3.0
+,   X OO X,2,1.40625
+,X OX OO X,7,0.75
+,XXOX OOOX,4,24.0
+,       OX,5,2.765625
+,   X O OX,6,0.65625
+,   XXOOOX,2,-16.5
+,O       X,2,29.296875
+,O O  X  X,1,10.0
+,XX     OO,5,-0.25
+, XO      ,7,6.75
+, XO   XO ,3,1.125
+, XOO  XOX,5,3.375
+, XOOXOXOX,0,14.5
+, X      O,4,8.8828125
+, XX O   O,0,47.0
+,  XOX   O,1,-1.875
+, OXOXX  O,0,-0.5
+,OOXOXX XO,6,21.0
+,  O O X X,5,-5.46875
+, XO OOX X,0,-2.375
+,OXO  X   ,7,2.8125
+,OXOX X O ,8,0.25
+,X O      ,6,2.671875
+,X OX  O  ,7,3.5625
+,X OX  OOX,4,3.0
+,X  O     ,1,3.328125
+,XO O X   ,8,3.9375
+,XOXO X  O,4,7.875
+,XOXOOXX O,7,144.0
+,  O   X  ,7,2.3203125
+,  O   XOX,1,2.0625
+, OO X XOX,0,5.0
+,XX  OO OX,3,5.0
+,X    O   ,4,3.46875
+,X   OOX  ,2,-3.4375
+,X O OOXX ,1,-2.0
+,  O X    ,3,5.71875
+, XOOX    ,5,-1.6875
+, XOOXO  X,0,-1.5
+,XX OOXOXO,2,32.0
+, O O X X ,2,3.09375
+, OOOXX X ,0,7.0
+,   XO    ,7,35.6015625
+,   XOX O ,2,11.625
+,X OXOX O ,6,30.0
+, OXO    X,4,3.75
+,XOXOO   X,7,2.0
+,X     OXO,2,6.9375
+,XXO   OXO,3,-2.0
+,   OX    ,1,-1.7578125
+, OXOX  OX,0,-6.0
+, OX      ,0,-0.7265625
+,OOXX     ,6,-1.125
+,OOXX  O X,7,-2.75
+,X    O   ,6,1.6640625
+,X  X OO  ,1,2.8125
+,XO XXOO  ,7,-1.0
+,  XX  O O,1,-1.5
+, OXXX O O,0,-2.0
+,   O O XX,6,1.3125
+,  XO OOXX,4,3.0
+, O    XOX,2,0.0
+, OO X XOX,5,-5.0
+,OOX    X ,6,-1.21875
+,OOX X OX ,5,1.5
+,OOXXXOOX ,8,34.5
+,   X O   ,8,1.8515625
+,X  X O  O,1,-2.1875
+, XO   XO ,5,1.875
+,XXO  OXO ,4,-2.25
+, X XO  O ,8,-0.9375
+, X XO XOO,2,0.5
+,  X  O   ,1,4.1015625
+, OXX O   ,0,0.5625
+,OOXX O X ,8,1.875
+,OOXXXO XO,6,23.0
+, O     X ,6,6.3984375
+, O    OXX,5,-0.9375
+,XO   OOXX,3,-2.0
+,    XXOO ,1,-5.5
+,XO  XXOO ,8,10.0
+,  X   OOX,4,-1.96875
+,  XXO OOX,5,1.875
+, XXXOOOOX,0,29.0
+, XOX   O ,0,2.53125
+,OXOX X O ,4,1.5
+,O XO    X,7,0.125
+,O XO  XOX,5,0.25
+,OXXO OXOX,4,11.0
+, X O  OX ,0,8.0
+,OOXX     ,5,0.5625
+,OOXX O X ,4,0.75
+,OOXXOO XX,6,20.5
+, OOXX X O,5,6.0
+, OX XO   ,0,-2.84375
+,OOXXXO   ,8,-3.625
+, XOO    X,0,0.0
+,OXOO  X X,5,-1.625
+,X    XO O,1,1.875
+,     OX  ,0,1.1015625
+,OX  OOXX ,2,1.5
+,OXOXOOXX ,8,27.0
+, O     X ,5,1.265625
+, OOX O XX,4,0.5
+,XOOXOO XX,6,14.0
+,OXO    X ,6,-1.75
+,O      X ,3,10.078125
+,O XO   X ,6,12.0
+, OO X   X,0,34.0
+, X O OXOX,4,3.0
+,  O X    ,8,14.6484375
+,XOOXX   O,6,0.75
+,XOOXX OXO,5,23.0
+,  OOX X  ,1,5.53125
+, OOOXXX  ,0,18.0
+,  O  OXX ,8,5.0
+, XX   O O,4,2.8125
+, XX OXO O,0,227.0
+,XO X O OX,4,4.0
+,X XO O XO,6,0.375
+,X XOXOOXO,1,11.5
+,X   O  XO,3,0.75
+,XX OO  XO,6,-3.25
+, O XX   O,7,-4.0
+, O XX XOO,2,-5.0
+,O   X OX ,3,67.0
+,     XXOO,4,16.875
+,  X OXXOO,3,4.5
+, XXOOXXOO,0,44.0
+,OX       ,8,3.140625
+,OXX     O,3,-2.25
+,OXXO  X O,4,5.0
+, XOO X   ,0,0.5625
+,OXOO X  X,7,2.25
+,X OX   O ,5,0.375
+,XXOX O O ,6,3.75
+, XX O O  ,7,-0.71875
+,XO    O X,4,1.3125
+,XO  O OXX,5,6.0
+,XO XOOOXX,2,41.0
+,X  O     ,6,-0.234375
+,XX O OO X,4,5.0
+,  O X  XO,6,-2.9375
+,  OXX OXO,1,-2.75
+, X  O OX ,0,1.5
+,OXX O OX ,8,11.0
+, O  OXX  ,7,36.0
+, O OXX XO,6,2.625
+, OXOXXOXO,0,23.0
+,OX    O X,3,9.0
+,       OX,4,4.8046875
+,  XXO OOX,0,1.5
+,OXXXO OOX,5,23.0
+,  XXO   O,1,4.875
+, OXXO  XO,5,6.375
+,OO X   X ,6,2.25
+,OO X XOX ,4,4.5
+,OOXXOXOX ,8,26.0
+,X OXO    ,7,-0.25
+,XXOXO  O ,6,6.0
+,X O   X O,1,-10.5625
+,XOO   XXO,3,3.375
+,XOOOX XXO,5,31.0
+,OX    OX ,8,1.5
+,OX X  OXO,4,5.0
+, X  OX  O,6,4.3125
+,XX  OXO O,3,0.25
+,X    OO X,1,-0.1875
+,XO   OOXX,4,3.75
+,XO O  X  ,7,-1.40625
+,XO O  XOX,5,3.0
+,XOXO OXOX,4,18.0
+,  XO O X ,6,1.875
+,X XO OOX ,8,-4.0
+,O X      ,4,24.984375
+,OXX O    ,6,4.3125
+,OXX O OX ,5,3.75
+, O XOX   ,0,11.625
+,OO XOX X ,8,1.0
+, XO      ,3,4.6640625
+, XOOOXX  ,7,10.125
+, X   O   ,4,33.421875
+, X XOO   ,0,9.5625
+,OXXXOO   ,6,15.0
+,X O   OX ,3,-0.46875
+,OO X   X ,5,1.125
+,OO X O XX,6,2.625
+,XXO    O ,5,1.3125
+,XXO  O OX,4,3.0
+, X O X O ,8,1.96875
+, XXO X OO,0,2.25
+,OXXO XXOO,4,15.0
+,  O    X ,0,7.265625
+,O O    XX,3,0.25
+, OOX  X  ,5,-1.0
+,    O  X ,8,44.6015625
+,XX  OO XO,2,9.0
+, X OX  O ,2,-0.375
+, XOOX  OX,6,-1.25
+, O X XO  ,2,0.0625
+, OOX XOX ,8,-1.25
+,XOOX XOXO,4,16.0
+, XO      ,8,10.6875
+, XO  X  O,6,1.125
+, XO  XOXO,0,-0.25
+,OXOX XOXO,4,10.0
+,  OX  O X,1,1.125
+, OOXX O X,5,3.75
+, OOXXOOXX,0,35.0
+,X   X  OO,1,2.34375
+,XO  X XOO,3,-1.25
+,XO OXXXOO,2,12.5
+,  O XXO  ,3,4.125
+,  OOXXOX ,8,1.125
+,O  XXO   ,2,1.3125
+,O OXXO  X,1,15.0
+,X OO X   ,8,1.40625
+,XXOO X  O,7,4.875
+,O  X   OX,1,3.5625
+,OO X X OX,2,3.0
+,X  O  OX ,8,-1.21875
+,XX O  OXO,4,0.5
+,O  X     ,6,3.4453125
+,O  X XO  ,4,4.125
+,O  XOXOX ,2,12.0
+,  OX   XO,6,5.0625
+, XOX  OXO,5,2.0
+,O    XXO ,3,-0.9375
+,O  O XXOX,1,-3.0
+,XX OXO  O,7,-2.0
+,  OXXO   ,8,34.0
+,X  OXO   ,6,-2.375
+,X XOXOO  ,1,-0.625
+,   OXO  X,2,-7.4375
+, XOOXO  X,6,-2.0
+,   XO X O,5,-4.0
+,X  O X O ,8,0.75
+,X XO X OO,6,4.0
+,   OX O X,1,-3.9375
+,O  XXO   ,8,1.3125
+,O XXXO  O,1,-2.875
+,X  XOOO X,1,7.5
+, OX   XO ,0,-1.4375
+, X X OOOX,2,1.125
+, O  X  XO,3,2.53125
+,XO OX  XO,6,2.625
+,OO     XX,3,1.5
+,OO OX  XX,5,-4.0
+, O XO X  ,2,-9.25
+, OOXOXX  ,8,-10.25
+, O      X,2,15.75
+, OO   X X,0,8.0
+,    OX OX,6,-1.3125
+, X  OXOOX,2,13.0
+,X   O OX ,1,2.71875
+,XO XOXOXO,2,44.0
+, OO XX   ,8,-15.375
+,X   X  OO,6,15.0
+, OO  X X ,3,2.25
+, OOO X XX,6,1.5
+,    OX OX,2,4.875
+,  O OXXOX,3,20.25
+,X OOOXXOX,1,197.0
+,X O   O X,1,0.3125
+, X  OO X ,2,3.5625
+, XO OOXX ,0,-3.0
+, X OO X  ,7,16.21875
+, XXOO XO ,8,-4.25
+,  OXO XOX,1,19.0
+, O X  O X,7,0.375
+, OXX  OOX,5,4.5
+, X    O  ,2,5.296875
+, XOX  O  ,5,1.78125
+,  OO X  X,1,-0.1875
+, OOOXX  X,6,-0.25
+,  X O    ,3,29.1796875
+,  XOO X  ,0,2.625
+,O XOOXX  ,7,-9.0
+,  OXX O  ,1,-1.875
+, OOXX OX ,0,3.0
+,O  OX X  ,8,-4.125
+,XO  X  O ,2,-1.1875
+,XOO XX O ,8,7.125
+, O OXXX O,7,1.125
+,      X O,1,0.1640625
+, O X  X O,2,0.375
+, OOX  XXO,5,6.0
+, XO   X O,4,3.65625
+, XO O XXO,0,25.0
+, X OO X  ,0,21.5625
+,OX OOXX  ,7,1.5
+,OX OOXXOX,2,14.5
+,O   X OX ,1,5.90625
+,OOX X OX ,3,13.0
+,O  XXO   ,1,1.875
+,OO XXO  X,2,6.0
+,O O  X  X,6,2.25
+,OXO  XO X,4,1.0
+, OX  OX  ,7,-0.4375
+, OXX OXO ,0,-1.25
+, O      X,5,0.8203125
+,XO   OXOX,4,7.0
+,  X XO  O,0,-4.09375
+,O XXXO  O,6,9.0
+, OX      ,6,3.2578125
+, OX   O X,4,-3.15625
+, OXXO O X,5,3.0
+,OX OX    ,6,30.0
+,O    OX X,2,-4.0
+,   X    O,1,1.125
+, O X  X O,7,-1.25
+, OXX  XOO,4,3.0
+,  OXX OOX,0,-4.625
+,  OXX XOO,1,-3.0
+,X O  XO  ,1,1.03125
+,XOO  XOX ,8,0.375
+,     X  O,0,21.2109375
+,O X  X  O,3,1.3125
+,OXXO X  O,7,3.0
+,  XOO OXX,0,20.0
+,    X  O ,2,-4.265625
+,  O X  OX,3,-2.1875
+,  OOXX OX,0,1.5
+,  X XO O ,1,-1.75
+, OXXXO O ,0,-4.0
+, X  O    ,7,5.4609375
+,O X O   X,3,-1.0
+,O XOO  XX,5,5.0
+, XO   OX ,5,-1.0
+,  OX O  X,6,0.75
+,X OX OO X,4,3.0
+,X   O OX ,3,1.59375
+,X XOO OX ,1,3.375
+, X  OX  O,3,3.09375
+, X OOX XO,2,10.5
+,O    XX O,7,0.1875
+,O   XXXOO,3,-5.25
+,   O   X ,6,4.21875
+,   OX OX ,0,10.0
+,X OOXX O ,8,3.375
+,X    O OX,3,-1.9375
+, X   X OO,6,10.0
+,  OO   XX,0,-2.0
+,  O  XX O,3,1.125
+,  OO XXXO,0,1.5
+,OXOO XXXO,4,28.0
+,XOX O    ,7,307.0
+,X X O  O ,3,-2.25
+,X XOOX O ,1,18.0
+,   XOX O ,6,3.375
+, X XOXOO ,2,2.0
+,   XO  XO,0,15.0
+,  O XX O ,1,0.0
+,  XO X  O,1,-0.75
+, OXO XX O,7,-0.25
+,XO  XO   ,2,-2.4375
+, OXO X   ,6,-2.1875
+,XOXO XO  ,8,2.25
+,    O X  ,5,37.03125
+,   XOOX  ,1,0.5625
+, OXXOOX  ,8,-4.0
+, OXO  X  ,7,-0.25
+,XOXO  XO ,4,3.0
+,  X O  XO,6,11.4375
+,  XXO OXO,5,7.5
+,X XXOOOXO,1,115.0
+,  O X  XO,5,-0.25
+, XO XO XO,3,-29.0
+,   OOOXXX,2,27.0
+, XO OX   ,8,36.0
+, XO OXX O,3,6.75
+,O O XX   ,6,-4.0
+,OXO XXO  ,8,-3.0
+,  X   O  ,5,1.96875
+,  X  OOX ,1,1.125
+, OXX OOX ,4,1.125
+, OO  X  X,0,12.0
+,  X    O ,8,-3.515625
+,X XXO  OO,5,-5.0
+,   O  XXO,1,1.40625
+, O O XXXO,4,3.75
+, OXOOXXXO,0,57.0
+,  XOO X  ,5,58.0
+, O   X   ,6,0.3046875
+,X   OOX  ,1,-3.5
+, O X  X O,5,-0.5
+, O   OX X,4,-1.4375
+, O XOOX X,0,-1.25
+,OOXXOOX X,7,34.0
+,OX  X   O,7,1.3125
+,OXX X  OO,3,3.0
+,X X  O  O,7,-0.4375
+,X XX O OO,6,6.0
+,  OXX  O ,5,1.40625
+,  OXXOXO ,8,7.0
+,XO X O   ,6,1.59375
+,XOXX OO  ,8,1.125
+, XXO O   ,0,1.125
+,OXXO OX  ,7,-2.25
+,XO O   X ,4,0.5625
+,XO OO XX ,2,-0.625
+,XOOOOXXX ,8,29.5
+,O  X O X ,2,1.875
+,O OX O XX,1,5.0
+, O   XX O,7,0.75
+, O X XXOO,4,2.0
+,X   X OO ,8,42.0
+, O   X OX,2,2.0625
+, OO  XXOX,3,3.0
+,XOOO XXOX,4,14.0
+,O X   XO ,3,-1.9375
+,O XO XXO ,8,-3.75
+,   O X XO,2,3.65625
+,X OO X XO,6,3.75
+,     XOXO,1,2.8125
+, X  OOXXO,3,11.0
+,    XXO O,1,-9.40625
+, O  XXOXO,0,-4.25
+,  O OX X ,0,34.125
+,O O OXXX ,8,44.0
+,OX   O  X,3,4.5
+,OX O O XX,4,6.0
+, O   X OX,6,-2.25
+, O  XXOOX,2,-6.0
+,X OO    X,4,5.625
+,XXOOO   X,7,3.75
+,   OXO X ,8,-1.25
+,   OXOXXO,2,14.0
+, OOX XOX ,4,2.0
+,X  O XOOX,1,-1.0
+,O  OX  X ,6,15.0
+,X OO    X,5,0.5
+,X OO OX X,4,7.0
+,O X    OX,4,-6.90625
+,O      X ,6,33.890625
+,OX    OX ,4,10.6875
+,OX  OXOX ,3,5.0
+,  XXO O  ,0,1.96875
+,OXXXO O  ,5,2.25
+, O    X  ,4,11.34375
+,XO  O X  ,5,-2.5
+,X O  XO  ,4,5.0
+,    X  O ,3,0.4921875
+, O OX XOX,0,-3.25
+,  X OX O ,1,31.5
+,  X  XO O,4,-0.1875
+,X X OXO O,1,3.0
+,X  XO   O,6,24.84375
+,XX XO O O,7,3.0
+,   X    O,5,8.578125
+,  XX O  O,1,0.84375
+, OXX O XO,0,1.875
+,OOXX OXXO,4,19.0
+,    OX   ,8,395.3203125
+, X  OX  O,2,5.15625
+,XXO OX  O,3,1.875
+,   OXX O ,2,0.9375
+,X OOXX O ,1,-2.875
+,O  XX O  ,5,65.8125
+,O  XXOO X,2,57.0
+,O     X  ,7,1.7578125
+,O   X XO ,2,5.15625
+,O O XXXO ,1,3.0
+,O XO    X,4,-0.4375
+,OXXOO   X,5,4.0
+,O  O X X ,6,10.0
+,X OOX X O,5,10.0
+,X O   XO ,5,-0.75
+, X     O ,0,4.921875
+,OX X   O ,4,4.5
+,OX XO XO ,2,3.0
+, XO X  O ,0,1.40625
+,OXO X  OX,5,2.25
+,   O  OXX,5,3.375
+, X O OOXX,0,6.0
+,X O OX   ,6,371.0
+,   XO  XO,6,7.21875
+, XXXOOOXO,0,59.0
+,O     X  ,2,6.3046875
+,O O  XX  ,7,2.71875
+,O O XXXO ,3,1.875
+,OXOOXXXO ,8,30.5
+,XOOX XO  ,8,-1.25
+,O XX   O ,1,0.09375
+,OOXXX  O ,5,-2.625
+,   O  XOX,1,0.5625
+,XO O  XOX,2,-1.25
+, O OX  X ,2,0.0
+, X  X OO ,2,-0.1875
+, XO X OOX,0,7.125
+, O XOX   ,6,3.1875
+, OXXOXO  ,7,44.0
+, XOO XO X,0,3.0
+, XO  X O ,4,3.1875
+, XO OX OX,0,22.875
+,    O   X,3,25.5703125
+,X  OO   X,6,-1.5
+,X  OOXO X,7,-2.5
+,   X XOO ,0,-0.125
+, XOOX    ,8,-1.4375
+,XXOOX   O,7,2.25
+,XXOOXX OO,6,21.0
+,   X XO O,4,5.8125
+, X XOXO O,2,17.0
+,X   O X O,1,0.625
+,XO  O XXO,5,-2.5
+, X OO  X ,5,38.0
+,   O XOX ,4,5.34375
+,  XOOXOX ,0,15.0
+,O  X     ,8,6.1640625
+,O  X X  O,6,0.5625
+,O XX XO O,1,-5.5
+,O XO XXO ,1,-4.0
+,XOO  X   ,4,5.53125
+,XOOXOX   ,6,16.0
+,  O OX  X,3,11.71875
+,  OOOX XX,6,52.0
+,  X O  XO,5,187.96875
+,X X OO XO,6,-21.625
+,     OX  ,8,0.9375
+,    XOX O,7,1.6875
+,    OOX X,0,-3.90625
+,O  XOOX X,2,-2.25
+,OOX     X,7,-4.96875
+,O  OOXXX ,2,-3.25
+,OXOOOXXX ,8,29.0
+, XO XO OX,3,-2.625
+,XX   O  O,6,-1.5
+,XX X OO O,4,-4.5
+,X X OOX O,3,10.0
+,XX O  O  ,7,-2.9375
+,XX O  OOX,5,-3.0
+,  X    O ,4,18.0234375
+,X X O  O ,6,1.0
+,X XXO OO ,8,11.0
+,  XO X  O,0,1.3125
+,O XO X XO,6,6.0
+,   X O XO,4,8.15625
+,   XOOXXO,1,-2.0
+,O    XO X,7,-1.75
+, XX  OO  ,7,-2.90625
+,  O     X,4,9.75
+,  OXO   X,6,3.0
+,  XXO OXO,1,2.625
+,XO O   X ,5,1.59375
+,XO OXO X ,8,1.875
+,    XOO X,3,0.5625
+,   OXOOXX,0,5.0
+,    OOXX ,2,0.5625
+,X O OOXX ,8,6.0
+,OX O   X ,2,-2.5
+,  O  O XX,3,-1.5
+, XOO O XX,6,-0.5
+,      OX ,4,9.8671875
+,  X O OX ,8,1.6875
+,XO X XOO ,4,3.0
+,XXOXOO   ,6,6.0
+,O XXXO O ,1,-1.625
+, X  OOX  ,8,4.5
+, X XOOX O,2,5.0
+,XO  O X  ,3,6.0
+,XO OOXX  ,8,7.875
+, O   XX O,0,0.0
+,OOX  XX O,7,-2.5
+,   OXX O ,8,0.09375
+, XO X  O ,8,6.09375
+, XO X XOO,3,4.5
+,X  OO X  ,8,7.6875
+,X  OO XXO,1,1.875
+,XOXOO XXO,5,50.0
+,    X O  ,8,13.2421875
+,  X X O O,3,-0.375
+, O   XO X,7,-3.25
+, O X XOOX,0,-4.0
+,  OXX   O,5,13.0
+,X  X OOXO,1,0.75
+,O   X    ,6,5.9765625
+,O   X OX ,2,-7.25
+,O O XXOX ,8,-4.0
+, X XO   O,2,8.8125
+, XOXO X O,5,4.0
+,  XOX   O,7,-1.0
+,O O XXO X,1,12.0
+,O X X  O ,3,0.625
+,O XOX  OX,1,-2.0
+,O   XOXOX,1,-1.5
+,OO XXOXOX,2,22.0
+,XO   X  O,2,0.28125
+,XOO XX  O,7,0.25
+,OXO   X  ,3,-0.1875
+,OXOOX X  ,7,6.0
+,XOX X  OO,6,5.0
+,  O     X,7,4.40625
+,  OX   OX,4,2.34375
+, XOXO  OX,6,1.0
+, X OOXX O,7,7.125
+,  X  O XO,0,0.09375
+,O X  OXXO,4,3.0
+, O OXXO X,2,0.25
+, OOOXXOXX,0,17.0
+,X      O ,6,7.734375
+,X  X  OO ,1,2.0625
+,XO X  O  ,8,5.0625
+,XOXX  O O,4,3.75
+, X   O XO,6,-4.5
+, XX  OOXO,4,-1.75
+, O     X ,4,8.296875
+, OXOOX X ,6,-2.25
+, XO OOX X,3,8.0
+,   XOOXXO,2,5.0
+, XOX X OO,4,6.75
+,O    X XO,1,1.875
+,OO   XXXO,3,3.75
+, OOXX    ,6,-2.6875
+, X   OX O,3,-0.75
+, X OXOX O,0,-4.0
+,XX OXOXOO,2,20.0
+,XO X    O,6,3.09375
+,XOXX  O O,7,9.0
+, X O  X O,7,1.875
+, X OX XOO,2,4.5
+,XX  O  O ,5,-6.375
+,XX XOO O ,2,-1.0
+, O X OX  ,8,-1.0
+,  O O X X,3,-5.0625
+,     OX  ,3,0.5390625
+,X  OXOXO ,2,-2.0
+,OO    XX ,2,40.0
+, X  O  OX,3,4.59375
+, X OO XOX,0,3.375
+, XO   X O,3,5.15625
+, XOOX X O,7,1.875
+, O XO  X ,0,6.09375
+,OO XO  XX,5,-2.5
+,O O    XX,4,-4.25
+,O O OX XX,3,-12.75
+,   X O   ,6,3.234375
+,   X OOX ,1,1.6875
+, O X OOXX,4,1.875
+,   OX OX ,8,-0.4375
+,X  OX OXO,5,-7.125
+, O  XX  O,0,-1.875
+,OOX XX  O,3,-0.25
+, X OO X  ,2,19.21875
+, XOOO XX ,8,5.25
+,O XOOX X ,1,-1.25
+,O X    XO,1,3.75
+,OOXX   XO,4,10.0
+,X X   OO ,5,-0.9375
+,O O   XX ,1,2.0
+,OX     OX,2,1.40625
+,OXO  X OX,6,5.25
+,OXOX XOOX,4,15.0
+, XO X   O,5,-0.5
+,XXO OOX  ,3,6.0
+, O XXO   ,7,-4.5
+,X XOX OO ,8,5.0
+, X   X OO,3,0.0
+, XXO X OO,4,-1.25
+,XX    O O,3,-2.75
+,XX O XO O,4,-1.25
+,X      O ,1,2.484375
+,XO    XO ,5,-1.25
+, X OO   X,6,3.5625
+,XX OO O X,7,-4.25
+,  XOX  O ,0,-0.6875
+, XOO X   ,6,3.375
+, XOOXXOOX,0,21.0
+,X  OO  X ,8,0.5625
+,X  OO XXO,2,1.875
+,OOXX O  X,7,2.625
+,X  OX  O ,8,-1.21875
+,XX OX  OO,6,3.0
+,X  X  O O,2,2.0625
+,XXOX  O O,7,4.0
+,OO  X X  ,8,-0.5
+, OXOX    ,6,0.9375
+, OXOXXO  ,0,4.0
+,  X  O OX,0,0.9375
+,O XX O OX,6,2.625
+,O XXXOOOX,1,117.5
+,O   OX X ,2,20.625
+,OXO OX X ,3,9.0
+,OXOOOX XX,6,38.0
+, X  O    ,2,45.46875
+, XO O  X ,6,9.0
+,  O   OXX,0,0.75
+,O O X OXX,1,3.0
+, X   XO O,4,7.3125
+, X  OXOXO,0,5.0
+,    OOX X,2,-6.15625
+,O  O X X ,8,3.5625
+,OX O O XX,6,2.0
+,   OX X O,5,-6.0
+,O X O   X,1,-7.625
+,OOX O X X,7,9.0
+,O    O XX,6,0.5625
+,O  X OOXX,2,3.0
+,O OXXOOXX,1,42.0
+,O    OXX ,2,-1.5
+,OXO  OXX ,3,-4.0
+,O OXOX X ,6,10.0
+,XXO X OO ,5,-3.25
+, X      O,0,5.0390625
+,OX X    O,2,3.75
+,OXOX   XO,5,3.0
+,XX  O  O ,6,-4.25
+,OOX     X,5,-3.5625
+,OOX  O XX,6,1.5
+,OOXX OOXX,4,10.0
+,      XO ,8,2.3671875
+,X     XOO,5,-0.1875
+,XX   OXOO,2,1.0
+,  O XXO  ,8,-1.21875
+,  O XXOXO,0,-3.0
+,XXO O    ,5,3.0
+,XXO OOX  ,8,5.0
+,  X  X OO,4,4.5
+,X X   OO ,1,-0.9375
+,XOX X OO ,3,1.5
+,  X  OXO ,4,0.9375
+,  X OOXOX,0,1.5
+,   OO  XX,1,1.875
+,O X O X  ,5,11.0625
+,OXX OOX  ,8,5.0
+,    XXO O,2,-2.5
+, OOX   X ,5,0.5625
+, OOX O XX,6,1.5
+,  XOX   O,0,-0.375
+, O    X  ,3,0.703125
+, O O  XX ,8,2.53125
+,XO O  XXO,2,0.75
+,O XXO    ,1,6.9375
+,OOXXO   X,6,-2.875
+,  O O XX ,1,-27.65625
+, X X OO  ,4,1.875
+,XX XOOO  ,8,1.0
+,O O X  X ,1,43.0
+, OX O   X,7,14.75
+,X     OXO,4,-1.5
+,XX  O OXO,3,-1.25
+,O X  XO  ,4,0.5
+,X  OX XOO,5,-1.5
+,  O OXX  ,3,82.875
+,  OOOXXX ,8,16.5
+,X  XOO   ,1,-0.125
+,XOXXOO   ,8,-3.25
+, O  X    ,5,-8.4609375
+, O  XO X ,6,3.09375
+, O XXOOX ,0,3.0
+, OO    XX,4,-0.5
+,OO XX  OX,5,2.625
+,OX  O   X,6,1.3125
+,OX  OXO X,7,0.75
+, O     X ,8,2.53125
+,XO     XO,5,0.84375
+,XO  XO XO,3,5.25
+,XOXOXO XO,6,16.5
+, XO   O X,4,8.0
+,X  OO   X,7,3.9375
+,X  OOX OX,2,8.25
+,X X O  O ,1,17.0
+,O O X X  ,1,14.0
+,OX  OX   ,6,25.3125
+,XO  X  O ,8,0.9375
+,XOX X  OO,3,0.5
+,XOXOXX OO,6,23.0
+,X   OO X ,6,2.4375
+,X X OOOX ,8,-0.5
+,  X     O,1,2.7421875
+, OXXX  OO,6,4.0
+,OO   X X ,4,0.75
+,OO  OXXX ,8,3.0
+,O XO   X ,4,5.8125
+,O XOO XX ,8,15.0
+,   O    X,0,33.6328125
+,OX O    X,7,1.3125
+,OX O  XOX,4,4.875
+, XO   OX ,0,-0.5
+,OXO   OXX,4,3.0
+,XX    OO ,4,-0.5
+,XX  OXOO ,2,12.0
+,  OX     ,7,4.640625
+, XOXO  OX,0,1.875
+,  X O XO ,3,12.5625
+,  XOO XOX,1,20.0
+,    OXX O,7,26.8125
+, X  OXXOO,0,13.0
+, X X OO  ,2,1.03125
+, XOX OOX ,4,1.0
+, OOX X   ,4,3.375
+,XOOXOX   ,8,1.25
+,XOOXOX XO,6,41.0
+, O O   XX,5,-2.0
+,O  XXOX O,2,14.0
+, OXXO    ,6,1.59375
+,XOXXO O  ,5,7.125
+,XOXXOOOX ,8,43.5
+,XO  X  O ,3,-2.21875
+,XO OXX O ,2,-1.375
+,  OO   XX,5,-1.5
+,  OOXO XX,0,-8.0
+,X   O X O,2,-0.96875
+,XXO O X O,5,37.0
+, XX OO   ,3,11.0
+,O XOX  OX,5,-0.25
+,XX O    O,4,-3.25
+,  OO  X X,1,-1.75
+, OOOX X X,7,-2.25
+, OOOXXXOX,0,23.0
+,OO X X   ,8,-3.75
+, XO X O  ,3,-4.1875
+,O   X OX ,5,-7.59375
+,O  XXOOX ,1,8.25
+,   XOO  X,2,-1.96875
+,  OXOO XX,6,8.0
+,O   XX O ,3,0.375
+,O  OXX OX,1,-0.25
+,OO OXXXOX,2,14.0
+,XXO     O,6,3.5625
+,XXO OO  X,7,3.0
+,O  X OX  ,7,0.5625
+,O XX OXO ,8,-1.25
+,   XXOO  ,7,-1.5
+,X  XXOOO ,1,-2.75
+, XXO OOX ,4,1.0
+,XX  O  O ,8,-7.125
+,XX  OX OO,3,-2.5
+,OX  OX   ,8,9.0
+, O    X  ,0,5.0625
+,OO XO X X,5,-1.5
+,  X X  OO,3,-4.4375
+, XXOX  OO,0,-2.0
+,O X O  X ,6,2.8125
+,XO OXO X ,2,-4.0
+,    O X  ,8,35.3671875
+,   XO X O,2,-6.6875
+,  O O X X,7,11.71875
+,  O OXXOX,1,358.0
+, O X  X O,0,0.5625
+,OO XX X O,2,2.0
+, O XOX   ,8,7.3125
+,XO XOX  O,7,12.0
+,XO   O  X,7,-0.75
+,XO   OXOX,2,-7.0
+, O X   XO,6,1.125
+, O XX OXO,0,-4.625
+,XO     OX,3,1.0625
+,XO O X OX,4,7.0
+,X    XO O,3,2.625
+,X XO XO O,7,5.0
+,O O XOX X,1,10.0
+,X  O  X O,2,6.28125
+,X OO XX O,4,0.75
+, X   O XO,0,-4.0
+,OX X O XO,2,4.0
+, XX O  O ,6,-4.3125
+, XXXO OO ,8,6.0
+,   X X OO,0,2.875
+,OX X X OO,6,5.0
+, X X O  O,6,0.375
+, X X OOXO,4,3.75
+, XOX    O,7,5.25
+, XOXX  OO,6,9.0
+, OXXOXO  ,0,-2.5
+,XX OO OX ,5,3.0
+, OX    XO,5,0.375
+, OX XO XO,3,-24.875
+,  O OXX  ,1,264.46875
+, OO OXXX ,3,-28.125
+,  O   XXO,0,2.8125
+,O O  XXXO,3,5.25
+,O  OX   X,2,7.59375
+,OXOOX   X,6,9.0
+,  X OO X ,1,2.625
+, OX OO XX,3,1.0
+,X       O,5,-1.0078125
+,X   XO  O,6,4.40625
+,X X XOO O,7,5.0
+,   OO XX ,0,-3.75
+,OX OO XX ,8,7.0
+,XOO    X ,5,0.375
+,XOOX O X ,6,2.25
+,O  O X  X,4,-6.25
+,X  XOXO O,7,4.0
+, OX   OX ,3,2.34375
+, OXOX OX ,5,1.5
+, OXOXOOXX,0,26.0
+, O  X  OX,6,-8.9375
+,   X OXO ,2,0.0
+,  OX OXOX,4,-1.625
+,  OOX X  ,8,0.375
+,  OOX XXO,0,-2.0
+, X  O OX ,5,3.9375
+,XX  OOOX ,2,5.0
+,O   XOX  ,7,-1.1875
+,X    O OX,1,1.3125
+,XO X O OX,6,1.5
+, X OXO   ,2,-1.25
+,XXOOXO   ,8,6.0
+, XO OXX O,7,3.375
+,  XX OO  ,4,0.9375
+,X XXOOO  ,1,3.375
+,XO OO  XX,2,1.5
+,XOOOOX XX,6,40.0
+,  O  OX X,1,-1.1875
+, OOX OX X,0,9.0
+,      O X,5,4.734375
+, X   OO X,7,-0.65625
+, XX  OOOX,4,-0.5
+,X O X   O,7,1.5
+,X O X XOO,1,-2.625
+,   OX OX ,5,-1.0
+, OOX X   ,0,5.0
+,XXOOX O  ,7,-4.0
+, X O XO  ,8,3.5625
+,XO OX    ,6,-3.0625
+, X   XOO ,3,1.3125
+, X O XOOX,4,-1.0
+,XO OXXO  ,8,4.875
+,XOXOXXO O,7,23.0
+, X O   OX,5,-0.1875
+, X OXO OX,2,-2.0
+,XX OO    ,7,-1.28125
+,XX X OOO ,2,0.75
+, O  XXO  ,0,-2.5
+,OO  XXOX ,3,8.0
+,    OOXX ,8,33.1875
+,O  OX  X ,8,1.4375
+,O  OXX XO,2,0.5
+,O OOXXXXO,1,30.0
+, O      X,7,-3.1875
+,XO     OX,2,-0.125
+,XOOXX  O ,5,-6.0
+,   OXO  X,7,-4.1875
+,O OOXX X ,1,2.0
+,   OOX  X,6,-21.625
+,XX OOXOOX,2,25.0
+, X  O  XO,5,3.75
+, X XOO XO,0,7.0
+,X   O OX ,5,5.0625
+,X   OOOXX,3,6.0
+,OO X  X  ,8,2.8125
+,OO X  XXO,5,0.75
+,O   OXXOX,3,-8.25
+,OO   X  X,6,-1.5
+,OO  XXO X,3,2.0
+, XX  O  O,6,-4.4375
+,X O XO   ,8,35.0
+,   XO XO ,8,-7.6875
+,  OOX  X ,8,-3.28125
+,  OOXX XO,0,1.25
+,XOO  X   ,8,1.125
+,XOO  X XO,4,1.125
+,   XO XO ,5,-5.90625
+,   XOOXOX,0,1.5
+,  X O XO ,0,3.9375
+,OXX O XO ,3,3.75
+, O    OXX,3,-0.9375
+,XO O  OXX,2,-1.0
+,OX X X OO,2,-0.25
+,  OX O X ,4,0.5625
+, XOXOO X ,6,3.0
+,X  O X  O,1,2.8125
+, X  O O X,0,5.4375
+,OX  OXO X,3,6.0
+,X X O  O ,5,-0.25
+,X X OOXO ,3,5.0
+,  X XOO  ,3,2.25
+,  XOXOO X,0,9.0
+,XO XX OO ,2,-2.0
+,OX  O   X,2,6.375
+,OXO O  XX,6,13.0
+, X   O   ,0,-4.5234375
+,OX   OX  ,3,0.28125
+,OX OXOX  ,7,0.5
+,  OO X  X,4,-1.21875
+, XOOOX  X,0,16.125
+,OXOOOXX X,7,61.0
+,   X OXO ,1,-1.1875
+, O X OXOX,4,5.0
+,OXOX     ,7,2.53125
+,OXOXX  O ,5,2.625
+,O OX  OXX,4,6.0
+,XXO O    ,8,7.96875
+,XXO O  XO,5,9.0
+,O    O XX,4,0.5
+,OX  OO XX,3,8.0
+, O  OX  X,7,327.5
+,O X  XO  ,1,3.5625
+,X X OO   ,1,6.75
+,XOX OOX  ,7,5.0
+,XOO    X ,3,1.59375
+,XOOO  XX ,5,2.0
+,XOOOXOXX ,8,19.0
+, XO O X  ,8,30.46875
+, XO XO OX,0,2.25
+,O OX X   ,8,-2.5
+, X  O  XO,6,2.0625
+, XO O X  ,5,5.4375
+,O  O X  X,1,0.0
+,OO OXX  X,7,-2.25
+,OX O XXO ,2,1.125
+,  O XOOXX,0,0.25
+,  O   OXX,4,7.0
+,OX  X  O ,3,3.28125
+,OX OX XO ,2,5.25
+, OX    XO,0,1.125
+,OOXX   XO,6,0.75
+, O  XO  X,0,5.4375
+,OO  XO XX,2,2.0
+, OOX   X ,8,6.1875
+, OOX  XXO,0,3.0
+, X XO OOX,0,0.75
+,X OX  OOX,5,-0.5
+,O     OXX,3,12.0
+,OOX  X   ,8,1.3125
+,OOX  X XO,4,5.0
+,OXXXO  O ,6,1.875
+, O  O  XX,2,-2.1875
+,XOO  XX O,3,1.5
+,X  X   OO,6,21.0
+,OX O    X,5,1.78125
+,OXXO O  X,4,2.0
+,XX OO    ,6,5.625
+, XX  OO  ,0,2.625
+, XOX   O ,8,3.5625
+,  OXO XOX,0,3.375
+,X     OOX,3,-0.0625
+,XX O  OOX,4,3.0
+,O  X X O ,2,-4.0625
+,X  XO   O,1,-6.15625
+,O   OX X ,1,1.3125
+,OOX OX X ,3,-3.25
+,      O X,7,-1.9453125
+,     XOOX,3,-0.75
+,   OXXOOX,2,-3.5
+, XOO  XXO,0,-1.75
+,    X   O,5,56.34375
+,X   XOXOO,3,1.25
+,XX  OOO X,3,11.0
+,XXO     O,7,2.90625
+,XXOX   OO,6,9.0
+,OX   O X ,3,-1.75
+,XO O XXO ,4,2.0
+,X  XOO XO,2,12.0
+, O X  XO ,2,2.75
+, OOXX XO ,0,5.0
+, XOX O   ,7,1.59375
+,XXOXXOOO ,8,19.0
+,   O OX X,2,-0.875
+,X OO OX X,7,-1.0
+,  X OXO  ,1,-30.46875
+,O O  X X ,4,0.75
+,O O OX XX,1,52.0
+,X X  OXOO,4,-8.0
+,  OXX   O,7,-0.4375
+, XOXX  OO,0,2.0
+,OXOXX XOO,5,15.0
+,X  X  O O,1,5.4375
+, O    XXO,3,0.84375
+, O OX XXO,0,2.25
+,   OX  OX,0,4.03125
+,OX OX  OX,6,8.0
+, O X  XO ,5,-1.5
+,OO X    X,6,1.59375
+,XOXO X  O,6,1.125
+,X O OX XO,6,277.0
+,  X O O X,7,-3.875
+,X X O OOX,5,-1.75
+,X XXOOOOX,1,24.0
+,O   OXX  ,2,4.5
+,O O OXXX ,3,-2.5
+,XOO   X  ,4,-3.90625
+,XOO O X X,3,-2.0
+,X    XOO ,2,2.0625
+,X OX XOO ,1,0.75
+,   XOX O ,0,2.8125
+,O XXOX O ,6,-3.75
+,      XO ,3,3.515625
+,   O XXO ,4,2.4375
+, X OOXXO ,2,24.375
+,X    XO O,7,10.0
+,X     OXO,3,0.375
+,  O X  XO,3,-0.59375
+,  OOXX XO,1,1.5
+,OX   X  O,3,4.21875
+,OX O X XO,4,6.0
+,  XOXO   ,7,-6.1875
+,  XOXO OX,0,-1.5
+,X  O   OX,6,-1.9375
+,X  O XOOX,4,-1.25
+,XOO  X   ,6,-0.75
+,XOO  XOX ,4,3.0
+,  XXOO   ,1,5.0625
+, OXXOOX  ,7,11.0
+, O  OX X ,8,18.9375
+, O XOX XO,0,8.0
+,O  O XX  ,4,1.40625
+,O  OOXX X,2,-3.875
+,O X   X O,3,-2.25
+, XXOXO O ,8,-3.0
+,XO  O X  ,2,-3.5
+,O  X     ,7,4.3828125
+,O XX   O ,4,5.4375
+,O XXO  OX,5,3.75
+,   OX    ,2,-1.9921875
+,X OOX    ,7,-0.28125
+,X OOX XO ,5,-0.5
+, X  OO X ,0,3.5625
+,OX XOO X ,8,8.0
+,  XOXXOO ,1,-0.25
+, XX O  O ,0,25.875
+,OXX OX O ,3,-5.0
+,  X OX O ,8,3.5625
+, XX OX OO,3,-1.5
+, XX OOXO ,8,-1.5
+, OX   O X,0,1.25
+,OOX X O X,3,8.0
+,OOX   XOX,3,-2.0
+, O XOXO X,7,9.0
+,   OXOX  ,8,-8.5
+,   OXOXXO,0,-5.0
+, O OX X  ,2,2.90625
+,XOOOX X  ,7,1.25
+,OX   O X ,6,-0.1875
+,OX   OOXX,2,-3.25
+, X  OO  X,3,20.0
+,OX   X O ,2,1.96875
+,OXO  XXO ,3,1.125
+,OX     OX,3,3.28125
+,OX O  XOX,5,1.5
+,   O X OX,1,-2.75
+, O O XXOX,4,2.0
+, XXO  O  ,7,-0.4375
+,  OXOOX X,1,-7.0
+,  OX     ,5,4.8984375
+,  OX OX  ,1,0.3125
+, OOXXOX  ,0,3.0
+,   OOOXXX,0,5.0
+,  X   O  ,8,6.984375
+,  X  XO O,0,2.25
+,OXX  XO O,4,1.0
+,XO  OX   ,7,74.0
+, X O O  X,2,-1.21875
+,OXOOXOX X,7,12.5
+,  XX O O ,0,0.375
+,O XX OXO ,4,6.75
+,   OO XX ,5,54.25
+,  O XO X ,3,-0.375
+,  OOXOXX ,1,0.75
+,  O OXXOX,0,22.875
+,OX  OXOX ,8,16.0
+, OXX O   ,8,-0.9375
+, OXXXO  O,0,-2.875
+,XO  O X  ,7,48.0
+,XOX    O ,3,-0.1875
+,XOXO X O ,6,0.5
+,OX X  O  ,5,-0.09375
+,OX XXOO  ,2,-6.25
+, O X  OX ,2,0.375
+, OOXX OX ,8,-0.5
+,O X  X  O,7,0.75
+,O X XX OO,3,-4.25
+,X O X   O,6,3.5625
+,X OXX O O,7,5.0
+, X X O O ,4,-1.6875
+,XX XOO O ,6,-1.5
+,OO  XX OX,2,7.0
+,O XXX  OO,1,-3.0
+,XOX O    ,8,14.625
+,XOX OX  O,7,22.0
+,    OOX X,1,-6.25
+,X   OO  X,7,0.75
+,X   OOXOX,1,8.0
+,X       O,3,3.75
+,X XO    O,4,-0.6875
+,X XOO X O,1,1.5
+,O O XXXO ,8,-0.25
+,OXO XXXOO,3,17.0
+,OXX  O   ,7,-0.1875
+,OXX XO O ,3,0.5
+, OX X   O,7,-2.0
+,  X X OO ,5,4.875
+,  XXXOOO ,8,21.0
+, X  OX O ,6,4.125
+,OXO   X  ,5,0.0
+,OXO  OXX ,4,-2.25
+,XXOX OO  ,8,2.0
+,X   XO  O,7,3.75
+,X X XO OO,1,-1.25
+,  X   O  ,3,2.2734375
+,X XO  O  ,5,-1.125
+,X XO OOX ,1,1.125
+,  XOOXXO ,0,-3.5
+,  OOXO XX,6,-8.0
+,O  XXOXO ,1,-0.75
+,    OXXO ,2,5.8125
+,X O OXXO ,8,-347.125
+,  O    X ,8,5.6953125
+, XO    XO,0,2.625
+,OXO   XXO,3,1.5
+,       XO,0,3.0234375
+,O     XXO,3,1.125
+,OX O  XXO,2,1.5
+,X   OOX  ,3,37.0
+, X OXXOO ,0,3.0
+,XX XO  OO,2,-0.5
+,X X O   O,7,-2.5
+, O  XOX  ,3,-3.25
+,XOXX O  O,7,-2.25
+,XX OX O O,5,-1.0
+,  X OO  X,6,4.03125
+,X XO O   ,6,-1.75
+,XOO X X O,3,11.625
+,X    OOX ,2,1.875
+,X O XOOX ,8,12.0
+,XOXOO   X,6,-3.25
+,  OX  OX ,5,3.0
+,  OX OOXX,4,1.0
+, O  X O X,3,0.5
+, O OX OXX,2,-3.0
+,OXX O    ,3,2.25
+, O OX X  ,8,-4.09375
+, OXX  O  ,7,1.125
+,XOX     O,5,-1.5
+,XOX  OX O,7,-4.0
+,X OXO  OX,5,-2.0
+, X    O  ,0,7.6640625
+,OXX X OO ,5,5.25
+,OXXXXOOO ,8,40.0
+,O  OXX OX,2,1.5
+,OXXO     ,5,-1.5
+,OXXO O X ,8,-1.25
+,   XXOO  ,1,-1.03125
+, XOXO    ,6,11.0
+,X  O  XO ,8,0.375
+,XX O  XOO,5,-2.0
+,OX   OX  ,2,-0.1875
+,O X  X  O,4,16.0
+,OXO    X ,3,-1.1875
+,  XXO O  ,7,2.71875
+, XXXO OO ,5,-0.5
+,X  OO   X,2,4.6875
+,X OOOX  X,1,32.25
+, O X  X O,4,-3.25
+, O XOXX O,0,39.0
+,O X  OX  ,3,-2.25
+,O XO OXX ,1,-2.0
+,     XO  ,0,10.59375
+,O    XO X,1,-1.5
+,OO   XOXX,4,-2.25
+,XO  O  X ,5,2.90625
+, O  XO  X,3,-0.9375
+,O   X  XO,6,-1.90625
+, XO X  O ,5,3.09375
+, XOXXO O ,6,1.875
+,O X OX   ,1,-0.9375
+,X OOOXXXO,1,95.0
+,X  X   OO,2,-8.5
+,XXOX   OO,4,-1.25
+,    XX OO,6,15.75
+,X O XO   ,3,-2.1875
+,X  XOXOO ,2,14.0
+,  O  X   ,7,0.9140625
+,  O  XXO ,8,2.53125
+,  OX XXOO,4,-0.75
+,    X OOX,3,-5.1875
+,  XOX OOX,5,0.5
+,  X O OX ,3,1.3125
+, XXOO OX ,8,-1.25
+,OXXOOX   ,7,-4.25
+, O  O X X,3,2.5625
+,    OXOX ,3,7.21875
+,O   O XX ,2,1.0625
+,   OX X O,2,15.46875
+,  OOXXX O,7,3.0
+,  X   OXO,3,-0.75
+,O    XXO ,8,-0.1875
+,OX   XXOO,2,3.0
+, O  X O X,0,7.59375
+,OO  XXO X,2,9.0
+,OX     OX,6,0.84375
+,OX X  OOX,2,2.25
+, O  X  OX,3,-12.3125
+, OO X  X ,6,2.625
+, OO X OXX,3,-1.25
+,    OOXX ,1,-4.1875
+, O XOOXX ,8,-0.5
+,OO  X  X ,3,1.125
+,OO OXX X ,8,1.5
+,  OOXXO X,0,1.0
+,     XOXO,3,7.59375
+,   OXXOXO,0,31.0
+,O X    OX,5,8.25
+,O XX O OX,4,8.25
+, XO XO   ,6,-6.96875
+, X  OO X ,3,12.0
+, XO  XO  ,0,0.375
+,OXO  XOX ,8,-3.25
+, O   X OX,3,0.5625
+, O O XXOX,2,2.25
+, XX O OOX,0,-9.375
+,   OXOX  ,0,-5.40625
+,O  OXOX X,1,-5.0
+,OO     XX,5,-2.4375
+, XO  O X ,0,-2.25
+,OXO  O XX,3,-2.0
+, OO XX   ,6,-19.46875
+,XOO XXO  ,3,-5.625
+,  OOX   X,7,-0.90625
+,X   OO  X,3,20.0
+,   XOXOOX,0,1.0
+,O O  X  X,4,-1.96875
+,O O OXX X,3,-45.75
+, X   O OX,2,-0.65625
+, XOX O OX,0,1.875
+,   OX  XO,1,3.375
+, O OX XXO,5,1.5
+,OXO   XXO,4,2.0
+,OXOOX XOX,5,24.0
+, OO X   X,7,-2.0
+, OO XX OX,0,9.0
+,XOO X XO ,3,2.0
+,O OX  X  ,5,2.34375
+,X   X O O,3,4.03125
+,X  OX OXO,2,-7.25
+,OXX     O,5,-0.1875
+,OXXX O  O,7,6.0
+,X XOOX O ,8,-6.5
+, XO  X  O,3,-0.46875
+, XOOXX  O,0,-6.0
+,O O   X X,4,-1.5625
+,O O OXX X,7,235.5
+,OXO OXXOX,3,454.5
+,XOX O OX ,8,3.0
+,XX  O O  ,3,-2.1875
+,  OXXO   ,7,5.15625
+,X OXXO O ,6,0.75
+,O    XXO ,4,0.75
+,OX  OXXO ,8,9.0
+,   XOX O ,8,6.5625
+, X XOX OO,0,11.0
+,XO X   O ,4,2.0
+,X   X O O,1,1.03125
+,XOX X O O,7,56.0
+, XXO O   ,6,-0.75
+,O  XX O  ,2,-14.3125
+,O OXX O X,7,-6.75
+, XXO O OX,4,7.0
+, O XO X  ,5,-7.4375
+,X  XXOO O,1,6.0
+,  XO     ,6,2.578125
+,  XO  O X,0,1.0
+, XXO XOO ,8,3.0
+, OX  OX  ,3,1.3125
+, OXO OXX ,4,2.0
+,O  X X O ,4,3.0
+,   XOXO  ,1,44.8125
+, OX X OOX,0,0.875
+,  O     X,1,7.359375
+, OXOO  XX,5,6.0
+,O X O X  ,3,-2.25
+,X XOXO O ,1,-6.0
+, OOX  X  ,4,-4.0
+,     XOXO,0,1.5
+,O   XXOXO,3,10.0
+,XX  XO OO,6,9.0
+,  O   XXO,4,0.0
+,  OXO XXO,1,-24.25
+,X  OX  O ,6,0.25
+,X  OXXOO ,8,3.0
+,   OX    ,0,21.9140625
+, XX  O  O,4,-3.75
+,XXOOOX   ,8,32.625
+,O X XOO X,3,9.0
+,  OX O  X,1,0.5625
+, X O XO  ,4,1.3125
+, XXOOXO  ,8,1.75
+,OXO XXOOX,3,21.0
+, X     O ,5,2.53125
+,  XO X O ,1,-1.5
+,OX    X O,2,1.03125
+,OXO  XX O,3,1.125
+, O   X   ,7,1.4296875
+, O   X OX,0,-1.0
+,OO X X OX,4,1.0
+,   OOX  X,7,-19.84375
+,   OOXXOX,0,-7.625
+, O O   XX,2,-0.9375
+,X O X   O,3,1.3125
+,O    XX O,1,1.125
+,OO X XX O,2,7.0
+, XO X O  ,0,-1.5
+,OXOXX O  ,8,-9.0
+, XO X O  ,5,-3.25
+, XO XOO X,3,-11.0
+,X O XO   ,7,-3.25
+,OX  X XOO,5,-2.75
+,OX XXOXOO,2,12.0
+,OXX  OX O,7,0.5
+, XX O OXO,5,1.25
+, O XXOXO ,0,-2.5
+, O  X XO ,0,-3.0
+,O XOO X X,7,-5.0
+, OXXOXO  ,8,11.25
+,  OXO X  ,5,0.875
+,  OXOOX X,0,-3.25
+,O  XO   X,1,8.25
+,OO XOX  X,7,12.0
+,  OO X X ,6,6.9375
+,  OOXXOX ,0,6.0
+,XO OX    ,5,-4.75
+,X OOX OX ,5,-5.0
+,  XOOX   ,0,-4.625
+,OXXOOX   ,6,8.0
+,    O  X ,5,35.6015625
+,XOO  X   ,7,0.5625
+,XOOX X O ,6,-0.5
+, X  O O X,5,4.875
+, XX OOO X,7,-2.875
+,   X O OX,2,1.6875
+,  OX OXOX,0,3.375
+,OX     XO,3,-3.5
+,X O X XOO,5,10.0
+,  XX O  O,6,0.28125
+,  XX OOXO,0,1.5
+, OX  XO  ,4,0.03125
+,O  OXX   ,2,1.125
+,  X XO  O,7,-2.75
+,   OOXX  ,7,23.34375
+,X  OOXXO ,2,1.875
+, XO XXOO ,8,3.0
+,XOO XXO  ,8,-4.625
+,X   X  OO,3,2.71875
+,X  OXX OO,6,5.0
+,   XOX O ,1,35.0
+,O  X  XO ,5,2.53125
+,X XO  O  ,8,-1.71875
+,O XO    X,1,0.5
+,OOXO   XX,6,6.0
+,    XXOO ,2,1.5625
+, XX  OO  ,8,-4.25
+,  OOXX   ,1,3.75
+, OOOXXX  ,8,2.25
+,O X    XO,6,2.53125
+,OXX   OXO,4,7.0
+,X O X OXO,1,3.75
+,XOX OXO  ,7,22.0
+,OX X OOX ,8,-0.25
+,X O    XO,4,3.75
+,X      O ,3,-2.2265625
+,X  OX  O ,1,-0.9375
+,XOXOX  O ,8,-1.0
+,XOX     O,3,0.5625
+,  OX XOXO,4,4.0
+,  X O  OX,6,-6.65625
+,   X   O ,6,5.25
+,  XX  OO ,1,0.75
+, OXXX OO ,0,-4.625
+,   XX  OO,2,-2.9375
+,     XO  ,2,0.46875
+,XXO   O  ,5,1.875
+,XXO  OOX ,3,1.25
+,XXOO OOXX,4,9.0
+,O X OO XX,1,-0.875
+, OXXOX  O,6,5.25
+,X OXXO O ,1,-3.0
+,  XO  OX ,0,7.0
+,XO  OX XO,6,4.875
+, X  XO  O,6,-6.25
+, XX XOO O,0,-3.0
+,XX    O O,2,1.5
+,XXO   OXO,4,3.0
+,O  OX X  ,2,5.53125
+,  XOO   X,6,-0.25
+, XXOO O X,5,14.0
+, XO  XXOO,4,1.875
+,X  X OO  ,4,1.96875
+,X  XOOOX ,8,14.625
+,  OX  X O,1,-1.75
+,OOX OXX  ,3,1.5
+,XO   X  O,6,1.78125
+,O   O  XX,2,-2.0625
+, XO  OX  ,4,-0.46875
+,O  O X  X,6,26.0
+,X  OXO   ,7,-6.25
+,X  OXOXO ,1,-6.0
+,O    XOX ,2,10.5
+,O XX    O,5,6.65625
+,O XX O XO,1,4.5
+,O  X   OX,6,0.28125
+,   OXX  O,2,0.09375
+,  X OOXXO,0,28.0
+, O  OXX  ,8,7.59375
+, OX OXX O,0,32.0
+, O O X X ,4,0.84375
+,XO OOX X ,2,3.375
+, OXOX O X,0,7.0
+, O  O XX ,2,-0.25
+, OO OXXX ,0,299.0
+,XO XXOO  ,8,9.75
+,    O XXO,3,4.40625
+,   OOXXXO,0,42.0
+,OXX O O X,5,4.5
+,OOX   XOX,5,-2.0
+,   XO  OX,5,2.4375
+, X XOO OX,0,3.0
+,OXXXOO OX,6,43.5
+,XXOXO   O,5,6.0
+,   XOO X ,2,0.375
+, X OX O  ,2,-2.9375
+, XOOX O X,0,5.0
+, OXX  O  ,0,0.375
+,OOXX  OX ,5,1.5
+,OX X O   ,6,1.40625
+,X OO X   ,1,0.9375
+,XOOO XX  ,8,0.75
+, X   XOO ,2,2.0625
+, XO  XOOX,0,0.75
+, O  XOX  ,2,4.3125
+, OOXXOX  ,8,7.0
+, XO OOXX ,3,2.0
+, O O  X X,4,-0.1875
+, O OOXX X,7,10.0
+, O X XO  ,4,8.25
+,XO XOXO  ,8,13.5
+, OO  XXOX,0,1.0
+,O   X    ,5,-0.796875
+,O   XO X ,8,-6.25
+,X O X O  ,1,-5.75
+,O O   XX ,5,0.75
+,XOOO X  X,4,2.25
+,XO  O  X ,2,-2.8125
+,XOOXO  X ,8,-5.5
+,X  XO  O ,2,-2.375
+,  O   XXO,5,7.0
+,O OX    X,4,2.4375
+,OXOXO   X,7,1.125
+,XO  X  O ,5,-2.25
+,XO   OX  ,4,-1.9375
+,XOX OOX  ,8,-1.25
+,X  O   OX,1,0.25
+,XOXO   OX,4,5.0
+,  OO  XX ,4,-2.25
+,X OOO XX ,5,23.0
+,       XO,5,5.953125
+,  O XO X ,6,1.625
+,  O OX  X,7,19.3125
+,X   OO X ,2,2.25
+,X O OO XX,1,-0.25
+,  XXOO   ,8,0.84375
+,X XXOO  O,7,-3.0
+, X  OOX  ,7,0.375
+, X XOOXO ,8,-0.75
+,O X   OX ,3,36.0
+,X O  X  O,7,-0.46875
+,X O  XXOO,4,-4.0
+,XXOOX O  ,8,-1.5
+,   XO    ,6,267.9609375
+,   XOXO  ,8,10.5
+,X  XOXO O,1,9.0
+,OO  X  X ,5,0.28125
+,OOX XO X ,8,-0.875
+,O XXOXO  ,8,18.0
+,  XXXO OO,1,-4.0
+,O X   XO ,5,-3.1875
+,O X  OXOX,4,8.25
+,  OOX  X ,5,-6.9375
+,    OX XO,6,9.375
+,  X OXOXO,3,7.125
+,X XOOXOXO,1,29.0
+,O  X OX  ,4,3.09375
+,OX XOOX  ,8,3.0
+,OX  XO   ,7,1.03125
+,  OX O  X,7,3.5625
+, XOX O OX,6,1.125
+,  OX OX  ,0,0.28125
+,OXOX OX  ,4,1.125
+,  OXOX   ,7,25.3125
+, O O XOXX,0,3.0
+,X  O OX  ,1,-1.5
+,XO O OXX ,4,2.0
+, X O XO  ,0,1.0
+,  OO X X ,8,0.84375
+, XOO X XO,0,2.25
+, X   XO O,2,2.0625
+, XO XXO O,0,-3.0
+,O  X     ,2,5.3671875
+,O OXX    ,5,18.9375
+,O OXXO X ,6,-0.25
+, O  X OX ,3,2.53125
+, O OXXOX ,0,7.0
+,X  X OOOX,4,0.75
+,  X XO  O,6,4.96875
+,  XXXOO O,1,1.875
+,XOO XO X ,3,0.5
+,O OOX  XX,1,7.0
+,O XO    X,6,15.0
+, O   XO X,3,0.5625
+,XOO  XO X,3,0.75
+, XX OO   ,7,-2.65625
+, O XO   X,7,8.0
+, XOO   X ,4,4.6875
+, XX O O  ,8,-0.5
+,   XO OX ,0,23.15625
+,OX XO OX ,8,2.0
+,OX   O X ,8,1.25
+,OX   OXXO,2,3.0
+,   X XOO ,2,-0.25
+,    OXX O,1,233.71875
+, O  OXXXO,0,214.0
+,O O XXO X,7,-2.5
+,   O X   ,4,-2.7421875
+,   OOX X ,2,5.4375
+,XOXX OO  ,4,3.375
+,X X XOOO ,1,-1.25
+,OX  O  X ,8,2.0
+, X OO XOX,2,3.375
+,  OX  OX ,8,-0.75
+,X OX  OXO,5,6.0
+,OXX OO X ,6,0.75
+, X O   OX,4,2.53125
+,  OXOX   ,8,18.9375
+,X OXOX  O,1,-6.0
+,X XXO  OO,6,12.0
+, OO  XX  ,4,1.78125
+, OO OXX X,7,43.0
+, XXO O   ,7,0.875
+,XO    X O,5,-2.6875
+, OX OX OX,6,58.0
+,O  X X  O,2,-2.625
+,O OX X XO,6,-0.5
+,XO  O   X,7,27.0
+,XOOOXX   ,7,-1.5
+, O   XOX ,3,0.84375
+, O OXXOX ,8,0.75
+,XO OXXOXO,2,20.0
+,O    XOX ,4,0.75
+,O   OXOXX,2,23.0
+,OO XX OX ,5,1.5
+,OOXX  X O,7,-3.0
+,  XO X  O,6,0.5625
+,X XO XO O,1,0.75
+, X   XOO ,4,-0.75
+, X  OXOOX,3,-4.0
+,O X OXXO ,1,11.0
+, O   X   ,4,11.953125
+,OO XOXX  ,8,2.0
+,   XO X O,1,-3.5
+, O XOXX O,7,11.0
+,  X OXO  ,8,241.96875
+,OXOOX   X,5,-3.0
+,X     OXO,5,0.09375
+,X X  OOXO,4,-0.625
+,   X OO X,4,3.9375
+,O X  O  X,4,0.375
+,OXX OO  X,6,1.5
+, X  O  OX,5,0.28125
+,  XXXOOO ,0,1.875
+,   X OX O,4,0.3125
+,   XOOXXO,0,27.0
+,XXO O  OX,5,6.75
+,X XO   O ,6,-0.25
+, OX    XO,3,1.125
+, OXO  XXO,5,0.75
+,XOXO OXXO,4,13.0
+,  XXOO   ,0,0.84375
+,O XXOO  X,7,18.75
+,XOX XO  O,6,5.625
+,O  X X  O,1,1.8125
+,X  O O  X,7,1.125
+,OXO  O XX,6,-1.0
+,O X   O X,7,-0.9375
+,OXX   OOX,5,1.125
+, XO O  X ,8,8.0625
+, XO OX XO,3,3.75
+,XOO O  XX,3,2.5
+,   OX  XO,2,-2.1875
+,O  O  XX ,8,0.9375
+,O  O XXXO,4,7.0
+,X    OOX ,1,0.65625
+, X  XO  O,7,19.875
+,O    XX O,4,23.0
+,OXO     X,7,0.5625
+,OX  X O  ,8,2.25
+,OX XX O O,7,7.0
+,X   OXO  ,8,4.6875
+,X   OXOXO,3,10.125
+,O X  O X ,4,0.75
+,OXX OO X ,3,6.0
+,    XOOX ,0,-4.0
+,   OX XO ,8,-1.71875
+, X OX XOO,0,0.5
+,OX OXXXOO,2,17.5
+, O  X O X,5,-3.71875
+,   OX O X,7,-4.5
+, X OX OOX,0,5.0
+, O XX  O ,8,-2.875
+, O XX XOO,0,-7.0
+, OXXO X O,5,1.25
+,   O X XO,1,1.40625
+, OXO X XO,4,1.875
+,  OX   XO,0,1.5
+,OXOO X X ,4,3.75
+,O X   OX ,8,4.5
+,O X X OXO,3,27.0
+,OO  X OXX,5,3.75
+,X O XX OO,1,-1.5
+,   OX  OX,6,0.75
+, O OXX   ,6,2.0625
+,X  OX   O,7,3.75
+,X XOX  OO,6,3.0
+,  OOX  X ,0,-1.125
+,     OXOX,2,-2.71875
+, XX O OOX,5,-9.25
+,O   XX  O,1,0.5625
+,OOX XX  O,6,-2.25
+, O OXX   ,8,1.125
+,XO OXX  O,2,2.25
+,  XOX O  ,5,1.5
+, XXOXOO  ,0,5.0
+,  XOX   O,5,-2.0
+,OOXX   OX,5,1.5
+,XOX   O  ,7,-0.1875
+,XOXX  OO ,5,4.5
+, OX  XOXO,4,1.5
+, O XXOX O,2,9.0
+, X  O  XO,3,7.3125
+,  O   OXX,1,0.375
+,XOO   OXX,5,-0.25
+,  O X OX ,8,-3.1875
+, OX O OXX,0,-2.875
+,O  XX  O ,2,-2.71875
+,O OXX  OX,6,-0.625
+, O XXO   ,6,-1.5
+,XO XXOO  ,2,-3.0
+,  OOX X  ,5,-2.71875
+,  OOXOX X,7,-6.375
+,X XO O XO,4,3.0
+,XO   XO  ,8,5.0625
+,    XX OO,3,-0.375
+, X OXX OO,6,3.0
+,  X O  OX,0,-2.53125
+, X XO   O,0,4.0
+, O XO  X ,5,-0.09375
+, XO O   X,6,16.0
+,O XX  O  ,1,-2.71875
+,OOXX  O X,5,4.125
+,   OXO  X,0,9.1875
+,O  OXOX X,7,-4.5
+,XO X OOX ,8,0.75
+, X XO  O ,2,4.03125
+, XOXOX O ,8,1.5
+, XOOX    ,7,1.21875
+, XOOXX O ,8,0.375
+,OXOX O  X,4,0.75
+,OXOXOO XX,6,23.0
+,OO    X X,7,1.3125
+,OO X  XOX,2,2.0
+,XO   X  O,3,1.125
+,XO O XX O,7,3.0
+,XOXO XXOO,4,14.0
+,X X O OXO,3,-2.875
+,OXOX  X O,4,5.0
+, X   X OO,2,2.71875
+, XO XX OO,3,5.625
+,XO   OXOX,3,-3.5
+,O XXXOO  ,1,10.125
+,OOXXXOO X,7,53.0
+,X O O X  ,7,-0.03125
+,O  OXX XO,6,4.0
+,  XO XO  ,8,5.4375
+,O  X  OX ,1,1.6875
+,OOXX  OX ,8,3.375
+,XO  OOXX ,2,-2.0
+,   O  XOX,2,1.6875
+,  OO XXOX,1,2.25
+,XOO X    ,6,-1.53125
+,XOOXX O  ,8,0.75
+,O XO X   ,6,12.0
+, OOX  X  ,8,0.75
+, OOX XX O,4,-1.5
+,OO  XX   ,6,-2.6875
+,     X O ,4,6.09375
+,  OXOX OX,6,11.0
+,  OXOX   ,1,28.875
+, OOXOX  X,6,14.0
+, O  O X X,2,-1.5
+,  OO X  X,0,1.5
+,OXOO X  X,6,1.0
+,O  O  XX ,1,-1.6875
+,OOXO  XX ,4,-0.5
+,O X  OX  ,7,-1.0625
+,OXX  OXO ,8,0.5
+, O    OXX,2,2.8125
+, OO  XOXX,3,0.75
+, O X   OX,6,-0.9375
+, O XX OOX,2,-3.0
+,X O X O  ,8,3.5625
+,X O XXO O,1,-4.0
+,OOX X    ,5,-4.21875
+,OOXXXO   ,7,-2.625
+,   XXO  O,7,1.5
+,   X   O ,8,0.328125
+,   X  XOO,2,0.0
+, XOX  XOO,5,7.0
+,O   X X O,7,-2.4375
+,O   XXXOO,2,-5.75
+,  XOX OXO,5,-4.0
+,  XO OXOX,4,2.0
+, OO   X X,4,0.0
+, OO OXX X,0,8.0
+, X  OOX  ,3,20.0
+,XO  X O  ,7,-8.1875
+,XOX X OO ,8,3.0
+,X   O XO ,1,16.0
+,O XOO X X,5,24.0
+,  O  O XX,0,-0.25
+,XOO  OXX ,8,3.0
+,O OO X XX,4,-1.0
+,X    XOO ,8,4.0
+,   XOOX  ,7,-0.84375
+,OOXXOX   ,7,8.0
+,O   XX O ,2,0.28125
+,O O XX OX,6,-1.0
+, X  O OX ,3,0.0
+, XO  XXOO,0,3.375
+,  XX   OO,5,-1.5
+,XO   O X ,8,3.375
+,XO   OXXO,3,3.75
+, XX OX OO,0,9.0
+, XOO   X ,6,1.5
+,XXOO  OX ,4,7.0
+, OOXX O X,0,6.0
+,    O XXO,1,-1.21875
+, O  OXXXO,3,13.875
+,XO OOXXXO,2,210.0
+,OX  XO   ,6,-1.4375
+,OXX XOO  ,8,0.25
+,XX  O O  ,7,-6.5
+,XX XO OO ,2,33.0
+,XO   X O ,3,-0.75
+,XO O X OX,6,-4.0
+,OX  XO   ,3,-3.25
+,OX OXO  X,2,-2.5
+, X  OX O ,8,16.125
+,XO    XO ,2,-3.75
+, O   XXO ,2,0.65625
+, OO XXXO ,3,3.0
+,OXO  XOX ,3,7.0
+,   OOXXOX,1,6.0
+,X OOX    ,5,-2.0
+,XXOOXO   ,7,-2.25
+, O   XOX ,2,2.34375
+, OO  XOXX,0,3.0
+, OXX  O  ,5,1.40625
+, O X O  X,0,0.5625
+,OO XXO  X,6,0.75
+, X  OO  X,2,4.78125
+, XOXOO  X,6,8.0
+,OO   X X ,8,0.0
+,XX O   O ,8,-0.5
+,  O    X ,1,25.0546875
+, OOX   X ,6,2.0625
+,  XO OX  ,7,-2.25
+,  XX   OO,0,-0.1875
+,O    OXX ,3,-2.5
+,O  OXOXX ,2,-5.0
+,O OXXO  X,7,2.625
+,X  O     ,8,4.03125
+,X  OX   O,5,0.28125
+,X  OXO XO,6,-2.25
+, OO XX   ,0,298.0
+,  XO X O ,0,-0.9375
+,OXXO X O ,8,3.0
+,XXO X  OO,5,9.0
+,X  O OOXX,1,2.75
+,O  X  X O,1,0.0
+,OO X XX O,7,-2.25
+,O  X  X O,4,1.0
+,  O  XXO ,4,3.46875
+, XO OXXO ,0,154.125
+,  X X OO ,1,3.09375
+,XOX X OO ,5,-1.25
+,  X OOOXX,1,2.25
+,O    O XX,2,0.5
+,O OX O XX,6,3.0
+,O  X  OX ,8,0.28125
+,O  XX OXO,5,-5.75
+,    OXXO ,3,5.25
+,X  OOXXO ,1,17.0
+,OX   OXXO,4,9.0
+, X OOXOX ,0,7.0
+, XOO  XXO,4,4.5
+,OO     XX,6,2.0625
+,OOX   OXX,3,8.0
+,O   XOX  ,2,-0.75
+,O O XOX X,3,-1.625
+,OOXX X O ,8,-0.25
+,  X  O OX,6,0.09375
+,  XX OOOX,0,0.75
+, O XX O  ,0,0.28125
+,OO XX O X,5,1.125
+,  X XOO  ,8,1.03125
+,  XXXOO O,7,9.0
+,X OO    X,6,-1.75
+,X OO  OXX,4,8.0
+,   O XX O,0,-2.15625
+,O XO XX O,1,-2.0
+,  XX OO  ,0,0.28125
+,   OXXO  ,2,-0.375
+, XOOXXO  ,8,-1.0
+,OO X    X,2,1.0
+,O  O   XX,5,3.3125
+,O  OXO XX,2,-2.0
+,X OOX    ,6,-1.46875
+,  XO  O X,7,-1.25
+,O XOXX O ,1,-5.0
+,XO  X   O,2,3.28125
+,  XO X O ,6,2.25
+, XXO XOO ,0,1.0
+, O   OXX ,8,4.125
+,XX   O  O,7,-0.25
+,XX  XO OO,2,5.0
+,O X X  O ,6,15.46875
+,O X X OOX,5,2.25
+, O XO X  ,7,70.0
+, X X O  O,7,-0.1875
+, X XXO OO,0,2.25
+,  OX   OX,5,-0.1875
+,  OX OXOX,1,-0.25
+,X  XO O  ,1,20.71875
+,XO XO O X,5,1.5
+,  XOO X  ,8,7.125
+,  XOO XXO,1,3.75
+,X   OXOXO,1,3.0
+,  XXOO OX,6,5.25
+,XXO    O ,8,16.5
+,XXO X  OO,3,4.5
+, X OO  X ,8,7.5
+, X OO XXO,0,16.0
+,OOX X    ,6,9.75
+,OOXXX O  ,8,-4.0
+, OX  X O ,3,-2.1875
+,O    XO X,3,4.0
+, OO OX XX,0,44.0
+, O X XOXO,0,-3.0
+,OO X X XO,4,8.0
+,  X OOXXO,1,5.25
+,   XO O X,5,5.625
+,  XXOOO X,7,11.25
+,OOX     X,3,-3.75
+,OOXO  X X,5,-4.0
+,   O OXX ,2,-1.5
+,OXXOX  O ,6,6.0
+, O O X X ,6,-0.75
+, O O XOXX,4,-1.25
+,OXX   O  ,8,4.875
+,OXXX  O O,4,5.0
+, OOX    X,4,1.5
+, OOXO X X,0,9.0
+,    XOOX ,1,12.1875
+, O  XOOXX,3,-4.5
+,X   OOOXX,2,5.0
+,OO  X  X ,8,1.125
+,OO  XX XO,6,-0.5
+,X OXX  OO,1,-2.0
+, XO  XO  ,8,0.5625
+, XOX XO O,0,-0.5
+,  OOOX XX,0,-9.25
+,O XX    O,6,1.78125
+,O XXX O O,7,25.0
+,O X    XO,4,7.0
+,  X  OOX ,8,-0.46875
+,  XX OOXO,1,0.375
+, OXXXOOXO,0,42.0
+,   OXXO  ,0,2.0
+,O X   X O,1,-1.75
+,O    XO X,2,1.5
+,O O XXO X,3,6.0
+, XX   OO ,4,-1.75
+, XX O OOX,3,-9.0
+,XX   O  O,2,6.0
+, X X O  O,4,1.125
+,XX XOO  O,6,-0.75
+,X  X O O ,2,-0.4375
+,   X  OOX,5,-0.65625
+, X X OOOX,0,0.75
+,X    OO X,4,7.125
+,O   XXO  ,2,3.875
+,OXO XXO  ,3,5.0
+,X XO O   ,7,-1.0
+,  OX O  X,4,-1.125
+,  OXOO XX,1,-3.5
+,  XO   XO,0,3.0
+,  XOO  X ,0,4.3125
+,O    O XX,1,0.6875
+,  O O X X,0,-7.40625
+, X O  XO ,0,1.40625
+,O OX X OX,1,3.0
+,XOXO     ,4,0.75
+,XOXOO X  ,7,16.0
+, OXO  X  ,0,-0.75
+,OOXO  XX ,5,-4.0
+,X OO  X  ,5,6.9375
+, OO XX XO,3,5.625
+,X XO  O  ,7,-2.5
+,X XO XOO ,4,-1.0
+, XX  O  O,3,-1.125
+,XXO  OXO ,8,1.0
+,   OXX  O,1,1.5
+,X XOO    ,6,0.03125
+, O  XXO  ,2,-1.6875
+, OO XXO X,0,12.0
+,X    XOO ,4,1.5
+, O X  O X,4,1.5
+,XO XO O X,7,8.0
+,X  OX  O ,2,1.90625
+,X     OOX,5,-2.25
+,X X  OOOX,3,-3.0
+,X  XOX OO,6,8.0
+,XO  XO XO,2,32.0
+,X XOX  OO,5,-1.0
+,O X  OX  ,1,-3.375
+,OO O XXX ,2,3.0
+,OO   X  X,2,11.0
+, X O   OX,6,0.5625
+, X OX OOX,2,0.75
+, XO  XXOO,3,0.375
+,    OX OX,1,52.0
+,OOX X  OX,3,-10.0
+,O   X  XO,3,-2.25
+,X  OOXX O,7,18.0
+,OXX    O ,6,6.5625
+,OXX  XOO ,3,7.0
+,   XOXO  ,7,8.4375
+,   XOXOOX,2,7.0
+,  XO  XO ,5,-4.0
+, XXO OXO ,8,-2.0
+,X  O XOOX,2,-0.25
+,O  X X O ,6,-3.625
+,O  X XOOX,4,-1.25
+, X  O    ,0,43.7578125
+,X O    OX,4,3.9375
+,XXO O  OX,3,1.5
+,XOXOOX   ,8,6.0
+,XO XO    ,2,-4.75
+, OX OOXX ,8,5.25
+,XOO   X  ,7,-6.21875
+,XOO  XXO ,8,-2.25
+,X    X OO,6,12.0
+,OX XXO  O,2,3.0
+,O   OX  X,7,8.25
+,O   OXXOX,1,26.0
+, XOO  OXX,0,3.0
+,X O X O  ,3,-2.96875
+, X   XO O,0,0.75
+,OXX  XO O,7,7.0
+,OXO    X ,5,0.0
+,OXOX O X ,8,1.0
+,X   OOXXO,1,-2.75
+,    XO XO,1,113.625
+, O XXO XO,2,19.0
+, OX OXOX ,0,-6.0
+, OXOXX O ,8,-0.5
+,XX  O  O ,2,9.09375
+,  X   OXO,1,3.375
+,XOX   OXO,3,4.5
+, O  OX X ,6,1.96875
+, O O X X ,8,1.125
+, OXO X XO,6,4.125
+,  O XXO  ,1,-1.25
+, OO XXOX ,0,12.0
+,OX   XOXO,3,4.0
+,O XOX    ,1,-3.0
+,XXO   XOO,3,2.25
+, OO X XXO,0,13.0
+,X  O  O X,4,1.125
+,XX OO O X,5,7.0
+,XO  XOOX ,8,4.5
+,O O   X X,3,-3.4375
+,   XOOXOX,1,15.0
+,X O O X  ,1,-5.71875
+,XOO OXX  ,8,-12.5
+,  XO O  X,7,-0.1875
+,X XO O OX,6,-3.0
+,XO  O  X ,8,2.53125
+,XOX O  XO,6,7.5
+,O  XO  X ,5,5.90625
+,O XXOO X ,8,9.0
+,     OOXX,4,1.3125
+,X   OOOXX,1,4.5
+,XOX OOOXX,3,34.0
+, XOOO  XX,0,-1.5
+, X OOXO X,7,-4.25
+,OXO O  XX,3,-3.25
+, O O X  X,0,0.75
+,OO O XX X,4,-3.0
+,X  O X  O,7,2.15625
+,XO XX O O,7,9.0
+, O OXX XO,0,3.75
+,X O O  X ,1,1.96875
+,XOOXO  X ,5,-0.5
+,O XOO  XX,6,10.0
+, OOX XXO ,4,3.0
+,X O  O  X,1,-6.5
+,   O  X  ,4,196.171875
+,X  OO X  ,2,6.0
+,X OOO X X,7,3.0
+, O  O  XX,6,13.875
+, OX O OXX,3,-3.75
+, O  O X X,0,-0.1875
+, X XO  O ,6,4.6875
+,XX XO OO ,8,11.0
+, XXOO X O,5,29.0
+,   O XO X,1,-2.5
+, X    OOX,5,-0.65625
+, X  XOOOX,2,-1.625
+, X X  O O,2,0.75
+, XOX  OXO,4,4.0
+,     X  O,1,0.5859375
+, OX  X  O,4,4.875
+,X  X O  O,4,-2.0
+,O X OX   ,3,-4.9375
+, X  X  OO,6,11.0
+,X  O O X ,6,-0.1875
+,X  O OOXX,2,-3.25
+,O X X O  ,1,6.5625
+,OOXXX O  ,7,-4.375
+,O   XO X ,3,-4.25
+,O XOXO X ,1,-2.0
+,    XOX O,1,-6.0
+,XO O XO X,4,2.25
+,X OO  XXO,5,32.0
+,    OXX O,0,39.0
+,X  O O  X,4,5.0
+, OXO    X,7,-2.5
+,OX XOXO  ,7,2.25
+,  XO     ,0,12.515625
+,O XO  X  ,5,-7.5
+,O XO OX X,1,-2.0
+,OXO X XO ,8,1.125
+,OXOX  X O,5,4.0
+, XOOXX O ,0,1.875
+,XO  X   O,6,26.71875
+,XO  XXO O,2,-0.875
+,XOOXX O  ,5,-1.5
+, O   O XX,0,0.28125
+,   XXO O ,0,-1.125
+,O  XXO OX,2,0.75
+,XOO  O XX,6,-1.25
+, XOOX O X,5,-2.0
+,O  OXOXX ,8,-5.0
+, XOOOX  X,7,6.0
+,XX OX  OO,2,1.5
+,  X X  OO,0,-2.75
+, O XOX   ,2,6.75
+, OOXOX X ,6,5.0
+,O X X  O ,1,-3.96875
+,O O X  X ,8,0.375
+,O O XX XO,3,0.25
+,XOX OO  X,6,1.5
+, XO   OX ,3,1.3125
+,XXOO  OX ,5,-1.0
+,OXOX X  O,7,-2.0
+, XO  XOXO,4,2.0
+,  XXO   O,0,39.0
+,X  OOX   ,6,-3.46875
+,X XOOXO  ,8,-5.0
+,O XX XOO ,4,1.75
+, OXO OX X,7,1.5
+,   OXXXOO,1,-3.875
+, OOX  XOX,4,2.0
+,  X O  XO,0,37.0
+,OX OX    ,5,-1.75
+,O   XO X ,1,3.9375
+,OOX XO X ,6,5.625
+,O    XOX ,8,1.5
+,O OXX    ,8,-5.25
+, O X X O ,0,-1.25
+,X O OX   ,7,22.40625
+,   X  XOO,4,1.625
+,OX OX    ,7,-0.84375
+,   XO  OX,0,0.375
+,O XXO  OX,6,-3.625
+, X  O XO ,8,1.03125
+, XX O XOO,0,4.0
+,X  O   XO,1,1.125
+,O X  O X ,3,-0.1875
+,O XO O XX,1,0.75
+, OX OX OX,0,11.0
+, OOXOXX  ,0,10.0
+,OX  X   O,2,-3.4375
+,OXO X X O,3,-2.25
+,  X OOX  ,1,4.125
+, OXXOOX  ,0,1.5
+,X XOX O O,5,-3.625
+,X X OOXO ,8,-5.0
+,O  OX X  ,5,-5.21875
+,XO X O XO,6,1.875
+, XOOXX O ,6,2.25
+,  XOXXOO ,8,2.0
+,X X XO OO,6,7.0
+,  O   OXX,5,-0.375
+,  OX OOXX,0,3.75
+,  OXX   O,6,0.3125
+,O X O   X,6,-1.90625
+,OXX O O X,7,-2.625
+,X  O OXOX,1,-0.25
+,  OXO  X ,5,2.8125
+,  OXOO XX,0,-3.5
+, X O OXXO,0,2.25
+,OXXO OXXO,4,13.0
+,  XO  X O,4,5.4375
+, XXOO X O,7,-5.5
+,   O OXX ,4,4.0
+,XOOXXO   ,6,-1.5
+,O OOX  XX,6,3.0
+, OOX    X,5,0.75
+,   XO  XO,1,3.84375
+, OXXO  XO,0,3.0
+,X O  O X ,4,2.25
+,OX  X OOX,2,4.5
+,O   XO  X,3,2.53125
+,O  OXO XX,6,13.0
+,  XXOO XO,6,7.5
+,X  XOO OX,2,0.25
+, OXX   O ,8,0.75
+,XOXX   OO,4,4.0
+, XOO X   ,7,0.84375
+,OXX   O  ,5,4.6875
+,OXX  OOX ,8,-0.5
+,   OXOX  ,1,-4.9375
+,XO OXOX  ,8,-3.25
+,X O   X O,4,-4.9375
+, OOX    X,6,0.75
+,XOOX  O X,4,6.0
+,   XXOOOX,0,54.75
+,OX XXOOOX,2,37.5
+, XOX  O  ,8,0.75
+, OXO X   ,8,8.71875
+,OO  XXX O,3,-1.5
+,OX X   O ,5,1.40625
+,OX XXO O ,6,2.625
+, O X O X ,6,1.125
+,XO   O X ,3,-1.96875
+,XO OXO X ,6,-0.625
+, X OX  O ,8,0.5625
+,  O XOX  ,0,4.78125
+,OXO XOX  ,7,1.875
+, XXOO    ,8,-1.125
+, XXOO X O,0,19.0
+, O XXO XO,6,3.375
+,OX    X O,3,0.0
+,OX O  XXO,4,7.0
+, XOX OXO ,8,1.0
+, O OX XOX,5,-2.0
+, O  XX O ,0,-3.4375
+,OOX XX O ,3,-5.0
+,XOOO X X ,8,2.625
+, O XO  X ,6,17.0625
+,XO XO OX ,5,15.75
+,   OOX  X,2,91.03125
+,X OOOX  X,7,9.0
+,  XXOXO O,7,29.0
+,X  OX   O,6,1.78125
+,X  OXXO O,7,11.0
+,OX   OOXX,4,1.5
+,OX XOOOXX,2,40.0
+,OXO XOX  ,8,5.0
+,OX OXOX  ,2,-0.25
+,  O  X XO,0,0.5625
+,O OX X XO,4,2.0
+,   OXO X ,0,-0.75
+, XO    OX,4,0.84375
+, XOXO  OX,5,4.5
+, X   O XO,4,0.75
+, X  OOXXO,2,3.0
+, XO O   X,5,4.125
+, XOXOO  X,7,3.0
+,O  OXXXO ,8,-0.25
+,O   X XO ,8,-1.21875
+,O  XX XOO,1,-3.0
+,X  XOOO X,2,5.0
+, O OX  X ,6,5.4375
+, O OX OXX,0,6.0
+,XO OO X X,2,-0.5
+, X  XO O ,8,-0.75
+, X  XOXOO,0,-9.0
+, O  OX  X,6,-8.875
+,O O   XX ,4,-0.75
+,OXO O XX ,3,-6.0
+, OO  XX  ,7,1.6875
+, OOX XXO ,8,-3.0
+,OX XO O X,7,2.25
+,OX O X   ,7,1.59375
+,OX O XXO ,4,1.875
+,  OXOX   ,0,315.9375
+, X O O X ,4,4.0
+,OX    OX ,2,-0.875
+,OXO   OXX,5,0.5
+,  OX X  O,0,-0.9375
+,OXOX X  O,6,-0.25
+,   O XXO ,1,0.84375
+, O OXXXO ,2,6.0
+,X   OOX  ,7,-2.25
+,    XX OO,1,-6.4375
+, OX XX OO,6,9.0
+,   OOXX  ,0,5.71875
+,O XOOXX  ,1,-8.0
+,    XOOX ,8,-11.1875
+,X   XOOXO,3,-2.625
+,OX OXX  O,2,-2.0
+,O X  XO  ,8,0.0
+, XXOOX  O,6,-7.0
+,O XX    O,7,1.125
+,O XX X OO,1,-0.5
+,OOXX XXOO,4,19.0
+,  OOXOX X,0,-6.875
+,  X  O OX,4,3.09375
+,X X OO OX,3,5.0
+,  X O XO ,5,4.3125
+,  XXOOXO ,1,5.0
+, XO OX OX,3,5.25
+,O O  X X ,6,2.25
+,O O  XOXX,3,5.0
+, OOX OX X,4,-1.0
+,  XXO  O ,0,4.125
+,XOX O O X,5,4.5
+, O  XO  X,2,0.5
+, OO XOX X,0,28.0
+,  XX  O O,7,1.0
+,  X OO X ,3,16.0
+,OXX  O   ,8,0.5625
+,OXX  O XO,3,0.75
+,OOXX XO  ,4,-3.0
+,O  O  X X,2,-2.46875
+,O O  XXXO,4,4.0
+,  XO XOXO,1,1.5
+,   OOXOXX,2,11.0
+,X  XOO   ,6,0.65625
+,X OO XOX ,1,1.5
+,O X X O  ,8,12.46875
+,OXX X O O,3,6.0
+, O OX   X,6,-1.1875
+,  O XX O ,6,-6.25
+, XX XOOO ,3,0.5
+,XO   O  X,6,-0.375
+,XOX  OO X,3,-2.0
+, XX O O  ,5,-4.75
+,XO  O   X,3,3.75
+,XO OO  XX,5,10.0
+,  OO  XX ,5,-3.0
+, XOO OXX ,0,-1.0
+,OX X  O  ,7,3.65625
+,OXXX  OO ,5,3.375
+,X O  OX  ,7,-1.6875
+,X O  OXOX,3,-4.0
+,OXXO     ,8,7.3125
+,OXXO X  O,6,3.0
+,   O  XOX,4,0.09375
+,  O XX  O,7,-0.34375
+,  O XXXOO,0,-3.625
+, OX X  O ,8,-3.75
+,    X XOO,0,-2.625
+, XO XO XO,6,-28.0
+,X O   X O,3,31.59375
+, O  X XO ,8,-5.6875
+, O  XXXOO,2,0.875
+,  XXO O  ,5,1.03125
+,  XXOOOX ,8,80.25
+, X O  OX ,4,0.75
+, XXOO OX ,0,5.0
+,   OOX  X,0,-18.71875
+, X O OXXO,2,4.0
+,XOXO  OX ,8,1.5
+,O     OXX,5,2.90625
+,O  X OOXX,4,1.125
+,XOO  X OX,4,3.0
+,O OX   X ,1,2.0
+,OOXX  X O,5,-0.25
+,XO O  X  ,4,3.375
+,XOXOO X  ,5,5.0
+,OXX  O   ,3,-0.9375
+,OXXOXO   ,8,-2.0
+,XO OXXO  ,7,-3.0
+,    XOXO ,2,8.25
+,  O XOXOX,0,14.25
+,X O  OX  ,8,1.0
+,  XOX OOX,0,15.0
+, X O  XO ,4,0.375
+,XX OO XO ,2,2.625
+,X   XO O ,6,-2.4375
+, XOXOOX  ,7,-1.625
+,XO  X   O,3,1.03125
+,XO  OXX O,7,53.0
+,O X  XXOO,1,-1.0
+, XX   OO ,8,1.0
+,OXOO   XX,5,-2.0
+,O   OX  X,6,-18.1875
+,XXO  XO O,3,1.5
+,OXX    O ,8,1.3125
+,OXX X  OO,5,-1.5
+, OO X  X ,8,17.8125
+,XO   X O ,2,-0.46875
+,XOO  X OX,3,-1.0
+,XOX  O   ,6,0.5625
+,XOX  OOX ,3,3.0
+,   OOXX  ,8,214.59375
+,  XOOXX O,0,7.0
+,XXO O  OX,6,3.0
+,X O  O X ,8,8.0
+, X   X OO,4,1.78125
+,X X O   O,1,15.0
+,XOX O  XO,5,21.0
+,X  O XO  ,7,0.5625
+,XX O XOO ,4,-2.25
+, XOX  O  ,0,1.03125
+,OXOX  O X,4,3.0
+,  OX  XO ,5,-3.75
+, XOX OXO ,4,-1.0
+, OO   XX ,3,-3.5625
+,  OX  X O,0,1.3125
+,O OX XX O,1,5.0
+,    O XOX,2,0.75
+,XX  OO   ,8,-0.9375
+,XX XOO  O,7,-6.0
+,   O XOX ,2,0.84375
+, XOO XOX ,8,0.5
+, OXOX    ,0,-1.6875
+,OOXOXX   ,7,-1.0
+,O   X XO ,5,-0.875
+,X O  XOOX,1,-0.75
+,OX XXO O ,2,1.125
+, XOO   X ,8,-0.875
+,X   O  XO,1,2.8125
+,XO XO  XO,5,1.5
+,X OX XOO ,4,8.0
+,X  OX O  ,1,-1.9375
+,X     XOO,2,-1.09375
+,XXO   XOO,4,-3.5
+, O OX X  ,0,0.6875
+,OO OXXX  ,8,-3.5
+,OX O X XO,2,3.0
+, XOX    O,4,1.5
+, XOXO  XO,5,6.0
+,X   O  OX,1,4.0
+, X OO X  ,5,367.0
+,X   X O O,2,-0.9375
+,X O XXO O,3,0.75
+,X OX    O,4,-0.1875
+,X OXOX  O,7,-5.5
+, OX   O X,5,1.6875
+, OX XOO X,7,-0.25
+, OXXXOOOX,0,14.5
+,X O  X  O,1,-0.09375
+,XOO  X XO,3,0.75
+,O  X O X ,1,1.40625
+,OO XXO X ,6,4.875
+,O X XOOX ,8,1.125
+,   OOX X ,8,32.4375
+,   OOXXXO,1,8.25
+, XXXO OO ,0,8.25
+, X  OXO  ,8,30.9375
+, XX OXO O,7,30.0
+,OOX X    ,3,-0.0625
+,OOXOX  X ,8,-1.25
+, O   O XX,3,-1.1875
+, XO XXO O,7,4.0
+,O X    OX,6,-5.21875
+, O   XX O,4,2.25
+,   XO  OX,1,5.0
+,OOXX XO  ,8,-2.5
+,OXX O OX ,3,5.0
+,  OXXO OX,0,6.375
+,OX  OX   ,3,3.375
+,OO XX OX ,2,7.0
+, OO  X  X,4,1.3125
+, OO OX XX,3,-3.75
+,X XOO    ,7,-1.75
+,X XOOX O ,6,-10.0
+,  XX  OO ,0,0.28125
+,O XXX OO ,1,-4.5
+,XX OO X O,5,7.0
+, X OXO   ,0,-0.4375
+,  X O X O,3,26.8125
+,  OXO   X,5,1.3125
+,O  OX XXO,2,-2.5
+,  X XOO  ,1,4.21875
+, OX XOOX ,8,2.25
+,  XO   OX,4,-1.75
+,O    X OX,6,-3.5
+,O OXX  XO,5,1.0
+,X OX    O,1,-0.9375
+,XOOX X  O,6,-0.75
+, OO X X  ,5,0.75
+,XX  O  O ,3,-0.3125
+, XO X   O,0,-8.1875
+,XO X   O ,5,0.5625
+,XO XXO O ,8,-0.25
+,OX  X  O ,5,0.9375
+,XXOO XO  ,4,2.0
+,O X XXOO ,8,6.0
+,O XOXO  X,7,-1.25
+,O  OX X  ,7,-6.71875
+,O XO OXX ,4,4.0
+,OXXOO X  ,8,14.0
+,O    O XX,3,1.5
+,  OOX  X ,6,-3.71875
+,OO X XX O,4,3.0
+, O  OX  X,2,23.25
+,  XOOXX O,1,33.75
+, X X   OO,5,2.0625
+, X XXO OO,6,4.0
+, X  X O O,0,0.5625
+,OXX X O O,5,-1.75
+,O  XX  O ,6,-1.71875
+,OO XOXX  ,2,4.0
+, XOXOO  X,0,1.125
+,OXX OXO  ,8,5.0
+, XX OOX O,0,1.0
+, O    XOX,3,-0.1875
+,XOOX O  X,7,-9.0
+,X  OO  X ,6,2.0625
+,X  OOXOX ,1,1.875
+, X XO XOO,0,4.0
+, X  OO  X,7,1.6875
+,XX  OO OX,6,-4.25
+,OX O XXO ,8,1.5
+,O  X O  X,6,2.53125
+,O  XXOO X,7,11.625
+,OX    OX ,3,3.0
+,OXX   XOO,4,5.0
+,O   X O X,7,1.6875
+,O   XXOOX,2,-1.25
+,  XOO XXO,0,5.0
+, XX OO OX,6,-4.0
+,X XOO    ,1,1.03125
+,XOXOOX   ,6,-10.75
+,XO   O  X,3,0.0
+,XO O OX X,4,4.0
+, X X  OO ,4,3.65625
+, X XOXOO ,8,9.0
+,X    XOO ,1,0.5625
+,O XX O   ,1,1.40625
+,XX  O   O,6,-1.1875
+, O OXOX X,7,-2.0
+,X O  OX  ,3,0.5625
+,X OOXOX  ,1,0.5
+,OO    X X,5,-0.75
+,OO X OX X,4,0.5
+,OX  X  O ,8,0.1875
+,OXXOX   O,7,-1.25
+,X OOX    ,1,-1.4375
+,XOOOXX   ,8,10.5
+, XX   OO ,3,0.5
+,OX XO    ,5,1.875
+,OX XOOX  ,2,1.5
+, OOXX    ,7,-3.0
+,X     XOO,3,0.65625
+,XX O  XOO,2,4.875
+,O OXO X X,7,3.0
+, X  OX O ,3,-3.5625
+, X OOX OX,2,4.875
+,XXO     O,5,10.0
+,   XX OO ,0,-15.78125
+,  O XO  X,3,-36.40625
+,OOX O  XX,5,-9.875
+,XO XX O O,2,-1.25
+,  OOXOX X,1,-7.0
+, XX    OO,5,0.75
+, XXX O OO,6,1.0
+,X    OX O,3,2.625
+,X  O OXXO,2,2.0
+, OX XXOO ,8,9.0
+,XX XOOO  ,2,8.0
+,   OX X O,7,-8.0625
+,   XOXXOO,0,12.0
+,   OOXOXX,0,2.0
+, OXX X OO,4,3.0
+,O  X XOXO,4,5.0
+, X  OXOOX,0,-5.25
+,OXOX  OX ,5,-1.0
+,OOX XX  O,7,-2.0
+, O OX  X ,5,-0.84375
+, O OXOXX ,8,-5.0
+,   O OX X,0,-2.4375
+,XO    OX ,2,4.59375
+,O    XXO ,1,0.5625
+,OO   XXOX,3,-1.25
+,  O  XOX ,8,-0.46875
+,  O XXOXO,3,0.625
+, O O  XX ,0,-1.75
+,OO OX XX ,8,-1.0
+,X  OXOOX ,8,-2.875
+, OXX   O ,0,1.125
+,XX  OOXO ,3,11.0
+, XO XO   ,7,0.9375
+, XO XOXO ,0,2.625
+,O   X X O,3,-1.71875
+, OOOXX X ,6,1.875
+,   OOX X ,6,4.125
+,   OOXOXX,1,-3.0
+, XOXO X O,7,1.5
+, OX  O X ,8,0.5625
+, XOO  XXO,5,17.0
+, O   X XO,0,5.625
+,X   OX O ,6,16.3125
+,X X OXOO ,1,4.0
+,X   O XO ,3,3.75
+,X   O  OX,6,0.5625
+,X  XO OOX,2,4.0
+,X OO OXX ,4,3.0
+,O  X OX  ,1,-1.6875
+,OOXX OX  ,8,-3.5
+, X  OO X ,8,2.8125
+,   X O OX,0,0.84375
+,OXOX OXOX,4,7.5
+, XOO  OXX,4,1.0
+, O X OOXX,0,0.375
+, X   O OX,0,0.28125
+,OX  XO OX,2,0.75
+,XO O   X ,6,0.65625
+,OOXXO X  ,5,1.5
+,  XOO   X,0,-0.25
+,OXXOO   X,6,7.0
+,OXX   OOX,4,-3.625
+, O XX   O,6,-6.75
+,XXO XOO  ,7,-6.0
+,XXO    O ,6,3.1875
+,XXOX  OO ,4,4.0
+,OX O X   ,4,5.34375
+,OXX  X OO,6,1.0
+,XOO OX  X,6,5.0
+,XO O X   ,6,0.375
+,XO O XOX ,8,1.5
+,XXOO     ,8,2.25
+,XXOO X  O,6,3.0
+,X  O XO  ,8,1.78125
+,    XXOO ,8,5.75
+,XO XO OX ,2,8.0
+,OXO  OXX ,8,5.0
+,XOOOX X  ,8,7.5
+,X   X O O,5,1.3125
+,X X XOO O,1,1.125
+, OX  OXXO,0,-2.0
+,OX   XO  ,3,11.0
+,O OXOXX  ,7,30.0
+, O  XO  X,7,-1.3125
+, O  OX X ,2,5.8125
+,X  OX OXO,1,6.0
+,XO XX OO ,8,14.0
+,O  XO  X ,1,2.25
+,OO XO XX ,2,12.0
+,XO O  X  ,8,-0.9375
+,XOXO  X O,5,-1.0
+,X O  O  X,7,-4.4375
+,X OX O OX,4,-2.0
+,  OOX OXX,5,-6.0
+,XO   XO  ,2,-2.25
+,XOO XXO  ,7,-5.0
+,XX   O O ,8,-3.75
+, XOX OO X,0,0.375
+,  XO   OX,1,-0.9375
+,XOXO   OX,5,-0.5
+,OO    XX ,4,-2.25
+, OX OX   ,6,0.65625
+,XX  OOX O,3,7.0
+,OOX  X   ,7,-1.5
+,OOX XX O ,8,-4.0
+, O XO OXX,5,2.25
+,X X  O O ,4,1.25
+, XX O O  ,3,5.0625
+, XXOO OX ,5,5.0
+,O  X  OX ,4,6.9375
+,O  XO OXX,2,9.0
+,   O XO X,2,1.3125
+,O XX X OO,4,2.0
+,    OX OX,0,2.0
+,O X   O X,5,3.65625
+,OXX  OO X,7,0.375
+,X O O X  ,3,15.65625
+,X OOO X X,1,-1.0
+,XX  OO   ,3,2.0
+,   X OOX ,0,0.9375
+,O  XXOOX ,8,-2.625
+,  OO X X ,1,0.28125
+,XOOO X X ,4,1.125
+,XO X   O ,8,-2.5
+,XO X X OO,2,-1.0
+,XOX XO  O,7,-2.75
+,  OXOXX O,0,29.0
+,   OXOOXX,2,-2.0
+, X  X O O,7,11.0
+, X X OO  ,8,2.0625
+, O X OXXO,2,2.0
+,O O   X X,1,19.0
+,XO  O   X,6,5.8125
+,XO  OXO X,7,11.0
+,X   XO O ,3,-2.5
+,  O X XO ,1,0.09375
+,XOO X XO ,8,-2.625
+,X X    OO,5,-1.25
+, O   OXX ,0,-3.0
+,OO  XOXX ,2,2.0
+, X    XOO,2,5.8125
+, XO X XOO,0,0.75
+, OXXXO  O,7,-5.25
+, OO  XXXO,4,3.375
+, XO  X  O,4,1.5
+, XOXOX  O,6,16.0
+,XXOO O X ,8,2.0
+,X O   O X,5,0.75
+,X O  OOXX,4,3.0
+,X O    OX,1,0.75
+,XOOX   OX,4,1.0
+,X X   OO ,3,-1.25
+,X XO XOO ,8,4.0
+, O  XX  O,6,-2.5
+, O  XXOXO,2,-1.625
+, XO  XOOX,3,2.25
+,XX    OO ,5,-1.5
+,XX  XOOO ,3,-5.0
+,O    OX X,3,-1.4375
+,OX O OX X,7,1.875
+,OX  X  O ,2,4.875
+,  XOO X  ,7,5.4375
+,    O OXX,3,26.25
+,X  OO OXX,2,6.0
+, OX  X  O,7,-0.1875
+, OX  XXOO,4,6.0
+,  OX   OX,6,1.125
+, XO O X  ,0,4.21875
+,OXO OXX  ,7,6.75
+, XOX   O ,5,0.5625
+, X  O X O,7,-0.1875
+,  OO X X ,0,0.5625
+,O OOXX X ,8,-2.25
+,O  X XOOX,1,-1.0
+, X XOO   ,8,2.25
+, XXXOO  O,6,-2.25
+, XO  O  X,6,0.84375
+,XXO  OO X,4,2.0
+,O  O XX  ,7,-0.46875
+,O  O XXOX,2,1.875
+,   X X OO,2,-0.1875
+,X OO   X ,5,1.3125
+,X OO OXX ,1,0.75
+,O OX OX X,4,-4.625
+,OX   OX  ,8,1.5
+,O X X OXO,5,-4.75
+,    OO XX,1,-5.21875
+, XO  OX  ,8,5.0
+,X  O  X O,1,0.375
+,OX OX X O,5,-3.0
+,X  O  XO ,1,-0.75
+,XO OX XO ,8,-2.625
+,  X X  OO,6,13.0
+,   OX O X,5,-3.25
+, X  X  OO,2,2.0625
+, OX XO   ,6,2.0625
+, OX XOO X,3,-6.75
+, OO  XX  ,0,12.0
+,    O XOX,3,3.65625
+, X OO XOX,5,13.0
+,    XOOX ,2,1.375
+,X O XOOX ,3,-4.0
+,  X OX  O,3,7.78125
+,X XOOX  O,1,6.0
+,OX   O  X,7,1.125
+,OX X O OX,6,1.125
+,X  XOO OX,6,1.5
+, OX X   O,5,0.375
+,XOX XO  O,3,-1.875
+,  O  XO X,0,0.75
+,O OX XO X,1,2.0
+,X OX    O,7,-0.25
+,X   XOO  ,3,-4.46875
+,X  XOXOO ,1,4.0
+,O OO XXX ,8,1.5
+, XO O  X ,0,-0.1875
+,OXOXO  X ,8,6.0
+,  X  XO O,3,1.5
+, OX   OX ,8,0.28125
+, OXX  OXO,4,0.75
+,X OXOO  X,6,6.0
+, O XX   O,5,1.78125
+,XO XXO  O,6,3.75
+,   X OX O,0,1.5
+,O X  X O ,3,-0.1875
+,OXXO X O ,6,2.0
+,OX     XO,4,5.0
+,XOO  XX O,4,-2.0
+,XXOOO X  ,5,11.0
+,XOX  O XO,4,1.125
+,OO  X XOX,3,-1.0
+,XO   X  O,4,-0.1875
+,XO  OXX O,2,-3.25
+,O   X OX ,8,-3.21875
+,O X X OXO,1,9.0
+,  X OO X ,8,3.1875
+,OO X  X  ,2,9.0
+, X OOX   ,8,20.8125
+, X XOO XO,6,1.5
+,OOX  X   ,3,-0.6875
+,OOXO X X ,4,-1.25
+,  OX  XO ,1,-1.0
+,  OXO  X ,1,4.5
+, OOXOX X ,0,14.0
+,OXX    O ,5,1.96875
+,XX  O OOX,2,5.0
+, XO   XO ,4,0.375
+, XO O XOX,5,4.125
+,O OX XO X,4,1.0
+, OX  XO  ,0,-0.1875
+,X X OXO O,7,31.0
+,  O O  XX,6,63.0
+,O   XO  X,7,1.40625
+,OX  XO OX,6,1.125
+,   OXOXOX,2,-1.875
+,XX  O XOO,5,-5.0
+,X XO OOX ,4,3.0
+,O X   X O,4,5.0
+,X  O X O ,6,2.25
+,XX O XOO ,2,4.5
+,OXXX O O ,8,1.5
+,XOO O  XX,6,5.0
+,O X   X O,7,0.5
+,O X  XXOO,4,4.0
+,OX  O OXX,3,3.0
+,XO    OX ,8,1.125
+,XO   XOXO,3,0.375
+,X X   O O,1,2.34375
+,XOXX  O O,5,2.25
+, OX    OX,3,-1.25
+,X  OXOOX ,2,-3.0
+, X XO O  ,8,8.0625
+,XX XO O O,2,11.0
+,OXX OXO  ,3,13.0
+,XOX O X O,7,6.0
+,O  XX   O,7,-1.25
+,O X OOX X,1,-5.25
+, OXX    O,4,1.03125
+,XOXXO   O,6,1.5
+, XX XO OO,3,-4.0
+,O O XX OX,3,0.75
+,O O XX   ,8,-1.375
+,OX  XO   ,8,-4.1875
+,OO OXX X ,6,5.0
+,  OXO X  ,1,-4.1875
+,XO  XO   ,7,-2.125
+,XOOX     ,7,-0.1875
+,   OO XX ,2,-3.875
+,O XXX  OO,5,-2.25
+,XOO  X   ,3,1.125
+,X  OX   O,1,1.125
+, X   OO X,0,3.1875
+,   XO XO ,0,10.5
+,O XXO XO ,8,2.0
+,OXOX  X O,7,0.75
+,O  X  XO ,1,-0.9375
+,OOXX  XO ,8,-0.25
+,  OX  O X,4,9.0
+,   XXO  O,2,45.0
+,   XOOOXX,0,7.875
+, OX XOOX ,3,9.375
+,O OXXO X ,1,11.0
+,OXOXOX   ,7,6.0
+,XXOXOO   ,7,-1.25
+,X  O X O ,2,1.125
+, O OXX   ,0,0.5625
+,OX X O   ,4,1.875
+,X   OX  O,1,23.34375
+,X OX XO O,1,-3.0
+,  X   OXO,0,1.3125
+, XX O  O ,8,-9.0
+, XX O XOO,5,-4.0
+,XO OO XX ,5,20.0
+, O    XXO,5,0.5625
+,O    OXX ,4,1.75
+,O X OOXX ,8,15.0
+, O  X  XO,6,-0.28125
+,X   OX O ,8,23.625
+,OX  X   O,3,-1.65625
+,XO   XO  ,3,2.0625
+,     OXOX,0,0.5625
+,OX OOX  X,7,-4.5
+,   OO X X,2,-1.03125
+,  X  OO X,7,-0.09375
+,  X XOOOX,1,-1.875
+,   XO  XO,2,1.5
+,X OXO  XO,5,5.0
+,O  X X O ,1,-3.75
+,OOXX X O ,6,-4.0
+,XO  OX   ,3,2.25
+,XO OOXX  ,7,4.0
+, X O OX  ,0,-0.1875
+,OX OXOX  ,8,-2.0
+,XX O XO O,7,7.0
+, O OXX OX,6,-1.0
+,  X  O OX,3,1.125
+,  OXOXXO ,1,341.0
+, XO  OX  ,0,1.5
+,XO  OXX O,3,6.75
+, OX O   X,0,-3.25
+,   OXO  X,6,-0.5
+,  O XO  X,6,-20.375
+, O X O  X,6,0.375
+, OXX OO X,4,3.0
+,  O X OX ,5,-1.6875
+,  O XOOXX,1,-1.25
+,    O XOX,5,11.625
+,  X OOXOX,1,3.0
+,  X OX  O,1,8.4375
+, OXXOX  O,7,8.0
+, O  X  OX,2,-4.9375
+,O X  X  O,1,0.5625
+,OOXX X  O,7,-0.25
+,OX     OX,4,0.28125
+,OXX O  OX,5,5.625
+, XO  O X ,8,0.0
+,  X XOOOX,3,-1.5
+,OXX O    ,8,13.0
+,  O X OX ,1,3.1875
+, XOO    X,6,0.5625
+, O  O XX ,8,-0.46875
+,XO   O X ,6,2.625
+,XO  XOOX ,3,2.25
+, OOXO XX ,0,9.0
+,  OO XX  ,7,4.5
+, XOO XXO ,0,2.25
+,O   O XX ,3,-1.4375
+,OX OO XX ,2,-0.5
+,  XOO   X,1,1.3125
+,O     XOX,5,1.125
+, X   OOX ,2,-1.625
+, OXXO OX ,0,1.875
+, XOOOXX  ,0,12.375
+,O X   X O,5,1.3125
+,OXX  OX O,4,5.0
+,XOX  OX O,4,-3.0
+,O X XO OX,6,3.375
+, X O O  X,4,2.0
+,  OO  XX ,1,-2.1875
+, OOO XXX ,4,-1.0
+,  X X O O,0,0.75
+,OX OO X X,2,-5.5
+,X  O XXOO,4,3.0
+, X  O XO ,3,2.0625
+,   OOXX  ,1,8.625
+, O OOXXX ,8,20.625
+,O O  X X ,1,4.0
+, XO   O X,5,0.28125
+,O X  XXOO,3,0.75
+, OXX O   ,7,-0.75
+, OXXXO O ,8,2.0
+, X O X O ,0,1.125
+,OXXO X O ,4,0.75
+,O XXOOX  ,8,2.0
+,  OXX   O,0,-1.4375
+,XXO XOO  ,3,-5.0
+,XOX  X OO,3,1.5
+,XXOX  OO ,5,1.5
+, XO    OX,0,0.5625
+,OXO   XOX,3,2.25
+,     OOXX,0,-0.375
+, O   X XO,2,1.6875
+,  X X  OO,5,-2.0
+,  XXXO OO,6,7.0
+,XOX  O OX,4,2.0
+, O O XX  ,4,1.96875
+, O OOXX X,2,-2.75
+,  X  OO X,3,0.0
+,XXO  O OX,6,0.75
+, OX  XO  ,7,0.5
+, OXX XOO ,4,4.0
+,X    X OO,2,0.09375
+,O  O  X X,5,0.78125
+,OX O OX X,4,2.0
+, O OX   X,2,-1.5
+, OOOX  XX,5,-5.0
+, OX  OXOX,3,-0.5
+,O   XXOXO,1,2.25
+,XX XO  OO,6,4.0
+, O  XX O ,3,-2.15625
+,XO OXX O ,6,-3.0
+,OOXX X O ,4,1.0
+,  XOX  O ,8,-5.6875
+, XXO  O  ,4,0.0
+, XXOO O X,0,5.0
+,  OOXX   ,6,-0.9375
+,X OOXXO  ,7,-2.0
+,O  X O  X,7,0.5625
+,OXO X    ,7,0.09375
+,OXOXX  O ,8,-0.25
+,    OXXO ,8,6.375
+, XO O X  ,7,2.71875
+,XXO O XO ,8,-4.875
+, OXOXXO  ,7,-2.0
+,OXOX     ,4,8.0625
+,OXOXOX   ,6,33.0
+, XOOO X X,0,-0.375
+,    OX XO,1,8.90625
+,XO  OX XO,2,16.875
+,O  XO X  ,5,2.0625
+,OX XOOX  ,7,4.125
+,O  O  X X,1,-1.0
+,OO OX X X,2,4.0
+, O  X  XO,0,1.125
+,OO  XX XO,2,2.0
+,X O O  X ,6,5.0
+,X  O   XO,6,-1.96875
+,OO  X X  ,5,0.5
+,OO XXOX  ,2,4.0
+,    XXO O,0,1.25
+,O X XXO O,7,8.0
+,O O  XX  ,3,1.03125
+,   OOX X ,1,-3.0
+, O OOXXX ,0,-7.25
+,OX XOO X ,6,3.0
+,  OX O X ,6,3.375
+,X OX OOX ,8,1.0
+,O XX  O  ,7,12.375
+,OXXX  OO ,4,2.625
+,XO O O XX,6,1.5
+,XX O    O,2,3.84375
+, O O X  X,7,-0.4375
+,   X X OO,4,1.3125
+,    XO OX,3,-1.75
+, X OXO OX,6,-5.0
+,X OX O   ,6,1.3125
+,OXXX  OO ,8,3.0
+, OX   O X,3,-3.9375
+, O  XO X ,2,0.5625
+, OO XO XX,3,-26.0
+, X XOOO X,0,1.875
+,O   XX O ,6,-0.5
+,O   XXOOX,3,9.0
+,OXXO     ,6,2.0
+,  X OO  X,0,4.96875
+,OXX O    ,5,2.625
+,OXX OOX  ,7,2.25
+,   XO X O,7,-6.25
+,OO  XOX X,2,11.0
+,  O X  OX,1,-2.1875
+, OOXX  OX,5,1.75
+, O   OXX ,4,-2.75
+, OX OOXX ,0,-2.0
+,XO XO  XO,6,3.375
+,X X O OOX,3,-4.0
+,O  O  X X,7,1.5
+,OXX    O ,3,0.5625
+, XOOOX X ,0,3.0
+, O  XXOOX,3,-5.0
+, O X  OX ,4,2.34375
+,XO XO OX ,8,5.25
+,X   OXO  ,3,-4.40625
+,X XOOXO  ,7,-8.0
+,OO XX    ,5,2.90625
+,OO XXOX  ,8,0.75
+,XO X OOX ,4,0.75
+,X XO    O,1,3.46875
+,OO X XO X,7,-1.0
+,X XOO O X,7,-6.0
+,O OXOX X ,8,8.0
+,OXO  O XX,4,-0.5
+,OXO  X XO,3,2.25
+, OXOOXX  ,7,20.0
+,  XX  OO ,8,6.0
+, X   OXO ,4,3.46875
+, XX OOXO ,0,5.25
+, X  O O X,7,4.3125
+,   OX O X,2,-1.9375
+,  XOXO   ,1,-3.15625
+, OXOXO X ,0,-1.0
+, X XOO   ,6,-0.46875
+,XX XOOO  ,7,-3.0
+, O  O  XX,0,-5.25
+,OX  X O  ,3,4.0
+,  XOXO   ,8,-5.25
+,XX   OXOO,3,-0.25
+, O  XOOXX,0,13.5
+,    OX XO,2,7.40625
+,  O OXXXO,0,68.0
+, XXO   O ,5,-1.1875
+,XO X O   ,8,-2.75
+, XXO OO X,7,-2.25
+,  XOXXOO ,0,7.0
+,X X OOO X,1,3.75
+, X OO XXO,5,5.0
+,O XXOX O ,1,18.0
+,X OO  X  ,7,0.09375
+,X OO  XOX,1,-1.0
+,   XOXOXO,1,1.5
+, O O  X X,7,0.5625
+,XX OO  OX,5,4.0
+, O  OX  X,3,-20.75
+,XXOOXO   ,6,-2.0
+,X  OX O  ,7,-2.0
+,   XO O X,1,8.71875
+,O X   O X,3,41.0
+,  O O  XX,5,-4.0
+, XO OO XX,0,-2.0
+,O  XOXXO ,1,3.0
+,O   O  XX,5,-3.28125
+,O X OO XX,6,0.75
+, XX OO XO,6,-3.25
+,O OX OX X,7,0.375
+,X   OXO  ,2,6.0
+, OX X O  ,5,2.25
+,   XOOOXX,1,2.625
+,OX    XO ,3,1.6875
+,OX OX XO ,5,-2.625
+, OXOX  OX,6,-6.0
+,O  XX OXO,2,-9.0
+,OX O X OX,6,2.0
+, O XOXO X,0,0.25
+,OO XOXOXX,2,21.0
+, X OOXOX ,8,3.0
+,O OOXXX  ,1,4.0
+,  X  OO X,1,0.28125
+,  X  OXO ,0,0.125
+,O  XO X  ,1,1.5
+,OO XO X X,7,3.0
+,  XO XXOO,4,3.75
+,O X XO   ,1,-3.5
+,OOX XO  X,3,-0.25
+,X     XOO,4,-0.1875
+,X X O XOO,1,9.0
+,X OOX  XO,1,4.125
+,  O  OX X,0,-2.4375
+,OXO  OX X,4,-0.625
+,O X O XOX,1,14.0
+,OOX   X  ,4,4.3125
+,OOXXO X  ,7,6.0
+, X  O  XO,2,2.8125
+,XXO O  XO,3,0.75
+, X O XXOO,4,3.0
+, O  X OX ,0,0.75
+,OO  XXOX ,8,-2.0
+,OX OX  OX,5,3.375
+, X XOOXO ,0,4.125
+,O  O   XX,4,0.25
+,   XXOO  ,0,1.5
+,OX XXOO  ,7,9.375
+,OXOX     ,8,0.75
+,OXOX X  O,4,4.0
+,   O  XXO,4,0.75
+,  XOO XXO,5,13.0
+,O X OOX X,7,2.25
+, X  O  OX,0,0.09375
+,OXX O  OX,3,-4.25
+,XOO     X,7,-2.5
+,  O OX X ,6,48.0
+,  OX X O ,4,2.8125
+,  OXOXXO ,0,34.5
+,  OX X  O,6,-1.0
+,  O X  OX,5,-1.4375
+, X OO  X ,2,7.125
+,XOOO X  X,7,-0.25
+,O OXX    ,1,12.0
+,X    X OO,4,0.28125
+,X   OXXOO,3,4.125
+,OX O    X,6,4.0
+,  O XX O ,3,-3.1875
+,  OOXX XO,6,2.25
+,XO  X O  ,3,-3.96875
+,XOXOX O  ,7,3.75
+,X OXO    ,8,0.5625
+,XXOXO   O,7,-1.25
+, XX   O O,0,0.75
+, XO  OOXX,0,0.5
+,  OO XX  ,4,0.84375
+,  OOOXX X,0,-49.875
+,O  XX OXO,1,-8.625
+,OX XXOO  ,8,0.25
+, XX O   O,7,-6.1875
+, O X   OX,0,3.375
+,OO XX  OX,2,5.0
+,OOXXO X  ,8,2.0
+,X  XOO   ,7,-0.1875
+,OO    X X,3,-2.25
+,X O X  O ,8,6.28125
+,O  XO   X,7,1.875
+,OX XO  OX,5,0.375
+, O X X O ,8,-0.25
+, OXX X OO,6,2.0
+,O  O XXXO,2,1.5
+,O   OXX  ,3,3.09375
+,  XO  XO ,4,10.6875
+,OX X   O ,6,0.84375
+,X O  XXOO,3,4.125
+,OX    XO ,4,0.84375
+,OX  O XOX,2,13.875
+, OX  O  X,6,1.96875
+, OX  OOXX,4,1.875
+,X OX  OXO,1,0.75
+, O X  O X,5,-0.1875
+,XO X OO X,2,-4.0
+,O XX    O,1,3.09375
+,OOXXX   O,6,-1.25
+,X X O XOO,3,-3.25
+,  XO O X ,0,1.5
+,OXXO O X ,6,3.0
+,   X  OOX,2,0.84375
+, XOX  OOX,5,3.75
+,  X O X O,1,3.375
+, OXXO X O,0,7.0
+,OXXOO X  ,7,6.75
+,X OXO  OX,1,5.0
+, XXOO  XO,6,-5.5
+,X X  O  O,1,-1.40625
+,X OOOX X ,8,4.5
+,O  X XO  ,7,0.3125
+,XXO   OOX,3,-1.0
+,XO  O   X,2,1.3125
+,XOOXO   X,6,7.0
+, X O OX  ,2,1.03125
+,   XXXOOO,0,-24.0
+, O OX X  ,5,-2.875
+, O OXOXX ,2,-4.75
+, XXX OO O,0,2.25
+,   XO OX ,5,116.0625
+,  XXOOOX ,1,9.375
+,XO    XO ,3,2.34375
+, O XO  X ,2,-0.1875
+,  O  X XO,6,0.0
+,  X OXXOO,0,14.0
+,OX   XXOO,3,0.75
+,  O O XX ,0,2.375
+,O OXO XX ,5,-7.25
+,XOX O  XO,3,7.875
+,OO  OXX X,7,9.0
+,X   O  XO,6,3.1875
+,XX  O OXO,5,0.5
+,  XOOX XO,0,11.0
+,XX O  XOO,4,0.375
+, OX   X O,0,0.3125
+, OOX X   ,7,2.0625
+, OOX X OX,0,1.0
+,OX  OO XX,6,0.75
+,O    XO X,4,-1.0
+,X OOOXX  ,7,27.75
+,   XO X O,0,59.0
+, XO  X O ,6,1.5
+, XOX XOO ,8,6.0
+, X  OX  O,0,54.0
+, XOOXX  O,6,-4.5
+, X XOO   ,2,1.5
+, XOXOO X ,8,6.0
+,   XO O X,0,3.65625
+,O OXXO X ,8,6.0
+,O XOX    ,7,-0.1875
+, OO X   X,6,-6.1875
+,OO  X X  ,2,11.0
+,O     XXO,1,-0.9375
+,OOX   XXO,3,0.25
+,  X OOX  ,8,1.125
+,X X OOX O,1,-1.0
+,XX OO  XO,2,0.75
+,O O  XXOX,4,9.75
+, XOOX O X,7,0.5
+,X     O  ,5,3.3515625
+,X X  OO  ,4,1.3125
+,X O XO   ,1,-4.25
+,XOOXXO   ,7,-1.0
+, OOXOX X ,8,4.5
+, O OX X  ,7,-1.53125
+,  XOOXOX ,1,-5.25
+,  O XOX  ,3,-2.4375
+,X OOXOX  ,8,7.0
+,     OOXX,3,-0.1875
+,X  O O  X,6,0.5625
+, O  XOXOX,2,-2.0
+, XO XX OO,0,-3.875
+,   XOOX  ,0,6.375
+,XO  OX   ,2,5.15625
+,XOOXOX   ,7,6.0
+, XOX    O,6,0.75
+,OX XO  OX,6,3.375
+,XX O OXO ,8,-0.25
+, XO   X O,7,0.28125
+,XX  O   O,7,-4.21875
+, XX O XOO,3,-5.0
+,O   XXO  ,7,0.5
+, X XO O  ,2,47.0
+, X O  XO ,2,3.375
+, XOO  XOX,4,8.625
+,  OXO  X ,8,5.0625
+,  OXOX XO,6,30.0
+,O    OX X,1,-0.9375
+, XXXOO O ,0,4.875
+,O X   XO ,8,-5.5
+,O    X OX,2,9.375
+,XX O OOX ,2,-1.25
+,X OX OOX ,1,0.75
+,OX     XO,2,1.3125
+,OOX X    ,8,-1.90625
+,O XO O XX,6,3.0
+,X  X  OO ,8,7.0
+,  XXOO   ,7,-1.40625
+, O X  XO ,8,-1.5
+, O XX XOO,5,-4.0
+,O X OX   ,7,1.875
+,XX  XOOO ,8,12.0
+, O XXOX O,7,-1.0
+,OO XX  XO,2,1.0
+,  X X O O,7,10.0
+,   OO X X,1,-3.75
+, OX  XXOO,3,-3.25
+,  O XX  O,6,-1.65625
+,X XOXOO  ,7,-2.0
+,  XO O  X,6,0.0
+,X XO OO X,4,1.0
+,   OXX  O,0,1.3125
+,O XOXX  O,7,1.5
+,   O  XXO,5,0.0
+,   OXOXXO,1,-1.25
+,XOXOX   O,5,-5.625
+, X    OXO,2,-0.9375
+,XXO   OXO,5,4.0
+,    X OXO,3,-2.75
+,  X XO  O,3,-6.5
+,X XOXO  O,1,-5.0
+,XO  O  X ,6,4.59375
+,  XXOOX O,1,1.5
+,O   O X X,2,-5.125
+,O X  O X ,6,2.15625
+,OXX  OOX ,3,3.0
+, O  XXO  ,8,-1.6875
+,XO  XXO O,7,16.0
+,X O O   X,5,2.0625
+,XOXO     ,5,0.5625
+,XOXO O  X,7,-1.25
+,O  X X  O,7,-0.1875
+,O  X XXOO,4,8.0
+,   XO OX ,2,34.0
+,X  O OX  ,7,-1.5
+,X  OXXO O,2,2.625
+, OOXO X X,7,4.0
+,OOX   X  ,7,0.5
+,OOXX  XO ,4,1.0
+,X  O XOXO,1,3.0
+, OX O X  ,5,7.875
+,XX O  O  ,2,3.75
+,XXOO XO  ,7,4.5
+,XXO   O  ,3,-0.75
+,XXOO  XO ,8,1.875
+,  X  OX O,1,-0.75
+, OXX OX O,4,-0.25
+,OOX    X ,8,10.21875
+,OOXX   XO,5,2.25
+,OXX OX O ,6,-5.75
+,   OX  XO,5,-2.75
+,  OOXXXO ,0,4.5
+,XXO  XOO ,4,3.0
+,O  X O  X,4,1.40625
+,O XXOO  X,1,6.375
+, O XO   X,0,-0.09375
+,OO XOX  X,6,-1.0
+, X X O O ,6,0.5625
+, XXX OOO ,0,0.75
+,XOX    O ,8,3.75
+,XOX   XOO,4,6.0
+,X  X OO  ,7,0.0
+,X XX OOO ,8,4.0
+,O X O X  ,1,1.3125
+,O  OX XOX,1,-2.25
+,X   O O X,1,4.125
+,XOX O O X,3,-3.0
+,XOX O X O,5,-8.0
+, OO XOX X,7,-3.5
+, OX O  X ,5,4.5
+,XO   O  X,4,1.5
+,XO  OO XX,3,3.0
+, XOX  OXO,0,-2.25
+,X  XOX OO,2,-6.75
+, OXX O OX,4,3.0
+, X  X OO ,5,2.4375
+,XX  XOOO ,2,-0.5
+,  OOOXX X,1,-62.5
+,   OXX O ,6,-0.9375
+, X OO   X,0,4.5
+, X  OX O ,0,3.28125
+,OX  OX OX,2,10.125
+,OX  XX OO,2,0.75
+,OX X    O,7,1.125
+,OX XX  OO,2,0.25
+,   XX  OO,1,-4.4375
+,XO XX  OO,5,-2.0
+,OX O   X ,5,0.125
+,O X  O  X,3,0.75
+, OX O   X,6,2.0625
+,XOX O O X,7,23.0
+,O  O  XX ,5,-7.25
+, X  X OO ,8,25.0
+, X O  O X,5,-0.9375
+,O  XXOO X,1,8.625
+, OX X O  ,3,-0.1875
+, OXOX O X,7,-9.0
+,X  XXO OO,6,3.0
+,XX  O XOO,3,1.125
+,O XXO OX ,1,8.625
+, XXXO  OO,6,5.0
+,XO XXO  O,7,-0.25
+,XX O    O,6,0.5
+,XX O  OXO,5,-1.0
+,X OOX  XO,5,1.0
+,OXO X    ,5,-0.625
+,XOOO   XX,6,-0.75
+, XO  XO  ,3,2.4375
+, XOOXXO  ,7,3.0
+,O XO   X ,1,0.75
+,OOXOX  X ,5,-1.0
+,O   XX  O,7,-1.5
+,OX  XX OO,6,3.0
+,  XO   XO,4,0.75
+, XXOO  XO,0,22.0
+,X   OX O ,2,12.5625
+, OXXO X O,7,3.0
+,X XOXO O ,8,-5.0
+, X OXXOO ,2,2.25
+,OOX O  XX,3,-10.0
+, XX OOOX ,3,1.0
+, X  O OX ,2,21.0
+,O XO  XOX,4,-0.5
+,OXO XX O ,3,3.0
+, OXX   O ,4,5.0
+,OXO  XO X,7,2.25
+,  XX  O O,0,0.5625
+,O XX  OXO,5,10.5
+,OX   OOXX,3,4.0
+,OOXOX  X ,6,3.0
+,OX OOXX  ,2,3.0
+,OXXO     ,4,1.3125
+,  O XOXOX,3,-7.0
+,X X  OOOX,1,-2.5
+,  XO XOXO,4,1.875
+,  XXOO XO,1,3.75
+,X O  O  X,6,-4.0
+,O X  O X ,1,-0.1875
+,  XOX OOX,1,-5.0
+,     OXXO,4,0.75
+,XO XO    ,7,40.0
+,   OX X O,0,-5.4375
+,O  OXXX O,7,-8.25
+, OXO X   ,7,-4.25
+, OXOXX O ,0,-6.0
+,  XOOX   ,8,5.0625
+,  XOOX XO,6,3.375
+,OO  X X  ,7,1.25
+,OO  X XOX,2,9.0
+,  X X O O,5,-0.46875
+, XX XOO O,3,-2.0
+,  X  X OO,6,9.0
+, X  XOO  ,2,-1.46875
+,  OXXOO X,1,0.0
+,O  OOX XX,1,-6.0
+, O  XO X ,0,1.6875
+,OO  XO XX,6,6.0
+,O O  XX  ,8,1.125
+,OXO  XX O,7,0.75
+, OXOXO X ,8,-0.25
+, X O OOXX,2,-1.0
+, X  X OO ,3,5.625
+,   XX O O,7,-0.25
+,  O XO  X,0,2.71875
+,OXO XO  X,3,-7.75
+, OOX    X,0,5.0
+,X   O X O,7,-1.25
+, OXOX  XO,6,1.125
+,XO XOXO  ,2,3.0
+,X  OXOX O,1,-3.75
+, XO XX OO,6,26.0
+,XXO   O  ,7,0.5625
+,  X O  XO,1,12.5625
+, OX OX XO,6,2.25
+,O    XX O,3,-0.46875
+,     XXOO,0,-0.1875
+, X O OX  ,4,15.0
+, OXXX  OO,5,-3.25
+, X    OOX,0,4.03125
+, O  XOXXO,0,0.75
+,X    O XO,4,0.75
+,XOO    X ,4,2.90625
+,  XX   OO,4,0.0
+,  X OX O ,0,-4.0
+,OXX   O  ,3,7.0
+,O XX OX O,1,-2.25
+,O XXXO O ,8,-2.25
+,  O XO X ,1,15.9375
+,XOO XO X ,8,12.0
+,X O  XO  ,3,1.59375
+,X OO XOX ,8,0.75
+,OOXX O  X,6,2.25
+,X X OO   ,8,-6.75
+,X X OO XO,3,220.0
+,   XX O O,2,-0.9375
+, XOXX O O,0,-3.0
+,  X O OX ,0,6.5625
+,O OX OX X,1,2.0
+, X O  X O,0,1.3125
+,XOXOOX   ,7,60.0
+,  X O OX ,5,0.84375
+, XX OOOX ,8,0.75
+,O X O   X,7,-3.15625
+,O X O XOX,3,-4.5
+,  XOOX   ,6,-6.96875
+,O     XOX,2,0.5625
+,O O  XXOX,3,3.375
+,OO X  X  ,5,1.125
+,OO XXOX  ,7,0.75
+, O OX  X ,0,0.0
+, O  X  XO,2,7.3125
+,O O  X X ,8,0.5625
+,OXX  O XO,4,3.0
+,XXOXO   O,6,2.0
+, O X O  X,4,1.3125
+, O XOOX X,7,3.0
+,X O O  X ,8,3.0
+,XX XOOOOX,2,14.0
+,  O X X O,0,3.75
+,O O XXX O,1,4.0
+,O   XO X ,6,-2.375
+,O   XOOXX,3,10.0
+,XOOO  XX ,4,-0.25
+,X    OO X,2,-0.4375
+, OXOXO  X,6,-0.5
+, XOXO  XO,0,2.0
+, OX  OX  ,0,-0.4375
+,OOX  OX X,7,-5.5
+,    O OXX,0,4.3125
+,OX  O OXX,5,7.5
+, XOOXO  X,7,-1.25
+,XO O OX X,2,-4.0
+,O  OX   X,1,3.75
+,OO OXX  X,6,8.0
+,   OOXX  ,2,10.78125
+,X OOOXX  ,1,9.75
+,XO OOX  X,2,9.75
+,    XOX O,3,-2.9375
+,OO  XXXO ,3,-0.5
+,  OOXXXO ,8,1.125
+,XOXO  O X,7,-3.0
+, X  XOOOX,3,-3.25
+,   XOX  O,7,4.5
+,O   O XX ,8,12.0
+,O    XX O,2,3.5625
+, X OX   O,2,-0.25
+,XXOOX   O,5,4.0
+, OX X   O,3,-2.90625
+, OXOXX  O,6,3.75
+, OXOX  OX,5,-5.0
+,  XO X O ,8,2.0625
+,  XO XXOO,1,1.5
+,XOX O X O,3,27.75
+, XXX OO O,4,0.5
+,  OX  O X,0,1.59375
+,OXOX  O X,5,0.75
+,X X O   O,3,-0.96875
+,X O O XXO,5,24.0
+,X O  O X ,3,0.75
+, X OX O  ,7,1.3125
+,  O X  XO,1,8.15625
+, OO X XXO,5,8.0
+,O  O  XX ,4,-1.5
+,O  OOXXX ,8,11.0
+, O OXOXX ,0,-4.0
+,  XOX   O,6,3.09375
+,  XOX OXO,1,1.875
+, OOXOX  X,0,4.0
+,OXO   X  ,4,-0.75
+,OXO O X X,3,-0.875
+,O  XOXOX ,8,3.0
+,OX  OO XX,2,1.5
+,XX OXO O ,2,-2.0
+,X O XOXO ,8,10.0
+,XOX XOO  ,3,2.25
+,X X O O  ,3,-10.40625
+,   XX O O,1,-3.0
+,O O X  X ,6,-4.0
+,O OXX OX ,1,5.0
+,X  O  O X,1,-5.1875
+,XOXO X  O,7,3.75
+,X    X OO,1,1.03125
+,   X  OXO,0,0.84375
+,O  X XOXO,1,-0.5
+,  X   OOX,5,-1.6875
+,X XO O   ,8,0.3125
+,  OXOX   ,6,49.0
+,X XOO    ,8,2.875
+,X XOO X O,5,9.0
+, O O XX  ,0,-3.75
+,XOX    O ,6,1.3125
+,XOX   OOX,4,7.0
+,   OX XO ,2,0.375
+, XOOX XO ,8,1.875
+,XO O X XO,2,0.75
+,OX X    O,6,0.0
+,XO OOXX  ,2,3.75
+, XO OX   ,7,26.4375
+,    OO XX,3,19.25
+,XO  O  X ,3,19.40625
+,XOXOO  X ,5,2.0
+,XO     OX,6,-1.25
+,OX X    O,5,2.25
+,X OX  O  ,4,1.0
+,OXXOOX   ,8,4.0
+,O    OXX ,8,5.625
+, XXOOXO  ,7,-4.0
+, O  O XX ,0,-0.4375
+, OXOOXX  ,0,-7.0
+,XO   OXXO,2,5.0
+,X  OO X  ,1,5.34375
+,O O  XOXX,4,1.0
+,   XOO X ,6,1.6875
+, X XOOOX ,0,7.5
+,XO     OX,5,-1.5
+,  OX  OX ,1,1.875
+, OOX  OXX,5,0.75
+,OO  XX OX,3,-1.0
+, OX    XO,6,1.6875
+,   XOXXOO,2,-1.0
+,OOX X  XO,6,1.875
+,XO OXX  O,7,8.625
+,XO   X O ,4,1.0
+, X O  OX ,8,0.5625
+,XO   XO  ,7,0.75
+,    XO XO,2,-13.0
+,X OX   O ,6,3.0
+,XXOX  OO ,8,3.0
+,    O OXX,5,6.0
+, X  OOOXX,0,0.75
+,XX OO X O,2,4.5
+,  OXXO   ,6,2.4375
+,O  O XX  ,2,5.34375
+, O XXOOX ,8,3.375
+,O OX    X,7,2.8125
+,O OX  XOX,4,4.125
+,X O   XO ,3,0.84375
+,X OO  XOX,5,1.5
+,OX   OXOX,4,0.375
+,XO  OX XO,3,3.0
+,    X OOX,0,13.78125
+,OX  X OOX,3,26.0
+,  XXO O  ,8,20.4375
+, XXXO O O,0,5.0
+,XX   O  O,4,1.5
+,   XXXOOO,1,-24.0
+,O OOXX  X,1,1.0
+,   XO XO ,1,52.0
+, OO  XX  ,3,1.3125
+, OOO XX X,4,0.75
+,O  OX X  ,1,-1.75
+,OO OX X X,7,-1.0
+,XXOOOX   ,6,6.0
+,XOO O XX ,8,-6.625
+,O  X XO  ,8,1.5
+,O XX XO O,7,28.0
+,  XXO XOO,0,11.0
+,XO OX    ,8,6.09375
+, X O  O X,2,1.5
+, XOO XO X,4,2.0
+, OXX OOX ,0,0.375
+,X   OXXOO,1,48.0
+, O   XX O,3,0.5625
+,  O OX X ,1,24.0
+,XX  O O  ,5,-4.9375
+,O X X   O,7,-0.875
+,XXOO OX  ,7,1.5
+,XOXO     ,8,0.84375
+,  X   XOO,5,-1.6875
+,O XO O XX,4,1.0
+,XO X   O ,6,5.0625
+,XOOOX X  ,5,-4.25
+, OX   X O,3,-0.4375
+, OXO XX O,4,3.0
+,OXXXOO   ,8,6.0
+,X   X  OO,2,1.5
+,OOXOXX   ,6,2.0
+,  O  XO X,4,11.0
+,    OXX O,3,18.1875
+,OO XX    ,6,0.5625
+, O  X XO ,2,-1.125
+,XX OO XO ,8,0.125
+, OXO    X,6,-1.75
+,X X O  O ,8,2.0
+,  O  XXO ,3,2.25
+,O OO XX X,1,4.0
+,X XX O OO,4,-1.0
+,    OXOX ,8,5.0625
+,   XOXOXO,2,3.0
+,X  XO O  ,5,5.15625
+, X OO   X,5,38.0
+, XX OO   ,0,21.75
+, X OXXO O,2,-0.25
+,  OX   XO,1,2.25
+, OOXX  XO,5,3.0
+, XXO OO X,4,3.0
+, O XX  O ,0,-5.0
+,OO XX XO ,8,-2.0
+,X OXOO X ,1,-0.25
+,O XO    X,5,1.5
+,OXXO O  X,6,4.0
+, OX  X O ,0,0.0
+,OOX  XXO ,4,4.0
+,O  X X O ,8,-2.1875
+,O  X XXOO,1,0.5
+,XO  O OXX,2,3.0
+, X   OXO ,2,0.28125
+, XO  OXOX,4,0.375
+,O X O   X,5,19.125
+, XO X   O,7,24.375
+, X  O X O,2,2.53125
+,X   X OO ,1,0.0
+,  X  XOO ,8,1.0
+,O  OX XXO,1,-2.75
+,OX   XOXO,4,2.0
+,OX  OX   ,7,3.09375
+,  XOOX   ,1,23.09375
+, OO XOXX ,3,-3.0
+,   XOX  O,0,40.0
+,  OOXXO X,7,2.25
+,O  OX  X ,1,-0.75
+,X OO OX X,1,-3.0
+,   XXXOOO,2,-23.0
+,XX   O O ,4,0.6875
+, OXX O   ,4,1.03125
+, O  XO X ,8,0.5625
+,   XX OO ,8,1.5
+, OX XO   ,7,-7.15625
+,    OXOX ,2,62.0
+,XO  OX   ,6,8.8125
+,XO OO X X,7,2.0
+,O X    OX,1,-4.96875
+,XO X XO O,7,6.0
+,XOOX     ,6,-0.375
+,  O O XX ,8,187.5
+,X O O XXO,1,-3.625
+, X   OXO ,3,-0.1875
+,O   X XO ,1,-1.25
+,OXOX  XO ,8,1.5
+,XOOX  OX ,5,2.25
+, X XO   O,6,2.0625
+, XX O   O,3,-0.25
+,O X X   O,1,-4.21875
+,  XX O O ,6,0.75
+, X    OXO,5,-2.75
+, O X X O ,4,2.0
+,OX  XOXO ,2,4.125
+,XO    O X,2,1.25
+, X OX O  ,0,6.0
+,     XXOO,1,0.5625
+,OOXX  O X,4,-2.25
+, XXOXO  O,7,-4.0
+,   OO  XX,0,-1.25
+,OO X    X,4,0.84375
+,OOXXO   X,5,9.375
+,XO  OXO X,3,-1.25
+,O  OXX   ,7,0.09375
+,OX OXX O ,8,1.125
+,OO XX    ,2,7.0
+, OXO  X  ,4,6.5625
+,    XOO X,1,0.96875
+, O XXOO X,7,-0.625
+,OOXOX   X,6,8.0
+,OX X OX O,2,2.0
+,XO XOXO  ,7,7.0
+,XX  O OXO,2,4.0
+,  OXX XOO,5,7.0
+,XOOX  OX ,8,0.75
+,OXXOX   O,5,-2.0
+, X  OX  O,7,4.78125
+,XOX  O   ,4,1.5
+,XOX OO  X,7,5.0
+,OX OXO  X,6,21.0
+,X     XOO,1,-2.75
+,XOX   XOO,5,-1.0
+, O  X OX ,8,1.6875
+, O  XXOXO,3,2.625
+, O XO   X,5,1.125
+, O XOO XX,0,-3.25
+,   OX XO ,0,-0.15625
+,O  OXXXO ,1,-0.75
+,  OO XXOX,4,1.5
+,X  O X O ,1,1.5
+, X  O X O,0,17.0
+, XOO   X ,5,0.3125
+,O X   OX ,4,5.15625
+,OO XX    ,8,-1.0
+, XXOOX  O,7,0.25
+,OX     XO,5,2.0625
+,OXX  O XO,6,0.75
+, XO OOXX ,8,11.0
+,O XX OOX ,4,2.25
+,  OX  XO ,0,4.5
+,  O XXO  ,0,-2.0
+,  XO  X O,7,-2.1875
+,  X     O,6,2.109375
+,X OO XO X,4,2.0
+,X OO  X  ,4,-0.9375
+,X OOO XX ,1,-4.5
+, OX  OX  ,8,-1.1875
+,  O O  XX,3,-2.0
+,X O OX XO,3,15.0
+,    OX XO,0,73.0
+, OX    OX,4,0.75
+,O  XOXO X,1,-3.25
+,XOXOO   X,5,11.0
+,  OXO X  ,7,2.09375
+,OOX OXX  ,8,3.0
+,OXX XO O ,6,3.0
+, O XOXOX ,8,9.0
+,    OXX O,2,10.59375
+,  O OXXXO,3,10.125
+,OOX   OXX,5,0.375
+,X   XOO  ,8,2.625
+,X   XOOXO,1,4.125
+,   XO OX ,1,16.96875
+,OO XO XX ,8,4.0
+, XXOO XO ,0,3.0
+, O XXO OX,2,0.25
+, XOOXOX  ,7,2.25
+,X OO XXO ,4,0.75
+, O O  XX ,2,-1.0
+,  OXX O  ,5,1.40625
+, XOXXOO  ,0,-0.625
+,O   O  XX,6,29.625
+,O X O OXX,1,-3.125
+,  OXOXX O,1,-4.5
+, OOXO XX ,5,-3.0
+, XOXX O O,7,2.0
+,OXOOXX   ,6,9.0
+,O   XX O ,8,-0.9375
+, OXX  O  ,8,1.03125
+, OXXX O O,7,8.0
+,  XXOOX O,0,9.0
+,XX  OOO X,2,29.0
+, X OXX OO,0,1.5
+,XXO OO  X,3,4.0
+,  O   XOX,5,0.5625
+,  OOX X  ,0,2.15625
+,O OOXXX  ,8,1.125
+,O O X X  ,8,2.0625
+, OXO  X  ,5,-2.0
+, X O   OX,0,1.78125
+,XO O  XOX,4,3.0
+,   OO X X,7,7.40625
+, OX X OXO,5,2.25
+,  XOXX OO,1,-0.25
+, O   OX X,3,-0.75
+, OXO OX X,0,-2.0
+,OXXO   OX,6,2.0
+, XOXO    ,5,2.8125
+,O OXO  XX,5,0.5
+, XO O X  ,3,4.78125
+,XO    OX ,3,0.84375
+,  X OXO  ,3,-33.125
+, X  X  OO,0,1.3125
+,OXX X  OO,6,3.0
+,   XX  OO,0,-3.875
+,XO O X   ,4,0.5625
+, X  XO  O,2,2.75
+,O XXO    ,7,3.46875
+,X   O  OX,3,3.5625
+,X XOO  OX,6,-4.0
+,XO    O X,5,-0.1875
+,XOX  OO X,7,-0.25
+,XX X OO O,2,7.0
+,XX XO  OO,5,-4.0
+,X OX  OOX,1,1.5
+,XOO  OX X,4,-2.0
+, OX  O  X,3,-0.1875
+,XOXO O  X,6,-2.25
+,X OX O   ,7,-1.25
+,X   XOO  ,7,-2.25
+,O XXOO X ,1,1.125
+, OX XXO O,7,1.0
+, X X  OO ,8,2.0
+,  XO OOXX,1,2.25
+,O  OX   X,6,4.0
+,X O  OXOX,4,-4.25
+, XOO XOX ,4,2.0
+, O   O XX,4,-0.25
+,  X O XO ,1,6.0
+,  X OOX  ,7,0.0
+,O X    XO,3,0.75
+,OXXO   XO,4,2.0
+,XXOOO   X,5,9.0
+,   X XO O,7,3.0
+,  X OO X ,6,2.8125
+, XX OOOX ,0,3.0
+,XOX  O   ,8,-0.75
+,XOXX O  O,4,-1.0
+,XOX   OOX,5,-5.0
+, XX XOOO ,0,3.75
+,XO  OXO X,2,2.0
+,  OX  O X,5,1.3125
+,  XOXO   ,6,-0.09375
+,  XOXOO X,7,-1.25
+,X     O  ,7,1.828125
+, O OXXX O,2,2.25
+, X O   XO,4,0.5625
+,   O XXO ,8,0.28125
+,X  OO XOX,2,3.0
+, X O  O X,4,0.75
+,OXO OX  X,6,51.0
+,XO   OX  ,8,2.25
+,O   O  XX,1,-3.59375
+,  OO  X X,0,-7.75
+,XO   OXXO,4,0.75
+,OXXOX  O ,5,-1.25
+,  O   XOX,4,1.59375
+,X O O XOX,5,-3.25
+,O  XOX   ,1,5.25
+,OO XOX  X,2,9.0
+,X  XOXO O,2,3.0
+,X  XOO   ,8,-1.75
+,X XXOO  O,6,-3.625
+,X XO OX O,1,1.5
+, OOO X XX,0,1.0
+,XX  OX OO,2,4.875
+,XX X O OO,4,-2.0
+, XXXOO O ,6,-1.25
+,O     XOX,4,3.75
+,O   OXXOX,2,5.625
+, XOX   O ,6,4.78125
+, XOXX OO ,5,3.75
+,X O  XO  ,8,-0.1875
+,X O  XOXO,3,4.125
+, XXO XO O,7,5.0
+,O  XX OOX,1,-3.25
+,   OXOX  ,2,-5.34375
+,XOX   O  ,3,-0.9375
+,O   XO  X,6,0.28125
+, XX OXOO ,8,8.0
+, OXXO    ,7,18.0
+,OX OXX O ,6,2.0
+,OX    XO ,5,-0.46875
+,O   OX  X,2,122.90625
+,O OX XXO ,8,-0.25
+,  XX O  O,0,1.875
+,O XX O XO,4,12.0
+, OXOX OX ,8,1.5
+,XOXOXO   ,8,-3.25
+,X X OOOX ,1,4.875
+,O   XXO  ,3,31.0
+,X XO  XOO,1,0.5
+,  OX  O X,7,2.0625
+, XOX  OOX,4,1.0
+, OOXX OX ,5,0.75
+, XO    XO,3,-1.1875
+,X  OO  X ,5,16.0
+,  O   XOX,0,3.0
+,O OX  XOX,1,2.0
+, OO  X X ,4,5.34375
+,X OO   X ,1,1.96875
+,O O XXOX ,1,2.0
+, OOXX    ,8,-3.25
+, OOXX  XO,0,7.0
+,  XX   OO,1,-0.75
+, OXX  XOO,5,-1.0
+,O O X   X,1,13.0
+,X O   XO ,1,-1.46875
+,O XX OX O,4,21.0
+,    X OOX,2,-2.96875
+, OXO   X ,0,0.0
+,O X XOOX ,3,3.0
+,OX O  X  ,8,0.5625
+,OX OX X O,7,-1.25
+,XO  XO   ,3,-1.46875
+,   XO O X,7,4.03125
+,XO  OOXX ,8,-2.25
+,  X  OO X,0,1.6875
+,O X  OOXX,1,1.875
+,  O  XO X,3,0.75
+,X O X  O ,1,-2.21875
+, OX O X  ,7,4.0
+,X    OXO ,3,-1.875
+,X O OOX X,3,24.0
+,X XXO O O,1,6.0
+,O O XX   ,7,1.40625
+,OXO XX O ,8,-1.25
+,O    X XO,2,1.5
+,   XOX  O,1,6.1875
+,   X OX O,7,0.75
+, X X OXOO,2,5.0
+,O OXX OX ,8,-5.0
+,XOO   OXX,3,-0.25
+, XOO  X  ,7,5.0625
+,XXOO  XO ,4,1.5
+,O  OXX   ,8,-0.9375
+,O  OXX XO,1,1.5
+,OOX O XX ,3,-0.25
+, XO X  O ,3,0.65625
+,XXOOX  O ,6,-1.5
+,XOO     X,5,-1.6875
+,   XOXOXO,0,14.0
+,OO XX X O,7,-2.0
+, X  OOXOX,2,2.25
+,OX X OX O,4,2.0
+, O  XOOXX,2,-2.25
+,OX XO    ,6,2.0625
+,OX XO O X,5,1.125
+,O XOO  XX,1,-3.0
+,X    OOX ,3,-0.9375
+,  O XOX  ,8,26.0
+,X OOXOX  ,7,-1.25
+,XOOX   OX,6,1.5
+, XO   O X,0,2.0625
+,  OO  X X,7,3.46875
+,OO O X XX,2,7.0
+,XXO   OOX,5,-1.5
+, OX OO XX,0,-3.625
+,XX    OO ,3,-0.75
+,X X OO OX,6,0.75
+, X XO   O,5,2.625
+,  XXOX OO,6,7.0
+, O   X OX,4,4.75
+,XX   OO  ,7,-3.75
+,X    OOX ,8,-0.46875
+,X  X OOXO,4,0.75
+, XX OO   ,8,-2.25
+,O   X XO ,3,-2.5
+,O  OX XOX,5,-1.25
+, X   O OX,6,-1.21875
+,X X OO   ,7,-5.75
+,XX   O O ,2,0.5625
+,O  X   XO,6,0.375
+, X  OOXOX,3,6.0
+,X O OXX O,3,117.0
+,X  OO   X,5,17.0
+,  OXXO OX,1,-0.25
+,  X   XOO,4,2.0625
+, XXXOOO  ,8,-1.25
+,XX OO  XO,5,8.0
+, OXXO O X,7,12.0
+,O    OXX ,1,-1.4375
+,OO X OXX ,2,1.0
+, OOX XX O,0,3.0
+,O X X OOX,3,10.0
+, OXX OO X,7,1.125
+,  XOOXX O,7,9.0
+,O  X  XO ,8,0.75
+,X O   X O,7,-4.71875
+,XO OOX  X,6,-3.5
+,O X O  X ,5,10.3125
+,O X OO XX,3,14.0
+,X XOO  XO,5,8.0
+,O   XXO  ,8,0.5625
+,O   XXOXO,2,-4.0
+,X  XO  O ,1,10.0
+,  O X X O,1,0.28125
+, OOXX X O,0,2.0
+,X OX O   ,1,-0.75
+,XO X OO X,4,1.5
+,O  OOXXX ,1,-0.5
+,OX  XO   ,2,-3.21875
+,O   XOX  ,1,3.75
+,  O XXOOX,0,-2.25
+,O  XX O  ,1,-0.84375
+,  XO O X ,4,7.0
+, X  OXXOO,2,2.25
+,XX OX OO ,5,-2.0
+,OOX  X   ,6,-1.5
+,OOX XXO  ,8,-1.5
+,OOX   X  ,5,-1.5
+,OOX  OX X,4,-5.25
+,X O O X  ,5,-8.25
+, XOOO  XX,6,4.0
+, OX   XO ,8,-2.5
+, OX  XXOO,0,-3.25
+,X OOOX X ,1,4.875
+,OX   XO  ,7,2.25
+,X OXXOO  ,7,-0.5
+,XX  O   O,3,-4.59375
+,   X O XO,2,3.0
+, X XOO XO,2,3.0
+,    X OXO,2,-5.15625
+, X O X  O,6,-0.75
+, XXO XO O,4,-1.0
+,OOX     X,4,-3.5625
+,X   X OO ,5,-6.125
+,X X  OO  ,7,-1.75
+,OX O X   ,8,1.78125
+, X OOX   ,2,5.34375
+,XO O  XXO,4,1.875
+,OO OX  XX,2,7.0
+, O  XXXOO,0,-4.0
+,XO    O X,7,1.3125
+, X O X  O,0,2.8125
+,X  O X  O,6,1.3125
+,X X   O O,7,0.0
+,O O  XX  ,4,1.03125
+, XO O XXO,5,6.0
+,O X X   O,6,15.5625
+, O XOO XX,6,2.625
+,O X OX   ,6,-8.1875
+,O XXOXO  ,1,-6.25
+,OXO    X ,4,1.875
+,X  OXX OO,1,1.5
+,OX OOXX  ,8,10.0
+,XX O OOX ,8,-1.0
+,O  O   XX,1,5.25
+, X  OO  X,0,4.875
+,   OXO X ,1,-1.5
+,  OOX   X,0,4.3125
+,X X   O O,4,-0.4375
+,X XXO O O,5,-4.5
+,X XO O OX,4,4.0
+,XX  XO OO,3,-4.0
+,X  X OO  ,8,1.3125
+,OXX OO X ,8,2.0
+,  XO X O ,4,0.5625
+,XXO X O O,5,1.0
+, O XX  O ,6,-0.40625
+, O XX OOX,0,-2.125
+,X  OO  X ,1,1.59375
+,XOXOO  X ,6,2.625
+,X OX  O  ,1,0.5625
+,    XXOO ,0,-2.75
+, X XO O  ,5,3.84375
+, OOX X   ,8,-1.0
+,X  XO  O ,6,36.5625
+,OOX O XX ,8,7.0
+, OX OX   ,8,7.40625
+, OX OXX O,7,6.0
+, OO XX   ,3,11.71875
+,X  XOOOX ,1,3.75
+,X  OX O  ,8,1.6875
+, O    XXO,2,0.5625
+,XOO   XXO,4,-3.0
+,   X XO O,1,-0.1875
+, O X XOXO,2,0.75
+,XO OXXO  ,2,-2.625
+,O O    XX,5,-2.6875
+,XXOOO  X ,5,4.0
+,X O  X  O,4,0.375
+,    X OXO,0,-2.84375
+,  XXO O  ,1,2.90625
+, OXOXO  X,7,-3.0
+, XX  O  O,0,-1.6875
+,OXX XO  O,3,-6.0
+,XXOO X O ,8,1.5
+,O XOX    ,6,19.0
+, X   XO O,7,3.0
+,OX   XXOO,4,2.0
+, O  O XX ,3,-1.4375
+,OX  OOXX ,3,4.0
+, XOO    X,7,0.84375
+,X X   O O,3,-2.46875
+,X XOX O O,1,0.75
+, X XO OOX,5,0.375
+,OOX    X ,5,-2.4375
+,O  X  OX ,2,1.5
+, XO OXXO ,8,25.125
+,O XX O   ,8,9.46875
+, X X   OO,4,1.3125
+,    XOX O,2,51.0
+,  OX OOXX,1,1.5
+, OX X   O,0,-1.1875
+, OXX O   ,6,3.9375
+, OXXXOO  ,8,4.125
+, O O  XX ,4,-2.75
+,X XOO XO ,1,14.0
+, OOX   X ,0,4.0
+,O XX O   ,4,4.21875
+,O XXOO X ,6,1.125
+,X    OXO ,1,-2.25
+,XOX  OXO ,4,1.0
+,XXOOOX   ,7,6.75
+,   O XXO ,0,0.84375
+, X O   XO,6,0.5625
+, XXO  OXO,4,0.5
+,O  X OXXO,2,2.0
+,  O  OX X,4,-0.21875
+,  XX OO  ,8,1.78125
+, XOO  XOX,0,1.875
+,XXO OO X ,6,4.0
+,XO    XO ,4,8.0
+, X O X O ,4,-0.75
+, XXOOX O ,8,-6.25
+,X  O X  O,4,0.5625
+,OX OX  OX,2,1.5
+,OXOXO X  ,7,1.125
+,   X O OX,1,0.5625
+,OO XOX X ,6,1.5
+,  XOO   X,5,13.0
+, OX  XO  ,3,-0.9375
+, XO OXX O,0,60.0
+,OX X    O,4,1.0
+,O  XO OXX,5,15.75
+,OX X OOX ,2,2.0
+,X  O  XO ,4,1.03125
+,X XOO XO ,8,-4.5
+, XOOX XO ,0,0.75
+,  OO XXXO,4,2.25
+,X    O OX,2,-0.375
+,X OX O OX,6,1.0
+,OOXX     ,4,3.1875
+,  XO  XO ,8,-4.1875
+,OXOXX   O,6,-4.0
+,X  X O  O,2,0.0
+,  XX OO  ,1,0.28125
+, OXXXOO  ,0,1.125
+,O   XX  O,2,0.75
+,O O XX XO,1,5.0
+,  OXXOOX ,0,-0.5
+,OX   X  O,6,1.5
+,OX  XXO O,2,-3.0
+,XOOX   XO,5,1.0
+,XOO   X  ,8,-2.71875
+,O OX    X,5,-0.1875
+,  OXOX OX,1,3.0
+,  OX XO  ,1,-2.25
+,  XO O  X,1,1.125
+,OO X OXX ,4,0.75
+, XXOOXO  ,0,7.0
+, XXO O   ,8,-1.0
+,X O O   X,1,2.25
+,XOOXO   X,7,4.0
+, XOXXOO  ,8,9.0
+, OOX  X  ,7,-3.25
+,O XO   X ,5,0.75
+,O XOXO X ,6,4.0
+,X OX   O ,8,-1.0
+,O  XX O  ,8,-5.65625
+,   OX XO ,1,-0.65625
+, OX X O  ,8,0.5625
+, OXXX O O,5,1.5
+,O  XOXXO ,8,4.0
+,X   O OX ,2,9.0
+, X OO OXX,5,3.0
+, XOO XX O,7,0.75
+,X  OX O  ,5,-3.71875
+,X  OXOOX ,1,1.875
+,   X O XO,1,0.84375
+, OXX O XO,6,0.75
+,O X  OX  ,4,4.125
+,O XXOOX  ,1,6.75
+,X OOXXO  ,1,-0.25
+,OX  OX   ,2,7.5
+,  XOXOOX ,8,0.375
+,   XXO O ,2,6.75
+,  XXO   O,6,7.21875
+,X O OX   ,1,21.84375
+, O  X O X,7,-1.46875
+,O    X OX,4,-0.65625
+,X X  O O ,6,-1.75
+,   XXO  O,1,1.96875
+,OX X  O  ,8,0.0
+,O OO X XX,6,1.0
+,  XOO  X ,1,0.28125
+, OXOOX X ,8,5.25
+,X OO XX O,1,0.75
+,X    O XO,6,3.375
+,X  X OOXO,2,3.0
+,X OO X   ,4,1.59375
+,OXOX  XO ,5,1.875
+,XXOO XO  ,8,0.75
+,XO X  OOX,5,0.75
+,OO  XX   ,8,-1.0
+,X XO XOO ,1,-1.25
+,  XOO  X ,5,6.0
+,X O O   X,3,6.1875
+,X  XO OXO,5,2.625
+, OX OXOX ,8,4.875
+,XX    OO ,2,1.3125
+,X X    OO,6,4.0
+, O  XX  O,7,-2.0
+, OXOX O X,5,-1.5
+,  OOX XXO,1,7.5
+,   OO X X,0,-4.46875
+,O  OXX   ,6,7.0
+, XOXO X O,0,11.0
+, OO X   X,5,4.875
+,O O XO XX,1,4.0
+,O O   X X,7,3.65625
+,X O OX OX,6,24.0
+,X  X   OO,1,-1.75
+,O  X  X O,2,0.75
+, XOO    X,4,2.71875
+,  OX  XO ,4,0.75
+, XOXO XO ,5,-3.0
+, O XOX XO,6,1.5
+,XOXOX   O,6,8.25
+, X  XOO  ,8,-3.9375
+,XOO    X ,8,1.125
+, OO XOXX ,0,7.0
+,X  OOX   ,8,1.59375
+,X  OOXX O,1,161.625
+, XO OX XO,0,45.0
+,OXO OXX  ,8,35.0
+, O  X XO ,5,-5.9375
+, O  X X O,7,-1.46875
+, O    XOX,5,1.875
+,XO OX    ,2,-1.625
+,XO XO O X,2,3.0
+,  OXX   O,1,-4.75
+,OX  X XOO,3,3.75
+,XXO  O   ,8,2.0
+, OO X XXO,3,2.25
+,O OX OXX ,1,2.0
+, O  OXX  ,3,-0.28125
+,X  O  O X,7,-2.25
+,X OX OO X,1,-1.0
+,X   X OO ,2,-0.4375
+,  O XO X ,8,-6.25
+,X  X O  O,6,1.59375
+,OX    X O,5,0.75
+,X X  O O ,3,0.75
+,O XOXO  X,1,-2.5
+, OX  XOXO,0,0.75
+,  OOOXXX ,0,-2.75
+,O OXXO  X,6,4.125
+,  X   XOO,3,-3.0
+,XO XOX  O,2,-1.25
+,X   XOO  ,2,0.4375
+,OX  O XOX,5,4.5
+,X   OX  O,2,2.0625
+,  OXO X  ,8,-3.5
+,  X  XO O,1,1.03125
+,XOX  XO O,4,1.875
+,   XXOO  ,2,1.875
+, XXX OOO ,4,-1.0
+, X XOX OO,2,1.5
+,OX  O X  ,5,1.40625
+,OO XX  OX,6,0.125
+, XO   XO ,0,0.5625
+,OXO   XOX,4,1.5
+,XOX  O   ,3,1.78125
+,XOXO O  X,4,2.0
+,XO X  O  ,2,-0.9375
+,XOOXX O  ,7,-2.0
+, XO OO XX,6,10.0
+,X XOX O O,7,5.0
+,   XOO  X,0,2.0625
+,O  XOO XX,2,-3.25
+,X   OO X ,8,8.90625
+, XX XOO O,7,8.0
+, O OOXXX ,2,-7.25
+, OO   XX ,8,7.03125
+,  XO  O X,5,-0.75
+,X XO OO X,7,-2.0
+,  OX O X ,0,1.5
+,   OX  XO,6,-0.1875
+,X  XO   O,5,-5.46875
+,OXXOX  O ,8,-2.25
+,OXXO     ,7,1.875
+,OX OX X O,2,-0.875
+,  X O  XO,3,17.90625
+,X XO OX O,4,1.0
+, OX X O  ,7,-1.96875
+, OX XXOO ,0,-2.0
+, XO O XOX,0,2.625
+,OOX  OX X,3,-5.0
+,X  O XO  ,1,0.5625
+,  X  X OO,3,-0.75
+,X XO X OO,4,-1.0
+,   OXO X ,6,-0.71875
+,  OOXOXX ,8,6.0
+, XO O  X ,5,3.75
+,OXX OO  X,3,11.0
+,   OXXXOO,0,-2.625
+, OX XO   ,3,-3.5625
+,XOXOXO   ,7,-4.0
+,OXXO X  O,4,2.0
+,OX XO OX ,5,7.5
+,XOXOXO   ,6,1.625
+,X  X O O ,6,-0.1875
+,X XX OOO ,1,0.75
+,  O OXX  ,7,6370.5
+,XO XOO X ,6,1.125
+,X O    OX,3,-0.1875
+,XXOO   OX,6,-3.0
+,OO OX  XX,6,2.0
+,   X  OOX,0,0.84375
+,O  XX OOX,5,8.25
+, OX   X O,5,-0.9375
+,OOX  OXX ,4,-1.5
+,   O  OXX,1,0.75
+,X  OX  O ,5,-2.9375
+,OXO XX  O,3,-1.125
+,XO    OX ,4,0.28125
+,XOO OX X ,6,14.0
+, O XOOX X,2,-2.0
+,  X  OX O,0,-0.1875
+, X OOX   ,0,5.15625
+, OX   X O,4,1.875
+, O   XOX ,8,-0.75
+,  OX  X O,5,3.0
+,XOXOX   O,7,0.25
+,  O  XXO ,1,-1.21875
+, XO    OX,6,2.71875
+, XO  XOOX,4,4.0
+,O O XO XX,6,-0.5
+,  OO  X X,4,-1.4375
+, XOOO X X,7,1.875
+,X XO    O,7,-1.1875
+,OXX OOX  ,3,12.0
+,XX OOXO  ,2,11.0
+, OX X   O,6,7.21875
+, O  XX  O,2,0.6875
+,XOO XX  O,3,1.5
+,    X OOX,5,0.0
+, X  XOOOX,0,4.875
+,  XO  XO ,0,-5.375
+,  O  XOX ,1,0.75
+,O     XOX,1,0.0
+,O XX O OX,1,2.25
+,X XOXO O ,6,-9.0
+,X OO XXO ,1,2.25
+,X OOOX  X,6,9.0
+, O X  O X,0,0.0
+,OO X XO X,4,-1.0
+,O OOXX  X,6,7.0
+,X X O O  ,5,0.1875
+,O O XX   ,1,14.0
+,XXO  O OX,3,-0.25
+,OX XO OX ,2,2.0
+,X  OXXO O,1,0.75
+,X  X  O O,5,2.34375
+, OO XXO X,3,-0.5
+,XXOXO  O ,5,-0.25
+,   XX O O,5,3.1875
+, X XXOO O,2,2.0
+, O  XX O ,6,-1.4375
+,XXO O X O,3,5.25
+, X  OOOXX,2,7.0
+, X O  X O,4,3.375
+, OOX X XO,0,1.0
+,O OOX XX ,5,-4.0
+,OX  XOXO ,8,-0.25
+, XXO  XOO,0,-5.0
+,OX   X  O,7,1.875
+,  OXX O  ,0,0.28125
+,OXOX   OX,6,1.875
+,  OX XO  ,8,-0.75
+,  OX  X O,4,2.0
+,  OXO XXO,0,193.0
+,  OXOOXX ,0,-0.5
+, OXXO    ,5,1.96875
+, OXXOO  X,7,4.0
+,XOO OXX  ,7,58.0
+,O XOOX X ,8,4.0
+,  XO  OX ,5,-0.75
+, X X O  O,2,8.0
+, XX O  O ,5,-2.875
+, X XOOX O,7,0.75
+, X  XO O ,3,-1.5
+, O XX   O,0,-0.4375
+,X OXO    ,5,0.8125
+,OO OXXX  ,7,-1.5
+,    X OXO,5,-7.34375
+,   XOXO  ,0,4.6875
+,O X OX   ,8,38.0
+,  O O XX ,3,-18.75
+, XOOO XX ,0,-2.5
+,OXX  OO X,3,5.0
+, XXOO    ,0,3.75
+,X    OX O,7,-2.25
+,O XX   O ,5,1.6875
+,     OXOX,3,1.5
+,X  O OXOX,4,1.0
+,O   XXXOO,1,-6.0
+,XXOXOO   ,8,3.0
+, XXO  O  ,8,-1.75
+, XXOX O O,5,-2.0
+,X XO OXO ,4,3.0
+, X   OX O,2,6.0
+,X  O O  X,1,-0.125
+,X X OO XO,1,13.5
+, O   OX X,0,-0.9375
+,OO X OX X,2,3.0
+,O XXO    ,5,5.90625
+,   O  XOX,5,-0.46875
+,   OXOXOX,1,-4.0
+,   OX  OX,5,-1.46875
+,  XO  O X,4,0.0
+, XOXX OO ,0,0.75
+, OX  X O ,8,1.125
+,XOXXOO   ,7,24.0
+,X  XOO XO,1,-0.25
+, X O  X O,2,4.875
+,XO OOX  X,7,4.0
+,  X O X O,5,4.5
+,    O OXX,2,6.0
+, O  XOX  ,8,-1.0
+,XO  XOX O,7,-8.0
+,XX OOX  O,7,-0.25
+,X  O  OX ,5,0.75
+,O O XX XO,6,-3.0
+, X  OOXOX,0,1.125
+, X O  OX ,5,-1.0
+,    XOO X,2,-0.375
+, O    OXX,0,-0.75
+,X XOO  OX,1,5.0
+, XXOOX O ,6,-7.0
+,X O O  X ,3,18.09375
+, X  OOX  ,2,1.125
+, XO    OX,5,0.28125
+, XOX  OOX,0,1.125
+,X   XO O ,2,-3.0
+,O   XXO  ,1,-3.0
+, XXOO    ,6,4.875
+,  OOXXXO ,1,1.5
+,OXOX O X ,6,-1.0
+,OX XO    ,2,3.28125
+,XX OO  OX,2,3.0
+, X OX O  ,5,-0.25
+,  OOOXX X,7,229.125
+,O XOXX O ,8,0.75
+, XXOX  OO,5,-2.0
+,X OOXX  O,6,2.25
+, O X O X ,0,4.125
+,OXO O  XX,5,1.25
+, X XXOOO ,2,3.75
+,XO   XOXO,4,1.5
+,X   X OO ,3,-3.25
+,   O OXX ,8,2.8125
+,XXO X  OO,6,3.0
+,   O OXX ,0,-2.25
+, X   O OX,4,1.125
+, XO  OXOX,0,1.125
+,    OXO X,0,-6.6875
+,OO X  XOX,5,0.75
+, OOX XXO ,0,2.0
+,   XO O X,2,70.0
+,  XO XO  ,7,0.5625
+, O X X  O,2,-1.75
+,XOOX X  O,4,-2.0
+,  O  X OX,4,1.6875
+,X OOX XO ,1,-0.25
+,  OXX OXO,0,-4.0
+,XOOO  X X,4,-1.25
+,O OXO X X,1,27.0
+,XXOOX  O ,5,-4.25
+, OXXO OX ,5,1.5
+, XO XO   ,8,2.75
+,X O  XO  ,7,-0.1875
+,O OX XOX ,1,2.0
+,  OX OX  ,7,-0.15625
+,  OXXOXO ,0,2.25
+,XXOO O  X,4,6.0
+,XO O  X  ,5,-0.1875
+,   O O XX,0,1.5
+,OOXOXX   ,8,-1.25
+, O XX  O ,5,-0.375
+, OO XXXO ,0,10.0
+, XO    XO,6,-1.75
+,X O  X O ,1,-0.75
+,O OO XX X,4,-1.25
+,X O XXOO ,1,-2.0
+,    XO XO,3,-29.28125
+,X O XX OO,3,7.125
+,  OOXX   ,8,-0.65625
+,     XOXO,4,0.28125
+, XX O OXO,3,-0.25
+, X XO XOO,5,-4.0
+,X  O  O X,2,5.75
+,X OXOO X ,6,5.0
+, O    XOX,4,5.0
+,   X  XOO,1,0.0
+, O X XXOO,2,-3.0
+, X  OXXOO,3,5.25
+,O O X XOX,3,3.375
+, XOXOOX  ,0,2.625
+,   OO XX ,8,4.3125
+,XOXXO   O,5,-0.625
+,OXO  XXO ,4,1.125
+, X X OOOX,4,0.375
+,XX  OO XO,3,5.0
+,O  XXO   ,6,2.90625
+, OO XX OX,3,-1.0
+,X  O  X O,5,2.0625
+, XO XO XO,0,-28.0
+,OX XXO O ,8,2.25
+, OO   X X,5,-2.25
+,  O XOOXX,3,-3.0
+,X OO  XOX,4,2.25
+,OXXX   OO,5,0.75
+,X O    XO,1,1.3125
+,XOO   XXO,5,7.0
+, OX   OX ,5,0.84375
+,OX OO XX ,5,4.0
+,  XO   OX,0,-3.0
+,XOXO  O X,5,0.75
+,O XO  X  ,8,-5.25
+,  O OX  X,6,379.0
+,O  X   XO,4,5.0
+,  O  OXX ,4,-2.75
+,  OOXXO X,1,-0.5
+,XXO OX  O,6,13.0
+,OXXX O  O,4,1.0
+,X O  XOOX,3,-0.5
+,OXO X X O,5,20.0
+,XO     OX,4,7.0
+,OX  O X  ,7,17.4375
+,  O XX  O,0,-1.1875
+, OXO   X ,5,1.59375
+,OX  X   O,5,-0.4375
+, O    XOX,0,-0.75
+,OO X X   ,2,10.0
+,O  OX  X ,2,-5.5
+, X OOXXO ,8,4.125
+,XOX OO X ,8,2.25
+, O XO OXX,2,14.0
+,X X O XOO,5,-2.0
+,  X O O X,0,-19.15625
+,XXOO   OX,4,3.75
+,O  OXO XX,1,-0.25
+, XO  XO  ,7,4.875
+, XOX XOO ,4,2.0
+,XX O  O  ,8,0.125
+,   O OX X,7,-2.25
+,  XO OXOX,0,-1.0
+,    OO XX,2,2.8125
+,  OO  XX ,8,2.53125
+, XX O  O ,3,-5.0
+,O   OXX  ,8,31.0
+, XOXOX O ,0,3.0
+,OOXX O X ,6,1.125
+, OO  X X ,6,0.75
+, OO XXOX ,8,-4.625
+,X O   OX ,8,1.125
+, O X OX  ,7,-1.5
+,X O   XO ,8,-1.0
+,  XOX  O ,1,-1.75
+,  O   XOX,3,1.96875
+,XOO   XOX,3,-2.0
+,   OX OX ,1,3.5625
+,OO  XOX X,3,-4.0
+,O   O X X,7,12.1875
+,  XXO XOO,1,2.0
+,O X X   O,3,-4.75
+, OXOX  XO,0,-1.0
+, OX XXOO ,3,-2.25
+,   O XX O,2,1.6875
+,XO XX OO ,5,-2.0
+,XO   XO  ,4,2.15625
+, O OXO XX,6,-0.25
+,  OOXX OX,6,-2.0
+,   OXXOXO,1,5.25
+, O X XO  ,0,-2.0
+,   XO OX ,8,25.5
+,  XXO OXO,0,11.0
+,OXXO  XO ,4,2.25
+,X O OXX O,7,-19.0
+, OXO  XXO,4,2.25
+,OXXX OO  ,7,2.25
+,OX X XOO ,4,1.5
+, XX   O O,7,1.0
+,O OOX XX ,8,2.0
+,OX XO    ,7,4.40625
+,XX   OOXO,3,-1.0
+,  O OXX  ,0,174.84375
+,X XO X OO,1,0.75
+,OOX O X X,5,-2.25
+,  XO  OX ,8,1.3125
+,X   O XO ,8,-4.46875
+, XO XOO X,0,-10.25
+,  X O XO ,8,3.0
+, O XX O  ,7,-2.0
+,OX  O X  ,8,5.0
+, OO XOXX ,8,6.0
+,O  XOOXX ,8,13.0
+,O X  XOXO,3,2.0
+,    OXXO ,0,18.84375
+,X X  OO  ,8,-0.96875
+, XO OX   ,0,37.125
+,OXO OX  X,3,4.5
+,XO O XO X,7,-1.0
+,  OOX XOX,1,-3.0
+, XXOXO O ,0,-0.25
+, O X   OX,4,2.0
+, X XOOO X,2,5.0
+,OXO     X,3,-0.1875
+,OXOOX   X,7,1.875
+,OX    O X,7,2.53125
+,OXX   OOX,3,9.0
+, OXOX    ,5,-1.6875
+,  X OOOXX,3,26.0
+, XO X O  ,7,3.375
+, X OX  O ,5,1.40625
+,O  XOX OX,1,11.0
+,X O X   O,5,6.0
+,O XXO  OX,1,1.0
+, OXXO O X,0,-1.875
+,O OXO XX ,8,5.0
+,X X O   O,5,-3.96875
+, OXO O XX,4,1.0
+,O    X OX,1,-2.25
+,OO   XXOX,4,2.0
+, OO X  X ,5,-0.375
+,XO OX OX ,8,2.25
+, OOOX X X,5,-3.0
+,XX     OO,2,3.75
+,XXO  X OO,6,5.0
+,XO O    X,7,0.75
+,    X OOX,1,-3.15625
+,XO    X O,2,-0.71875
+,X X OO   ,3,48.0
+, O  O X X,7,8.0
+,OX X XO O,2,-1.0
+,X    O OX,6,-2.25
+,X X  OOOX,4,-3.0
+,O  XO  X ,8,4.0
+,  OO XOXX,0,3.0
+,XX XOO  O,2,16.0
+, OX XO OX,3,-5.0
+,OXXO   OX,4,-0.25
+,    X XOO,2,2.15625
+,  OXX XOO,0,-4.0
+, XO O XXO,3,6.0
+, O X O  X,2,2.25
+,X OXX O O,1,-1.25
+,X  XO   O,2,0.875
+,OX   O X ,2,0.3125
+,OXO O XX ,5,-0.25
+,XOO OX X ,3,0.75
+,OO X X   ,4,1.5
+, XO OXXO ,3,18.0
+,OXO XO  X,6,-3.625
+, OO    XX,5,-1.5
+,   O OXX ,1,0.125
+,  X   OXO,5,-0.75
+,XXOO  X O,5,10.0
+,OX  X OOX,5,1.875
+, O XXOO X,2,-1.5
+,OX X  OOX,4,0.375
+, X XO O  ,0,5.4375
+,OOX     X,6,-3.71875
+,OOX  X XO,3,1.5
+,XO O X XO,6,0.375
+,XXOX   OO,5,1.0
+, O  X XO ,3,-1.375
+, O OXXXO ,0,-2.25
+,    O XOX,0,1.59375
+,X  X  OO ,5,1.3125
+, XOO XX O,0,1.5
+,X   OO X ,1,0.9375
+,XO  OO XX,6,7.5
+,OX    OX ,5,-0.25
+,X OOX X O,7,1.5
+, XXO    O,5,-3.0
+, XXO OX O,0,0.5
+, X  OX O ,2,2.71875
+, OX  X O ,4,3.75
+,XO OX OX ,2,-2.0
+,  X OOXOX,3,7.0
+,   XOO X ,8,7.59375
+,OOXXOX   ,8,2.0
+,OO X  X  ,4,0.75
+, OOX OX X,7,-0.25
+,  O  XX O,1,1.125
+,O XOX    ,5,-0.875
+, O XXO   ,0,2.0625
+,  OX O  X,0,0.375
+,OXOX O  X,7,0.375
+, OXOO X X,5,13.0
+,  XXOOXO ,0,0.75
+, XO  O  X,4,1.5
+,   OOXXOX,2,7.875
+,OOX  O XX,3,0.75
+,  O X O X,3,-9.4375
+, OO XXX O,7,-0.625
+,O XXOX O ,8,5.0
+,XO O XOX ,2,0.75
+, X XO   O,7,1.3125
+,X O XXO O,7,8.0
+,X    OO X,7,-1.375
+, OX O X  ,3,1.5
+,O XXX OO ,5,20.25
+,OO XXO  X,7,0.75
+,X    O XO,3,1.03125
+, X XOO   ,7,-0.65625
+, X XOO OX,2,2.625
+,OX  O X  ,3,4.125
+,XOOO  XX ,8,1.125
+,OX   X  O,2,-0.46875
+, XO  O X ,6,-3.0
+, X O OXXO,4,2.0
+, X O XOXO,0,3.0
+,OX  O  X ,6,2.8125
+,XOO OX  X,7,7.0
+, OO XO XX,6,-19.5
+,O  XO OXX,1,3.375
+, O  XO X ,3,-1.6875
+,XOOOX  X ,5,0.5
+,OOX  XOX ,8,0.75
+,XO  XXO O,3,1.5
+, OO   XX ,4,-3.09375
+,XOO O XX ,3,-3.0
+,  OO  X X,5,0.84375
+,  XX O  O,4,0.75
+,X X  O  O,4,-1.5
+,X OOXO X ,1,0.25
+, XXO    O,7,0.0
+, XXOX  OO,6,4.0
+, OX  OOXX,3,0.75
+,XOO X X O,7,-1.25
+,OO    XX ,5,-3.4375
+,   O O XX,4,5.0
+,X X   OO ,4,0.0
+,X XXO OO ,5,-2.0
+, O   XXO ,3,0.0
+, X   O OX,3,-0.75
+,  O   XXO,1,1.5
+,XX OO OX ,2,7.0
+, X O O  X,7,-0.75
+,XX O O OX,2,-2.0
+, X  X O O,3,0.75
+,O  XOOX X,7,2.25
+,XOO  XXO ,3,1.125
+,O XX O   ,7,1.6875
+,OXX  O   ,4,4.5
+,XXO X O O,7,8.0
+,X XO   O ,4,-0.4375
+,OXO O X X,7,3.375
+, OXOX OX ,0,7.0
+,  OXO  X ,0,3.0
+,X  OOX XO,6,2.625
+, XX OO OX,3,10.0
+,XXO OOX  ,7,0.5
+,X OO XOX ,4,3.0
+,XX XOO O ,8,-3.0
+,  OO XXOX,0,0.75
+,  O OX X ,3,16.21875
+, O  XOXOX,3,-3.0
+,O   X  OX,3,4.125
+,   XOX  O,2,3.1875
+,  XOXXO O,7,2.0
+,  XX  OO ,5,0.28125
+, X O OX  ,8,-0.75
+, X OXOX O,7,-4.25
+,O XX O   ,6,3.65625
+,O XX OOX ,1,0.75
+,  OOXX   ,7,0.375
+,OXO XX  O,7,-5.625
+,X X OO OX,1,3.0
+, OO    XX,0,12.0
+,X  O OOXX,4,4.0
+,  XOXOOX ,0,4.0
+,OX X OXO ,4,1.5
+, O XO OXX,0,2.25
+,XO O   X ,2,-0.46875
+,O O OX XX,6,12.0
+, XX O O  ,0,2.8125
+,X XO  O  ,4,-1.75
+,XXO OX O ,8,3.0
+,  XO X  O,4,0.75
+, XXOOX  O,0,25.0
+,XOXOO X  ,8,1.5
+,  XO OX  ,8,-0.6875
+, XXO OX O,7,-2.0
+,OX  X O  ,2,-0.4375
+, OXO  XOX,0,-2.0
+,    OXO X,7,0.75
+,X   OXOOX,1,35.0
+,OX X O   ,2,0.28125
+,X  O  OX ,4,1.875
+,X OOO X X,5,8.0
+,OXO     X,5,0.84375
+,O   OX X ,8,8.0
+, XXO O OX,0,1.5
+,O   X O X,3,34.0
+,  OXXOXO ,1,0.5
+, OO X  X ,3,2.15625
+, XX    OO,0,0.75
+,X X  OXOO,3,-3.0
+, X  O XO ,5,0.1875
+,X XOOX  O,6,-1.25
+,  XXOXO O,0,14.0
+,XXOO   XO,4,2.25
+,XX    O O,5,0.75
+,X   OO X ,3,5.0
+,X  O OXXO,1,5.25
+,O   O XX ,1,3.75
+,OOX   XOX,4,1.0
+,    O XOX,1,3.0
+,XX OO  OX,6,2.25
+,X O O X  ,8,-6.1875
+,XXO O X O,7,-7.25
+,OO   XX  ,2,1.0
+,OOXX     ,7,-0.75
+, OO  X  X,3,0.375
+, OOOXX  X,7,-1.0
+,O O OXXX ,1,8.0
+,OX XO O X,2,10.0
+,O O  XOXX,1,1.0
+,OXXXOO   ,7,3.75
+,X O X  O ,3,-0.15625
+, XXO   O ,8,-0.1875
+, OO  X  X,6,2.0625
+,OO X  X  ,7,-0.1875
+,OO XX XO ,5,-0.25
+,XX   OO  ,4,-1.25
+,XXOO O  X,6,-3.0
+, XX OXO O,3,-12.25
+,X  XO OXO,1,5.25
+, X  OOX  ,0,3.46875
+,X O OXXO ,1,7787.0
+,OXO XX O ,6,-1.75
+, O XOOXX ,2,-10.0
+,XXO    O ,3,0.46875
+, XOX    O,0,4.5
+,XO  OX   ,8,9.375
+,  O XX O ,0,-5.90625
+,X XXOO O ,6,-2.0
+,XO OX X O,7,-4.0
+,OXOXOX   ,8,10.0
+,XOO     X,6,-3.9375
+,XOOX  O X,7,-2.0
+,O XO  X  ,7,-5.8125
+,   XOOX  ,8,1.5
+, OOXOXX  ,7,50.0
+,OO    XX ,3,-3.25
+,OO OX XX ,2,2.0
+,  OXX  O ,0,-2.25
+,X   OXXOO,2,-4.125
+,X   OOX  ,8,-4.25
+,O   O X X,1,0.0
+,OX    O X,4,1.78125
+,  X  X OO,0,0.5625
+,OXX  X OO,4,1.0
+,XOO X  XO,6,0.75
+, X   OO X,3,1.5
+, X O OOXX,4,1.0
+, OO   X X,3,-3.0
+,XO X  O  ,5,1.125
+, XOO    X,5,1.3125
+, XOXO  XO,6,2.0
+,  XOXO OX,6,0.5
+,   X OXO ,0,3.9375
+,O XO  XXO,1,-2.0
+,XOO XX O ,6,-7.0
+, O XXO   ,2,-0.75
+, OOXXOX  ,7,-2.25
+, O  OX X ,3,-1.3125
+,X X O OXO,5,-2.125
+,X OXX OO ,5,-1.0
+,  XOX OXO,0,4.0
+, OXO   X ,8,0.5625
+,X   OX  O,6,3.28125
+,  O OXX  ,8,103.78125
+,   OX O X,0,17.0
+,X XOO  OX,5,4.0
+,O OXX OX ,5,-1.0
+,O XXO OX ,5,3.375
+,O  XO   X,6,0.28125
+,XOOXXO   ,8,3.0
+,X XOOX  O,7,-0.5
+,OX   XOOX,4,-0.25
+, XX  O  O,7,-1.5
+, XX  OXOO,4,-1.0
+,  O X OX ,3,-2.25
+,  XOO  X ,8,2.0625
+,O XXO O X,7,-7.625
+, X X  OO ,2,2.0625
+, XOXX OO ,8,3.0
+, X OX  O ,0,1.125
+, X OOX XO,0,5.0
+,XO X OOX ,2,1.5
+, OXO XX O,0,0.75
+,X  O XXOO,2,1.125
+, XO  XO  ,4,3.0
+,O X  X  O,6,1.5
+,OXOXX  O ,6,0.375
+,  XXO OOX,1,7.0
+,OX OO  XX,2,-1.0
+, OXX    O,0,0.28125
+,OOXXX   O,5,1.875
+,OX OX    ,8,-4.75
+,  XOX O  ,0,2.0
+,X   OX  O,3,2.0625
+, X XO OXO,0,2.0
+,O X  X O ,8,0.0
+,O XX X OO,6,1.0
+,OO   XX  ,7,0.75
+,OO  XXXO ,2,4.0
+, OX OX XO,0,20.0
+,   XX OO ,5,81.375
+,  XXXOOO ,1,2.625
+,O  XO XOX,2,7.125
+,OX O    X,2,-0.46875
+,OXOO   XX,4,-2.25
+, OXO X   ,4,-0.34375
+, X O  O X,7,0.75
+,X  X O O ,4,0.3125
+, O OX   X,7,-0.9375
+,  XOO X  ,1,6.375
+, OXOO XX ,5,4.0
+,OO  X   X,5,1.875
+,X  XXOOO ,8,38.0
+,OXOXO  X ,5,1.5
+,XO  X  O ,6,-1.75
+,O   XX O ,1,-1.5
+,  OXXOO X,7,-3.25
+,O X O  X ,8,5.0
+,OX OOX X ,2,1.5
+,O  OOXX X,1,-10.0
+,XO     XO,2,0.5625
+,OXO X O X,3,9.0
+,XOO O X X,5,-8.0
+,   O X XO,4,1.3125
+,XXOO X  O,4,0.75
+,X  O X  O,2,0.84375
+,X XO O   ,1,0.28125
+,  O  XX O,7,-0.75
+,OOXX  X O,4,3.0
+,OX O  X  ,7,1.6875
+,OX OX XO ,8,1.5
+,O OXX X O,7,0.5
+,  X O  OX,5,4.40625
+, O  XXOOX,0,-6.0
+,XO XX  OO,6,10.0
+, X  OO X ,6,3.75
+, X XOOOX ,2,25.0
+,XOO O  XX,5,-4.0
+,O O   XX ,3,0.75
+,O OOX XX ,1,5.0
+, XO  X O ,0,0.5625
+,XOO X    ,3,-1.90625
+,   XO  XO,5,2.0625
+,OXX   OXO,5,-0.5
+, XXO XO O,0,1.0
+,   O  XOX,0,0.375
+,O  XX  O ,8,-1.5
+,O  XX XOO,2,-0.25
+,X  XO   O,7,0.0625
+,O   O XX ,5,-0.4375
+,X    OO X,3,-0.4375
+,XOXO  X O,4,2.25
+,  OX XOOX,1,1.25
+,OOXX X  O,4,4.0
+,  OOXX OX,1,-3.0
+,O XX  XOO,5,-2.0
+,OO  OXXX ,2,2.0
+,O  OXX   ,1,3.0
+,OX OX    ,2,0.3125
+, OXX OX O,0,0.75
+,  XX O O ,4,-0.46875
+,OXX    O ,4,0.0
+,OX XO  OX,2,0.75
+, OOXXO X ,6,3.0
+,X X O   O,6,-1.21875
+,  XXOXOO ,0,0.25
+,X  OO X  ,5,54.0
+,  O XOX  ,7,1.40625
+,  O XOXOX,1,-2.25
+,OO X   X ,2,5.0
+,XO OX X O,5,-1.25
+,OXO XOX  ,3,-1.0
+, O OXXXO ,8,-1.0
+,OO  OX XX,2,9.0
+,X    OX O,2,4.0
+,O OXX  XO,6,-3.0
+,OXOXO  X ,6,2.0
+,OXO  XO X,3,5.0
+,X  XOOO X,7,1.5
+,X  XO O  ,8,1.5
+, O   OXX ,3,-0.75
+, OOOX XX ,0,7.0
+,O OX XX O,4,2.0
+,O   XOOXX,1,3.0
+,  O X XO ,8,1.5
+, XOX OO X,7,1.125
+,OO  XXX O,2,7.0
+, O XX O  ,8,0.5
+,O X X O  ,5,2.625
+,OX  OXXO ,2,3.0
+,  X X OO ,0,2.53125
+,O  XO X  ,8,3.0
+,XX O XO O,2,0.75
+,O   OXX  ,1,2.25
+, XX  OOOX,3,2.25
+,O  OOX XX,2,-0.75
+,XXO O    ,3,0.75
+,  X OX O ,6,3.0
+,OOX   X  ,8,-1.1875
+, XOOOXX  ,8,36.75
+,XOOXX  O ,6,-3.0
+,X  XO O  ,2,10.0
+,O XX OO X,4,0.375
+,XO  XOX O,2,7.0
+, XO  OX  ,7,-0.1875
+,  OX X O ,8,-2.25
+,  XOOX   ,7,-6.6875
+,OX  XOO X,2,-3.625
+,O XX   O ,6,0.28125
+,   XXO O ,8,1.5
+,OX O XX O,2,1.875
+,X  O OXOX,2,0.5
+,XXO  XOO ,8,2.0
+,OX   XO  ,2,0.0
+,OXO  OX X,3,0.375
+,XXOX O O ,8,2.0
+,OX OO  XX,6,3.0
+,O  O X X ,1,2.25
+, O XO   X,6,3.0
+,OXO  X   ,6,0.0
+, O  X X O,2,0.75
+, O  X O X,2,-0.4375
+,     OXXO,3,2.0625
+,  XO OXXO,4,2.0
+,OO XX    ,7,-2.0
+, XO X   O,6,0.0
+,OXX     O,4,7.0
+,  X OOOXX,0,4.875
+, OX O XXO,3,3.75
+,X  OX XOO,2,2.625
+,OO     XX,2,2.0
+,  XX OO  ,7,0.75
+, XOOXOX  ,0,-2.0
+, O O  XX ,5,-1.0
+,O XXOO  X,6,1.5
+,  XXOOX O,7,-0.25
+,  O OX  X,1,21.9375
+, OO OXX X,3,-3.75
+, OX XOOX ,0,3.0
+,XO XOO X ,2,-4.25
+, OX OX XO,3,4.5
+,OX X XO O,7,1.0
+,XX     OO,3,-0.4375
+,XO  O XXO,3,2.625
+, OXX XO O,7,3.0
+,OX    X O,7,1.03125
+,OO X   X ,8,1.5
+,X   O O X,2,7.0
+, XOX O   ,4,1.5
+, O X OXOX,0,1.5
+, O OX   X,0,-0.75
+,XOO O X X,7,20.0
+,XOOX   XO,4,-0.25
+,  XOXXO O,1,3.0
+,XOO O XX ,5,-7.0
+,    XOXO ,3,-7.78125
+,    OOX X,7,0.84375
+,XXO XO O ,8,8.0
+,OXO OX  X,7,9.375
+,XOX OO X ,6,1.5
+,   X O XO,6,-0.75
+,   XXOOXO,0,-2.625
+, O  OX X ,0,0.75
+, XXO O XO,4,5.0
+,OXX   XOO,3,0.75
+,   O X XO,0,0.75
+, X    OOX,2,0.84375
+,   O X OX,0,-3.75
+,OX O X OX,4,-2.0
+,    OXO X,3,-3.0
+, OX OX   ,0,-12.25
+,X  XOXOO ,8,6.0
+,XX   OOXO,2,2.0
+, XO XXOO ,0,-2.25
+,XO    X O,4,-1.0
+,O X O OXX,5,6.75
+,X  OXO XO,1,2.625
+,OX X O XO,4,4.0
+,X XX OO O,4,-1.0
+,X O OXXO ,3,185.625
+,X XXOO O ,8,-4.0
+,OX O OXX ,8,-4.25
+, XOXOX  O,7,2.25
+, O X XXOO,0,0.75
+,X   OXOOX,2,4.0
+,  XOXOO X,1,-2.0
+,    O XXO,5,3.0
+,XO  O XXO,2,-1.25
+,XO XO    ,5,-2.28125
+,O XO X   ,8,1.875
+,    OXXO ,1,9.0
+,XX   O O ,3,-1.1875
+,XX O OXO ,2,0.75
+,OO  X   X,3,1.5
+,O X  O  X,7,1.6875
+,O X  OXOX,3,-2.25
+,OO XX  XO,5,1.5
+, OXXOO  X,6,2.25
+, X OO  X ,0,7.5
+,OXXOO  X ,6,1.0
+,X   OO  X,1,0.5625
+,O XOOX X ,6,1.0
+,OX   XOOX,3,2.0
+,O OX  X  ,1,8.0
+,OX   OXOX,3,1.125
+,    OX OX,3,-4.1875
+,O   XOX  ,8,-1.5
+,O  XXOX O,7,-1.0
+, X  OXO  ,3,0.0
+, OX O  X ,6,-1.3125
+,   OOOXXX,1,6.0
+,OOX  OXX ,3,-1.0
+,  X  XOO ,0,0.5
+,X  O   XO,5,3.375
+,X  OXO XO,2,10.0
+, O OX XXO,2,2.25
+, XXXOO  O,7,-0.25
+,XOOX XO  ,4,5.0
+,OO  XOX X,7,-0.25
+,OXOOXX   ,8,-0.625
+, X O XOXO,4,0.75
+,O X OXOX ,3,9.0
+,XO  X XOO,2,-1.0
+,    O OXX,1,0.9375
+,XO O  OXX,5,-3.0
+,OXXXO  O ,5,2.625
+,XO XO    ,6,7.03125
+,X OXOX O ,8,-5.75
+,  O X  OX,0,3.5625
+,OXO X  OX,3,0.75
+,XX XO OO ,5,-2.25
+,OO X  XXO,2,3.0
+, XX O   O,5,-4.75
+,O O X XOX,5,0.75
+,O  O X X ,2,2.625
+, X O XXOO,2,1.875
+,XX  O O  ,8,-2.75
+,XX    O O,7,0.0
+,X OO   X ,8,0.75
+,X OXOO  X,1,1.25
+,O O X   X,7,0.5625
+,O  O XX  ,8,-0.75
+,OOX XXO  ,3,9.0
+, X    XOO,3,0.09375
+,     OXXO,2,1.0
+,X  X OOOX,2,-0.25
+, X O X O ,6,0.0
+,X   XO  O,1,0.0
+,  OX  OX ,4,11.0
+,X   O  OX,5,1.3125
+, XXXO  OO,5,-3.25
+,  XO OX  ,0,-0.75
+,O XO OX X,7,-2.0
+,   XOO X ,0,0.84375
+,XX  OOXO ,8,-2.0
+,  OXO XXO,5,25.0
+, O XO XXO,5,-5.0
+,X     OOX,2,-0.25
+, OXX OOX ,8,0.375
+,XO X OO X,7,0.75
+,XOOX O  X,4,-1.0
+, OOXXO X ,0,10.0
+, OXO  XOX,5,0.75
+,OX  OX OX,6,-0.25
+,OOXXO   X,7,3.0
+,  X  OX O,7,-1.5
+, OX OO XX,6,4.875
+, X O X  O,4,1.3125
+, OO XXO X,7,-4.0
+,X  OX XOO,1,-2.0
+,XX  O   O,2,3.75
+, X OXX OO,2,0.375
+, XOXX  OO,5,1.0
+,X OOO XX ,8,2.25
+,  X XOO  ,7,1.59375
+,XX O O   ,8,0.5
+,XX O OX O,4,4.0
+,X XXOO  O,1,-2.25
+,O XO XX O,7,-0.25
+, O OXX   ,7,0.5625
+,OOX  XOX ,4,-1.0
+, OX OOX X,7,4.0
+,  XOX  O ,6,7.125
+, X   OX O,0,1.3125
+,OX  XOX O,7,0.25
+,O O X X  ,3,0.28125
+,OX     XO,6,-1.25
+,O X XOO X,1,1.875
+,XO X  OXO,2,0.75
+,  OOX XOX,0,3.75
+,X OO XX O,7,2.625
+, X   XO O,3,0.0
+,O XOXO  X,6,1.0
+,XOO  XOX ,3,0.75
+,O XX    O,4,3.0
+,X X OX OO,6,3.0
+, XXOO  OX,0,-2.25
+, OOO XXX ,8,1.875
+, O  XOXXO,2,48.0
+,XXO  XO O,4,2.0
+,O X XO   ,7,-0.46875
+,O X XO OX,1,-0.625
+,O XX  O  ,4,6.84375
+,OXXXO O  ,8,20.0
+,   OOXXXO,2,6.0
+,OOX X O X,5,1.125
+, X  XOO  ,7,5.25
+, O O   XX,6,-0.375
+, X X OOXO,2,1.0
+,X X OOO X,7,-3.5
+,   XOO  X,6,1.875
+,  XXOOO X,0,10.875
+,X OOX X O,1,2.25
+,X  OOX   ,2,27.09375
+,OX   OXXO,3,-2.0
+, XOOOX  X,6,6.0
+,  O X OX ,0,0.75
+,X O  O  X,4,16.125
+,OX X O   ,7,0.84375
+,XXO  X OO,4,1.125
+,   OO  XX,2,2.0625
+,X OOO  XX,1,0.5
+,XXOO  O X,4,9.0
+,X O  O X ,6,-0.75
+,X O XOOX ,1,-3.25
+,OO  XXO X,7,-7.0
+,    OOXX ,3,12.75
+, OO X  X ,0,8.0
+, X  OOXXO,0,3.0
+,     XXOO,3,1.96875
+,OXOX  XO ,4,1.125
+,  XOO  X ,6,0.75
+, O  XX O ,2,-1.4375
+,XO  OXOX ,2,4.0
+,O  X   OX,4,1.3125
+,O XX XOO ,8,6.0
+,XXOX OO  ,7,0.75
+, OO X OXX,5,-0.25
+,  O O  XX,0,-4.75
+,X O OO XX,3,10.0
+,O  X O  X,1,1.59375
+,OX OOX  X,2,3.75
+,OO  XX   ,7,-1.75
+,OOX   XXO,5,-0.25
+,  OXX  O ,8,-2.0
+,O X O OXX,3,33.0
+,XXO     O,4,1.5
+,O OX X   ,4,5.25
+,O OXOX  X,1,9.0
+,OX  OXXO ,3,0.75
+,XO  X OXO,2,5.25
+,XO OX  XO,2,1.5
+,   X XO O,2,-0.1875
+,  OX XOXO,0,0.75
+,OX   X O ,6,0.5625
+,  OOXXOX ,1,1.125
+, O O XX  ,7,0.28125
+, XO O   X,7,2.25
+,O XO X XO,4,2.0
+, XXOO    ,7,-3.5
+,OX  XOX O,3,-6.0
+,O XOO XX ,1,0.5
+,OX  O  X ,5,7.875
+, X  XOO  ,3,-0.6875
+,OX XX OO ,8,9.0
+,X X OX OO,3,-1.5
+,X  X O  O,7,-1.25
+,O X  X O ,6,-3.5
+,O  X  OX ,5,-0.75
+,    XO XO,6,-20.90625
+, XO   X O,0,2.0625
+,XX OOX O ,6,-0.25
+,OX   X  O,4,3.0
+,OX XOO  X,6,5.25
+,   OO XX ,1,-2.96875
+,XO  XOXO ,2,-2.0
+,  OX OX  ,4,0.0
+,X OO  OXX,5,-2.0
+, OO  XXXO,3,2.25
+,OOXOX   X,5,1.5
+,O  XX XOO,5,-0.25
+, OO XX XO,0,25.0
+,OX   O  X,6,0.84375
+,OXX  OO X,4,1.875
+,X O O XXO,3,1.125
+,  OXOXXO ,8,-31.25
+,XOO X XO ,5,-2.0
+,OXX  O OX,6,0.375
+, O X   XO,5,1.40625
+,   OXOOXX,1,-0.25
+,O OO XXX ,4,-3.0
+,O O XOX X,7,2.625
+,X O   OX ,5,-0.75
+, O   O XX,2,0.5625
+,    XO XO,0,-35.0
+,O   XOXXO,2,4.0
+,  XO  X O,1,0.5625
+, X OO   X,7,2.4375
+, XXOO  OX,6,-1.0
+,XOXO X O ,8,0.75
+, O XXO XO,0,5.625
+, OX O   X,5,0.28125
+,OO X XOX ,8,-1.0
+,XX  O OOX,3,-0.25
+,X  OO XOX,5,3.0
+,X O  XOXO,1,1.125
+,OOXO XX  ,7,-2.0
+,X OOOXX  ,8,8.625
+,OO  XX OX,6,-2.0
+,XOO XOX  ,7,-6.0
+,O XXXOO  ,7,5.625
+,OX X OXO ,8,0.75
+,X XOOXO  ,1,-6.125
+, XOO XXO ,4,0.75
+, O OX  X ,8,1.125
+, X  XOXOO,2,22.0
+,O  X OX  ,2,0.75
+,OXXO O  X,7,0.75
+,OXXO  X O,7,-1.0
+,X  X O O ,8,-1.0
+,  XOOX XO,1,2.25
+,  XXO XOO,5,-1.25
+,OX OXX  O,7,1.125
+,X XO  OOX,1,-4.0
+,  XXOO OX,0,1.5
+,  X OXXOO,1,1.0
+,O  X  X O,7,1.3125
+,O  X XXOO,2,-1.25
+,  XO   XO,1,0.84375
+,XXO OO X ,8,2.0
+,O O X   X,3,1.59375
+,O OOX X X,7,6.0
+,   XXO  O,6,0.375
+,XXO O    ,6,3.0
+,X OXX  OO,6,4.0
+,OXXO  X O,5,-0.25
+,   X OO X,7,0.5625
+,O XOOXX  ,8,35.0
+,X  OOXX O,2,18.75
+, OX XX OO,0,-2.0
+,X XO    O,5,-3.0
+, X O  X O,5,0.0
+, X OXOO X,0,2.0
+, OXXX OO ,5,0.75
+,XO XXO O ,6,-0.25
+,O  O X  X,7,-5.25
+, O XXO   ,8,0.5625
+, O X X O ,6,-0.25
+,XXO X O O,3,-0.25
+,   O XOX ,8,0.5625
+,X   O X O,3,1.59375
+,X  OO XXO,5,4.0
+,    XXOO ,3,1.125
+,     XXOO,2,-1.3125
+,XX  OOOX ,8,-2.0
+,   XOOOXX,2,3.0
+,O XXO XO ,1,2.0
+,X O OO XX,6,5.0
+, OXO OXX ,8,-0.25
+,   XXOOXO,2,9.0
+, OOX X XO,6,0.75
+,XOO XX  O,6,-0.625
+,XOOX O X ,4,-1.0
+,  XOXO XO,6,-0.875
+,XXOOX   O,6,-0.25
+,XXO XO O ,6,-0.25
+,X X  O O ,1,0.75
+,O XOO XX ,5,6.0
+,O XXO OX ,8,5.0
+,X XXO OO ,1,2.0
+,OX XX  OO,6,1.0
+, OX X OOX,5,-1.25
+,O  O  XX ,2,-1.5
+,O OO XXX ,1,4.0
+,OOX    X ,3,-0.75
+,O  XXOX O,1,-2.0
+,     OXXO,0,0.5625
+,X   OO  X,6,2.8125
+, XXO OX O,4,3.0
+, O XO XXO,2,-4.25
+,OO  XX XO,3,2.25
+, XX  OOOX,0,0.75
+,  XXXOO O,0,1.875
+,X O OXX O,1,-24.75
+, X XOXOO ,0,1.5
+, XX OO XO,3,17.0
+,OXOX  OX ,4,1.0
+, OX XO OX,6,-5.5
+,OX XO XO ,5,0.75
+,O X  X O ,4,-2.6875
+,  XXXO OO,0,-1.0
+,X XX OO O,7,5.0
+,XO   XOOX,3,-2.0
+,O OOX X X,1,3.0
+,O   O X X,3,-5.1875
+,   XOO  X,7,16.40625
+, XOOX  OX,5,-0.25
+,XX O    O,5,-0.75
+, XOO OX X,4,5.0
+,XO  XO XO,6,3.0
+, X OXOXO ,2,1.5
+,XO XOO  X,6,1.5
+,XO X O   ,2,-0.75
+,X O  X O ,3,-0.1875
+,O  XXO XO,2,12.0
+,OX OO  XX,5,6.0
+, O OOX XX,2,-4.25
+,OXO  X   ,4,0.5625
+,     XOOX,0,-1.0
+,XO OXX  O,6,1.5
+, OX X OOX,3,-1.0
+,OOX X O X,7,1.125
+,  X X  OO,1,-3.25
+,O  XX O  ,7,-13.71875
+,O  XX  O ,1,-1.0
+, XXO  OOX,0,3.0
+,  X O O X,1,-28.78125
+, XX OO   ,6,-1.1875
+,   XOO  X,1,-1.40625
+, X XXOOO ,8,22.0
+, XXO    O,4,-1.75
+,  OX XO  ,7,-2.875
+,X O O   X,7,0.75
+,O  XOXOX ,1,1.5
+, X XXOO O,0,-1.25
+,  XO  OX ,1,-0.375
+, OXO XOX ,4,-3.0
+,XX  OXO O,7,31.0
+,XX X OOO ,8,1.0
+,OXO  X   ,3,1.5
+, OX O OXX,5,10.5
+,X O X OXO,3,-2.25
+,O OXOX  X,7,49.5
+,XXOO     ,7,-0.75
+,  X X O O,1,1.3125
+, OOXX  OX,6,-1.0
+,XX     OO,4,-3.0
+,X  OOX   ,1,6.375
+,   OX XO ,5,-3.4375
+,  X   OOX,0,-1.46875
+,O XX  OOX,5,0.75
+,  X   OXO,4,1.125
+,XOXO     ,7,0.5625
+,XOX OX  O,3,1.875
+,   XOXXOO,1,3.0
+,    XXO O,7,-0.25
+,X X O OXO,1,5.625
+,X  XOOOX ,2,10.0
+,X OOXXO  ,8,1.5
+,  O  O XX,4,-1.0
+, X XO OXO,5,4.5
+,O     XOX,3,0.28125
+,O  OX XOX,2,3.0
+,O   X  OX,5,0.09375
+, XXO O   ,4,2.0
+,O   X X O,5,2.25
+,OOXXO  X ,8,6.0
+,X  OXO   ,2,-2.25
+, OO OX XX,6,8.0
+,OXO XXO  ,7,-1.25
+, X  O  OX,6,-0.75
+, XX XO OO,0,-0.75
+, OXOXO X ,6,1.125
+, XOO  X  ,5,2.8125
+,XXOO OX  ,8,1.0
+,O OXOX  X,6,15.0
+,XOX XO O ,6,-1.25
+,O XX XOO ,1,-1.0
+, XOO X XO,4,0.75
+,XX  OXOO ,3,-2.25
+, XXO XOO ,4,-1.0
+,XOO  X OX,6,0.75
+,OX XOO  X,7,1.5
+, XO OX OX,6,10.0
+, OXO  OXX,5,2.25
+,OX XO XO ,8,8.0
+,XXOOO   X,6,5.0
+,XO O OXX ,2,-1.0
+,X  XOO OX,1,10.0
+,OO OX X X,5,-1.0
+,   O  XXO,2,5.8125
+,O X  XO  ,3,25.0
+,XOX   OXO,5,0.75
+,  XOOXXO ,1,7.0
+, O  XO  X,6,-0.46875
+, XOXOO X ,0,0.75
+,O OXX XO ,5,1.5
+, OXXO    ,0,1.875
+,O  XO   X,5,-0.1875
+, OX X  O ,0,-1.75
+,OOXXX  O ,6,-1.625
+, O XXOXO ,8,-5.0
+,O     OXX,4,0.75
+,X   OXOOX,3,-7.5
+, O XOO XX,2,-0.25
+,O X  O X ,8,0.75
+,O OX X OX,6,0.75
+,  X OOX  ,0,1.5
+,  XO O  X,4,1.0
+, O XX OXO,5,7.125
+, XOO  X  ,8,-0.46875
+, XOO XX O,4,1.125
+,  O  X XO,1,0.5625
+,OO X OXX ,8,1.5
+, X O  O X,0,3.0
+,  O  OXX ,1,-1.0
+,X  XO O  ,7,3.0
+,X   OOXXO,2,4.0
+,XX OOX  O,6,-1.5
+,OX OO X X,7,3.0
+,O OX X   ,1,2.0
+,XO O XX O,2,0.375
+,OO X    X,5,0.84375
+,XO O X XO,4,0.75
+,OX   XO  ,4,0.0
+,X O  OX  ,1,-2.0
+, O O XX  ,2,0.5625
+, OXXO  XO,6,1.5
+, X O  XO ,5,-1.5
+, X OXOXO ,8,-3.0
+,X OX  OXO,4,3.0
+,O   X  XO,1,-1.21875
+,O O  X  X,3,0.84375
+,X OXO  OX,6,2.0
+,XO XO    ,8,-2.75
+,XOO  X XO,6,1.125
+,XOX X  OO,5,-3.0
+,     OOXX,1,0.5625
+,XXOO     ,5,0.0
+, OX O X  ,8,1.3125
+,XOX  OX O,3,-3.0
+,  O  X OX,1,-0.9375
+, O XX O  ,5,3.28125
+,X OX  O  ,8,0.75
+,O XX OO X,1,0.75
+, O  OXXXO,2,12.375
+,    XO OX,6,-0.0625
+,   XXOOOX,1,-13.25
+, XXO  XOO,4,-0.25
+, OXO  XOX,4,1.0
+,OXOOX X  ,5,-3.625
+,O  XO  X ,6,2.625
+,  OXX O  ,8,0.0
+, X  XO O ,0,2.53125
+,OO  OX XX,6,-3.25
+,X  O   XO,2,1.40625
+,X O XOXO ,1,-3.0
+,XO O X   ,7,0.75
+,O X X   O,5,-6.65625
+,O XXXO  O,7,-2.25
+,XX  OOX O,2,1.0
+, XX  O O ,3,0.5625
+, XXOXO O ,6,0.75
+,OXOX O X ,4,0.75
+,OOXXX  O ,8,-2.0
+,  X XOOOX,0,4.125
+,   X OOX ,8,0.75
+,O OX O XX,4,-0.25
+,    XOO X,7,0.09375
+,XXO O  XO,6,2.0
+,X  O OX  ,8,-0.1875
+,XX O OX O,7,-1.0
+, XOO OX X,7,0.75
+,XOO OXX  ,3,7.5
+,OO  XX   ,3,0.0
+,OO OXX X ,2,1.0
+, O X  OX ,5,0.5625
+,O XOX  XO,1,-0.25
+,XOOO X X ,6,2.25
+, XXOO XO ,5,13.0
+,O XO X   ,7,-1.6875
+,  XXOOXO ,8,-0.25
+,OXO     X,6,1.03125
+, XOXO    ,0,3.5625
+,OO     XX,4,-0.75
+,OXX     O,6,0.75
+,OXO OXX  ,3,2.625
+,  X XOOXO,1,9.0
+,OOXO  X X,7,-4.0
+,  XXOX OO,0,5.0
+,XOX X O O,3,4.125
+,X XOO  XO,1,0.75
+,X  XO OOX,5,0.75
+,  OXOOXX ,8,7.0
+,  OXOX XO,1,6.0
+,   OXX O ,1,-0.1875
+,O XX OOX ,8,1.125
+, XX OOX O,7,0.75
+,  X O X O,7,4.3125
+,   X  OOX,1,-1.5
+, O XX OOX,5,-2.625
+,XOX  OOX ,4,1.125
+,X O   X O,5,0.0
+,   O X OX,4,0.28125
+, OOX   X ,4,0.75
+,   XX  OO,6,1.25
+,XOO X OX ,8,3.75
+, X X  OO ,5,-0.75
+, OOXOX  X,7,5.0
+,OXXO OX  ,8,0.75
+,  XOO OXX,5,8.0
+,OX XOX O ,6,1.5
+,O  O XX  ,1,-1.125
+, X XOO OX,6,8.625
+, XO XOXO ,8,1.0
+, OOXO XX ,8,0.5
+,OO O X XX,6,3.0
+, OO  XX  ,8,0.28125
+,X OXXOO  ,1,1.5
+,XOXXO   O,7,9.0
+,    XO OX,1,-1.65625
+, O XXO OX,6,-1.625
+,XXO     O,3,1.59375
+, OX O  X ,0,-1.6875
+,OOXXO  X ,6,0.375
+,O X X O  ,3,26.0
+, OX  XO  ,8,3.5625
+,XOX  XO O,7,10.0
+,XOO X  XO,5,5.0
+,XOO X  XO,3,1.5
+,OOX X  XO,3,0.5
+,  XO  X O,5,-0.75
+,X XO OX O,7,-1.0
+,O  X   XO,5,-0.75
+,O  XXO XO,6,-2.0
+,X  OO X  ,7,2.8125
+,X XOO XO ,5,2.0
+, XOX OOX ,8,3.0
+, XOX  XOO,0,0.75
+,XO OX XO ,2,-1.25
+,OO  XX   ,2,7.0
+,X OX XO O,4,3.0
+,XO O    X,5,-1.0
+, XXO O OX,6,0.75
+, OXX    O,5,-0.75
+, X OOXO X,2,12.0
+,OXX  O OX,4,1.875
+,  X XOOXO,0,-3.875
+, O XX O  ,2,0.5625
+,XOOOX  X ,8,1.875
+,  X XOO  ,0,-0.1875
+,OOX OX X ,6,-1.0
+,  XO OX  ,4,5.0
+, XOXOX  O,0,3.0
+,O X XOOX ,1,0.375
+,X O  X  O,3,3.09375
+,OXX OXO  ,7,-2.25
+,XOX   O  ,4,0.75
+,   X  OOX,4,1.5
+,X XOXOO  ,8,-3.0
+,X XOO X O,7,2.25
+,  X  O XO,4,0.28125
+,    XOX O,0,-2.0
+,OX  OX OX,3,-7.0
+,X  OO   X,1,-0.75
+,OXX O XO ,5,0.75
+,OX X OO X,2,0.375
+, X OOXX O,0,57.0
+,   O XO X,0,2.0
+,XOOX  OX ,4,4.0
+,X   O O X,7,0.0
+,O  XX   O,6,0.28125
+,O XXX O O,1,-4.25
+,  OXOOX X,7,-2.625
+,XO  XO   ,6,-1.1875
+,    X XOO,5,-1.1875
+,OOX  O XX,4,-1.0
+,  X OXOXO,0,28.0
+,X OXX  OO,5,1.0
+,  XOX O  ,7,0.75
+, X  O OX ,8,1.3125
+, X  X  OO,3,0.84375
+,XX OX  OO,5,-0.25
+,OX O  X  ,5,0.09375
+,OX OOX  X,6,17.0
+,OX O   X ,4,1.3125
+,O   X O X,1,1.3125
+,OO XX O X,7,-1.25
+, X    XOO,4,-0.75
+, OX   X O,7,1.5
+,  O X  OX,6,-1.75
+,  OXX O  ,7,-2.0
+, O OX OXX,5,-1.0
+,XOOO   XX,4,-2.0
+,XXOOX  O ,8,3.0
+, OXOX    ,8,-1.75
+,O XX  OOX,4,-1.0
+, OXOOXX  ,8,1.5
+, O  OXX  ,0,3.0
+,OOX XXO  ,7,-1.0
+,XOX X O O,5,3.375
+, X O XO  ,7,1.125
+, O O  X X,0,-2.0
+,    XX OO,2,-0.625
+,O  OOX XX,6,15.0
+,  XX OOOX,4,1.125
+, XO  O X ,4,1.3125
+, O X  OX ,0,0.5625
+,OX OO X X,5,21.0
+, XXOXO  O,6,-1.0
+, OO OXXX ,8,17.25
+, O XOXOX ,2,3.0
+,X X  O  O,3,-1.0
+,   X X OO,6,3.0
+,     OXOX,1,-0.75
+,X O O XOX,3,4.5
+, X  OXOXO,3,3.0
+,   XXOXOO,0,-2.25
+,O O XX   ,3,1.78125
+,OX  O   X,7,-0.9375
+, O  OXX  ,2,0.75
+,O   OX X ,3,3.5625
+,  XO XO  ,1,-1.0
+,XOX    O ,5,-0.75
+,  O XXOXO,1,-2.0
+,  O XX O ,8,-3.5625
+, XXOX OO ,5,1.5
+,   X XOO ,1,-0.25
+,X OO X XO,4,0.75
+,OOX  X XO,6,0.75
+, X XO  O ,0,1.40625
+,OX XOX O ,2,1.5
+, XO  X O ,8,0.5625
+, OO XXX O,3,3.375
+, X   OO X,4,0.75
+,XXO OX O ,3,3.0
+,OXOXX   O,7,-1.25
+,OXO     X,4,1.5
+,X X  OO  ,3,-0.75
+,X  OO XOX,1,1.0
+, O X   XO,2,0.0
+, OOXX  XO,6,-3.0
+, X OOX   ,7,-4.3125
+,O OX X   ,7,-0.75
+,  O OXXXO,1,3.375
+, O OOXX X,0,-6.0
+, X OXXO O,7,2.0
+,X  OOXOX ,2,7.0
+,XX    OO ,8,2.0
+,  XOXX OO,0,-1.0
+,  XXOO OX,1,2.0
+,  XXOOOX ,0,11.625
+,O X XO   ,8,-1.75
+, XOXOOX  ,8,1.0
+,O  OX   X,5,0.28125
+,O OX X   ,6,-2.0
+,XO  O X  ,8,0.125
+,O OX    X,6,2.8125
+,  OOX  X ,1,10.59375
+, OXX  O  ,4,1.59375
+, XOO OX X,0,-0.625
+,X OO   X ,4,0.5625
+,OOXO XX  ,8,-2.25
+,O  XXO XO,1,1.875
+,OXXOO  X ,5,2.0
+, OO XX OX,6,-2.0
+,XX O   O ,2,0.09375
+, O  XOX  ,0,-1.75
+, X OO   X,2,1.78125
+, OO    XX,3,-1.0
+,OX X X OO,4,1.0
+,X  O  XO ,5,0.0
+,OX O  X  ,2,0.84375
+,OXOO XX  ,4,0.375
+, OO XO XX,0,177.0
+, X  O  XO,0,2.0
+, XXXOO  O,0,4.0
+,OO XXO X ,2,8.0
+,X XOXO  O,6,-3.25
+,O O X XXO,5,2.0
+,O XO X   ,1,-4.5
+, OO XXX O,0,1.0
+, XOOO X X,5,5.0
+,X O X OXO,5,1.0
+,O  X X  O,4,25.0
+, OO X XOX,3,-0.25
+,  XOO OXX,1,-1.25
+,XX OO X O,7,-0.25
+,OXO OX X ,6,4.0
+,  XOXOOX ,1,0.375
+,OXOO XX  ,8,2.625
+,OXOXO X  ,5,3.0
+, O XO  X ,8,1.875
+,XO XO  XO,2,1.5
+,XXO  XOO ,3,0.75
+,O OXX    ,6,-1.21875
+,XOXO   XO,4,0.75
+, OO X X  ,3,3.28125
+,OOXXX O  ,5,13.875
+, O XOXOX ,0,4.5
+,   X OOX ,4,1.3125
+,   XOXOOX,1,3.0
+, OXOO X X,0,-3.0
+,OOXX  OX ,4,0.375
+, XXOO O X,7,-3.0
+,XOX XOO  ,8,0.75
+,   X X OO,1,-2.75
+, OXXOO  X,0,0.75
+,   OOX X ,0,3.375
+, XXXO O O,5,-0.25
+,  OXOX XO,0,4.0
+, XO  O X ,3,-0.25
+,OX XXO  O,6,0.75
+,X   XOXOO,2,10.0
+,  OX XXOO,0,0.5
+, XXOOX O ,0,-5.75
+,OX O  X  ,4,0.28125
+,O OXX O X,5,3.375
+,X  X  OO ,2,-0.75
+,OX XOO X ,2,5.25
+,X O O  X ,5,1.5
+,O  XX   O,5,2.625
+,XX O  O  ,4,-2.25
+,   X XOO ,8,2.0
+, XOO OXX ,4,1.0
+,   XXO  O,0,4.3125
+,  OX X O ,6,-1.0
+,O  X OXOX,1,0.75
+, OXO X XO,0,0.75
+, OOX O XX,0,2.0
+,X XXOO O ,1,5.0
+, O X OXOX,2,-1.0
+,   X XOO ,4,2.8125
+, OOOXX X ,8,1.875
+,O O OXX X,1,51.0
+, OXX OO X,0,0.75
+, OOXX  OX,0,2.0
+,O X X O  ,7,2.90625
+,O XXX OO ,8,8.0
+,OXOXXO   ,6,-2.0
+,X  OOX XO,1,4.125
+,OOXOX   X,7,-2.0
+,O OX XXO ,4,0.75
+,  OX X  O,1,0.5625
+,X   O OX ,8,0.28125
+,O   XOXOX,2,4.875
+, XXO  OOX,4,-1.0
+, OX XOO X,0,6.375
+,  O X  XO,0,0.75
+,XX   OXOO,4,-2.0
+,OX  O OXX,2,2.0
+,O X XX OO,1,-3.0
+,X  O  X O,4,0.28125
+,XO  OO XX,2,0.75
+, XX OOO X,3,5.0
+,XO  O OXX,3,4.5
+,O OX  X  ,8,1.5
+,  X XO  O,1,-0.09375
+,X OXX OO ,8,4.0
+,O XXX O O,5,3.375
+,O   XOX  ,3,-0.75
+,  O OX  X,0,10.03125
+,XX OXOO  ,2,-1.0
+,OOXO X X ,6,2.0
+, OO    XX,6,1.5
+, OOX  OXX,0,1.0
+,XXO   XOO,5,15.0
+,X X    OO,3,-1.0
+,    OX XO,3,6.46875
+, X OOXOX ,2,3.0
+, X O  OX ,2,2.25
+,  XOX O  ,1,0.5625
+,  OO XX  ,1,1.78125
+,OX OOX X ,6,3.0
+,  X  OO X,4,1.6875
+,XX O O   ,4,2.0
+,OOX O X X,3,-4.0
+, X OOXO X,0,2.0
+, XO   OX ,8,-2.0
+,X OO OXX ,8,1.0
+,OXX OX O ,8,39.0
+, X   OX O,7,1.5
+,OXO OX X ,8,1.0
+,XOOX   XO,6,1.5
+,O  XO XOX,5,1.875
+,X    OXO ,8,-1.5
+,X X  OXOO,1,-3.0
+,XX O    O,7,0.28125
+,  OOOXXX ,1,-1.875
+, XX XOOO ,8,2.0
+,O  XOXO X,7,-1.25
+,  O  OX X,3,-2.75
+,X OX O OX,1,-2.0
+, O XX   O,2,0.5
+,X XX OO O,1,1.125
+,XX OX OO ,8,1.0
+,XO OX OX ,5,-0.25
+,XX   OO  ,8,0.5
+,XO OO XX ,8,3.75
+,OXX XO  O,6,-0.5
+, X X O O ,0,0.28125
+,OX X O OX,4,0.75
+,OOX  XX O,3,-0.25
+,XO X X OO,6,1.0
+,OOXX O  X,4,1.5
+,X X OO   ,6,-4.4375
+,XOOOXX   ,6,-0.625
+,X  OOXO X,1,0.5
+,XX O OOX ,4,3.0
+, O X OXXO,0,0.75
+,O X O XOX,5,2.25
+,XOOX     ,5,-0.1875
+,XO OX    ,7,-0.9375
+,XOXOX  O ,5,-2.0
+,XOO X    ,8,5.90625
+,OX X O XO,6,-1.0
+,XXOO  X O,7,0.75
+,  XOX O  ,8,0.0
+,X O X  O ,6,-0.4375
+,XXO X OO ,8,8.0
+,XOXOX O  ,5,1.125
+, X O XOXO,2,-1.0
+, X  OXO  ,0,5.25
+, O   XOX ,4,0.5625
+, X XXOOO ,0,1.5
+,OOXXOX   ,6,-2.0
+, XX XO OO,6,3.0
+,  OX   OX,1,-0.75
+,XOOX   OX,5,-2.0
+, X X O O ,2,1.03125
+,OXO X X O,7,3.75
+,XO X  O  ,4,1.125
+,O O X   X,5,0.375
+,O X XO XO,3,-5.0
+,  X O X O,0,5.0
+, XOX OO X,4,1.0
+,OOX  XXO ,8,0.75
+,XOX  O XO,3,0.75
+,O  OXOXX ,1,-6.0
+, XOXO    ,8,2.25
+,  OX  XO ,8,2.0625
+, OX OXX O,3,2.25
+, OOO XX X,7,0.75
+, O XXOX O,0,-0.25
+, O X   OX,5,-0.1875
+,OOX  X   ,4,-1.25
+, O XXO OX,0,2.625
+,XX  OXO O,2,8.0
+, OOX XX O,7,-2.0
+, XOOX    ,6,0.3125
+,X OO X OX,4,2.25
+,X OOXX  O,7,2.25
+, XXXOOO  ,7,-0.625
+, OXX  OXO,5,0.375
+,OOX OXX  ,7,1.0
+, OXX OX O,7,-2.0
+, X XOX OO,6,2.0
+, OXXOO X ,6,1.125
+,O XX  OOX,1,-1.0
+, OOXXO X ,8,1.0
+,O OX    X,1,8.0
+,XOXO   OX,6,-2.0
+,     OXOX,4,0.75
+, OXOOX X ,0,0.5
+,X XOO  XO,6,0.375
+,XX   OOXO,4,-0.25
+, OO XX XO,6,-1.25
+, X  X OO ,0,3.09375
+, OX XXO O,3,1.5
+,O OX OXX ,8,1.0
+,X  OOX OX,1,2.0
+, X X OO  ,7,0.75
+, OXO XOX ,0,2.0
+,XOX OX  O,6,2.25
+,OX   OX  ,7,-1.5
+,OO OXXX  ,2,5.0
+,XOO  XX O,7,-1.0
+,O  XX   O,2,-1.75
+, XO X OOX,5,-5.25
+,    OXO X,2,49.0
+, XX  OXOO,3,-1.0
+,   X  XOO,5,0.75
+,O   XOXXO,1,-2.0
+, XO  O  X,0,0.28125
+,OX XOO  X,2,1.875
+, X O O X ,6,0.75
+, XXO OOX ,0,1.0
+,OX O OX X,2,0.375
+,X XO O XO,1,0.75
+, X OO OXX,2,3.0
+,O  X  XO ,4,0.28125
+, X  XO  O,3,-5.0
+, OOXO  XX,6,1.0
+,X  XXOO O,7,2.0
+, OX XXO O,0,-1.0
+,OXO  XXO ,8,0.375
+,O X  XOXO,4,1.0
+,X O   O X,3,-0.75
+,X OO XO X,1,-1.0
+,OOX X  OX,6,6.625
+, O O XOXX,2,0.75
+,OXXXO  O ,8,10.0
+,OX  OXO X,2,17.0
+,O X  OXXO,1,-1.5
+, X XOOXO ,2,-1.0
+,OO X X XO,2,1.0
+, XXXO O O,7,4.0
+,O XX OO X,7,1.125
+,XOX  O   ,7,0.75
+,OX   O  X,2,-0.75
+,X  OOX XO,2,20.25
+,X O XO   ,6,-1.6875
+,XO   X  O,7,-0.46875
+,O  X  O X,7,0.28125
+,OXO   XOX,5,0.375
+,XO X    O,4,0.5625
+,X O XOXO ,3,0.5
+,OX  O  X ,2,0.75
+,O OX  XOX,5,0.375
+, O OXX OX,0,-0.25
+,XOX  OO X,4,1.5
+, XXX O OO,0,0.75
+,OX O XX O,7,0.75
+, X O XO  ,2,0.5625
+, OXO  OXX,4,-1.0
+, O O XX  ,8,0.84375
+,O  X O  X,2,0.84375
+,X OO  OXX,1,-1.0
+,  OXO   X,1,2.25
+,X  OXOX O,7,-4.25
+,OXXXO O  ,7,2.625
+,X X O OOX,1,6.0
+, OOX  XOX,0,1.0
+, OX X OXO,0,1.125
+, XOX XOO ,0,0.5
+,OXOXO   X,6,5.0
+,  O  XXO ,0,0.75
+,X OOXO X ,8,3.0
+,   XXO O ,1,0.65625
+,XO X O OX,2,-1.0
+,OXO X  OX,6,0.75
+,OXX X O O,7,3.0
+, XO OOX X,7,0.375
+,O X XXOO ,3,3.0
+,O  X  O X,1,0.75
+,  O X XO ,5,0.0
+,OXO X XO ,3,0.75
+, XX  O O ,8,0.5625
+, O X  XO ,4,1.0
+,  OX   OX,0,0.5625
+,O OX X OX,4,1.5
+,X  OOXOX ,8,1.875
+,OXO X    ,8,-0.25
+,OXOXX   O,5,4.0
+, O X X  O,0,0.75
+,  XXOO   ,6,0.09375
+,X XXOOO  ,8,-2.0
+,  OOXXX O,1,2.625
+,  OO XX  ,8,1.125
+,XOOX X O ,4,2.0
+,O  XOX OX,2,0.75
+,X X  O  O,6,0.3125
+,X OOO  XX,6,1.0
+,X    XOO ,3,0.375
+,X OXXO O ,8,4.0
+,OO   XXXO,4,3.0
+, XXOO  OX,5,6.0
+,O   XOXXO,3,-1.0
+,OO X OX X,7,0.75
+, OX    OX,0,-0.25
+,O   XXOOX,1,-2.0
+,O   X  XO,5,-2.71875
+,OOXX XO  ,7,-3.0
+,O    X XO,3,1.3125
+,O XO X XO,1,0.75
+,XOXXO O  ,7,19.0
+,OX  O XOX,3,2.25
+, XOXXO O ,0,0.375
+,O XO OX X,4,4.0
+,O X XO XO,1,-4.0
+,XOOXO   X,5,-2.0
+,X O O   X,6,2.0
+,X X  OOXO,3,-0.625
+, O   XOX ,0,0.75
+, XO  O  X,3,0.28125
+,OXX   OXO,3,4.0
+,   OXOXOX,0,-1.0
+,X   X  OO,5,3.0
+,O     OXX,1,1.5
+,OO  X OXX,3,1.0
+,XO   OX  ,2,-0.75
+,  O X X O,3,2.34375
+,OX O  XOX,2,0.75
+, XO   O X,7,0.28125
+,OXOO  X X,7,1.125
+,XO O OX X,7,0.75
+, XOX  O  ,4,2.0
+, X OOX OX,0,-3.0
+,X    OX O,1,-1.5
+, O O  X X,2,-1.4375
+,O OXX  OX,1,2.0
+,     XOOX,4,-1.0
+,O O X XXO,3,0.75
+,O OXX X O,5,2.0
+,OX XX  OO,5,0.75
+,O  XXOXO ,8,0.75
+, OXXXOO  ,7,1.125
+,XOX O OX ,3,1.125
+, OX  OXXO,3,0.75
+,X   XOOXO,2,11.0
+, XO  X O ,3,0.84375
+,     XOXO,2,0.28125
+,XO  OOX X,7,4.0
+,XX    O O,4,-1.0
+,OX    XO ,8,2.25
+,OXXOO X  ,5,5.0
+,XX OXO O ,6,-1.0
+, X OOX OX,6,-0.25
+,O XX  XOO,1,-1.25
+, OX X O  ,0,0.28125
+,OXOX XO  ,8,0.75
+, OX  O  X,0,0.28125
+,XX O XOO ,8,1.0
+,  OXXOOX ,1,0.75
+,XO O OXX ,8,0.75
+,   O XX O,1,0.5625
+,XXOO   XO,6,0.75
+,OX O XX O,4,1.0
+,  OOXX   ,0,1.875
+,  OOXOXX ,0,-2.0
+,OX    O X,2,0.5625
+,  O XX  O,1,-1.75
+, OXX OXO ,4,2.0
+,   OX  XO,0,-1.1875
+,O XOX  XO,5,-2.0
+,XXOO   OX,5,-1.0
+,X XXOOO  ,7,-1.0
+, OO  X  X,7,1.5
+, OX O XXO,0,2.0
+,  OXXOO X,0,3.375
+,OO XO  XX,6,6.0
+,OXO X    ,6,0.0
+,X X  OO  ,1,0.5625
+,OOXX OX  ,7,0.75
+,X O  O X ,1,0.75
+,XOOX O X ,8,1.0
+,XXOOO  X ,6,5.0
+, X XOOOX ,8,2.25
+,X  X OOOX,1,0.75
+,OXOO  XX ,5,-3.0
+,XOOXX   O,7,-1.0
+,O X XXOO ,1,-1.0
+, OOOX  XX,0,14.0
+, O  OXOXX,0,-3.25
+,  X OOXXO,3,5.0
+,OO  X  X ,2,2.0
+,X O X O  ,5,-1.25
+, OXOXO  X,0,-0.25
+,O  XOXO X,2,3.0
+,O OXX XO ,8,-1.0
+,O  XOOX X,1,-2.0
+,XO X    O,2,-1.5
+,  O O  XX,1,0.5
+,O XOX    ,8,-1.0
+,XO  OXOX ,3,1.875
+,X XOO OX ,8,0.375
+, OX XO XO,6,111.375
+, XXXO  OO,0,1.0
+,O X OXOX ,1,0.5
+,XX X OO O,7,2.0
+, O   XXO ,0,-0.1875
+,OO  XXXO ,8,-1.0
+,XO OX XO ,5,-2.0
+,OO   XX  ,3,-0.75
+,  OXX OOX,1,-5.0
+, O X  OX ,8,0.5625
+, O X XOXO,4,0.75
+,OX XX O O,2,-1.0
+,X O XX OO,6,2.0
+,XXO  O   ,6,0.75
+,XXO  OOX ,8,1.0
+,X  OOXO X,2,6.0
+,OOXX   OX,6,-1.625
+,OX   XOOX,2,0.75
+,OX  XXO O,7,2.0
+,   X OX O,1,-3.0
+,O  X XO  ,1,-0.75
+,OO X X OX,6,-1.0
+, O O XXOX,0,-1.0
+,OXX   O  ,7,1.78125
+,  XO OXOX,1,-1.0
+,OX  O  X ,3,0.75
+,OO X  OXX,5,1.125
+,OOXO   XX,4,-1.0
+,X OO  XXO,4,2.625
+,    O XXO,2,2.0625
+,XO X    O,7,0.75
+, OX XO XO,0,-39.625
+, O    XXO,4,0.5625
+,XO O XX O,4,0.375
+,OO XXO X ,8,1.5
+, O  X X O,3,-1.0
+,O O    XX,1,1.0
+,O XOX  OX,6,8.0
+, OOXO  XX,5,-1.0
+,OXX XOO  ,3,2.0
+, XOX XO O,7,2.0
+,XOOO XX  ,4,0.375
+,XOXX O  O,6,0.375
+,OO XX X O,5,-1.0
+,XO   O  X,2,-1.0
+,X  O  OX ,2,0.75
+,OXX XO  O,7,-1.0
+,O    X XO,6,0.75
+,X  O XXOO,1,0.375
+,OO  X OXX,2,2.0
+, X OX OOX,5,-1.0
+, XX OOXO ,3,1.0
+,   X O OX,4,0.28125
+, OXX XO O,0,-1.0
+,OO   X  X,4,-3.0
+,X O    XO,6,0.75
+,X O  XOXO,4,1.0
+,  OXXO OX,6,-0.625
+, OO  XXXO,0,1.0
+,X OXOX  O,6,26.0
+, X O X O ,2,0.5625
+,XXOO X O ,4,0.375
+,XX  XOO O,7,1.0
+, X XOXO O,0,3.0
+,X XO    O,6,-1.0
+,XX OX OO ,2,0.75
+,XOX XO O ,8,-1.0
+, OX  OXXO,4,0.75
+,X  OXO   ,8,-1.96875
+,OXO X O X,7,0.375
+,OXXX  O O,5,2.25
+,XOO  XO X,7,-0.25
+,X O XXOO ,8,7.0
+,  OOX X  ,7,0.28125
+,O XO OXX ,8,-1.0
+,OX XOXO  ,2,2.0
+,OO XO  XX,2,1.0
+,X    OOX ,4,0.28125
+,O O XXX O,3,0.375
+,O X OXOX ,8,2.0
+,OO  OXXX ,3,-1.25
+,X OXO    ,1,-1.0
+,OX X OOX ,4,0.75
+,OX O X   ,6,1.0
+,X   X O O,7,2.0
+, XX OO XO,0,5.0
+,O  XOOXX ,2,-2.0
+,O  XXOOX ,2,-0.75
+,XOX   O  ,8,2.25
+,XX  XOO O,2,1.0
+,X XO  OXO,5,-1.0
+,OO   XX  ,4,0.0
+,XOOXO  X ,6,4.0
+, XOOX XO ,5,1.125
+,  XO  OX ,4,0.75
+,X  O O  X,2,0.75
+,OOX X  XO,5,-3.0
+,OXO X O X,5,-2.625
+,   O XOX ,1,0.5625
+, OXO XOX ,8,0.75
+,  OX OX  ,8,1.0
+,XOOX O  X,6,-1.0
+,OOX   XXO,4,2.0
+,  X  OOX ,4,0.28125
+, O X X  O,7,0.75
+,OXX XOO  ,7,0.75
+, XXOO  XO,5,3.0
+,X O  XOOX,4,13.0
+,XX OXOO  ,8,-1.0
+,X O OX OX,1,2.0
+,  XX O  O,7,0.5625
+, XXXOOO  ,0,1.125
+,  XXO  O ,8,1.5
+,O OXX    ,7,0.84375
+, X O  XO ,8,0.5625
+,  O XXOOX,3,1.5
+,OXXO  XO ,5,0.75
+, XX   O O,3,0.75
+,X OX X OO,4,-2.0
+,O XX  OXO,4,22.0
+,OX XX OO ,5,0.375
+,O XX XO O,4,4.0
+,O XO   X ,8,2.25
+,  OOX XXO,5,4.0
+,OX  XOX O,2,1.0
+,XO XOO  X,2,-1.0
+,O    XOX ,3,2.0
+, O XOX XO,2,0.75
+,XXOO  XO ,5,1.5
+,OXX OO  X,7,1.125
+,XX  OOXO ,2,-1.0
+, OOOX XX ,8,0.75
+,   O  OXX,2,-0.75
+, OXOXXO  ,8,1.5
+,XOX OXO  ,3,-0.625
+,OXXX OO  ,8,1.5
+,XO XXO O ,2,-1.0
+,O X XO XO,6,-4.625
+,X XOXO  O,7,-4.0
+, OXX   O ,5,0.75
+,XOX     O,4,0.75
+, OOX    X,7,-0.75
+,X X XOO O,3,-1.0
+,O  XOO XX,1,-1.0
+, XO X OOX,3,-0.25
+,   OXX  O,7,0.28125
+,XO O  X  ,2,1.125
+,O  OXXX O,2,4.125
+,OO X  XOX,4,1.0
+,XXOOO X  ,8,1.5
+,XXOO X O ,6,0.75
+,X XOO OX ,5,1.0
+,XO OXOX  ,2,-2.0
+,XOX  O OX,3,-1.0
+,XO O   X ,8,0.28125
+, X X  O O,4,-0.75
+,XX XO O O,5,-1.0
+,X  O  X O,7,0.84375
+,XOOX  O X,5,0.75
+,X XX OOO ,4,-1.0
+,XXO  O   ,4,-0.75
+,O XXXO O ,6,1.5
+,O  XO XOX,1,1.0
+, XO  X  O,0,-0.75
+, X OOX XO,6,3.0
+,OX X O OX,2,0.375
+, O  O XX ,5,0.0
+,X  OXXOO ,1,0.75
+, OX  XOXO,3,0.375
+,OO  XOXX ,3,-2.0
+,OXOO XX  ,7,0.375
+, X OOXXO ,0,0.375
+,  O XXOOX,1,-1.0
+,XOX O OX ,5,0.375
+,O  OXOX X,2,-4.0
+,OX XX OO ,2,-1.625
+,X OO X OX,1,0.75
+,O OOXX  X,7,0.75
+,XOO OX X ,8,0.75
+,  OX O X ,1,0.75
+, OOX OXX ,8,1.0
+,  X XO O ,3,-0.75
+,X O   XO ,4,-0.75
+, XX OXOO ,0,-1.0
+,X  O XOXO,4,1.125
+, X XOOO X,7,0.375
+,  OO   XX,1,-0.75
+, OO  XXOX,4,1.0
+, OOOXX  X,0,4.0
+,O  OX XXO,5,-2.0
+,O OX   X ,5,0.75
+,O  OXXX O,1,-1.0
+,XO     XO,4,0.5625
+,OXOO  X X,4,-1.0
+,OO   XOXX,3,1.0
+,XOX OOX  ,3,1.0
+, XOX OOX ,0,-1.0
+, OOO XXX ,0,2.0
+,  O  O XX,6,0.75
+,  O XXXOO,1,1.125
+,OXO O XX ,8,10.0
+,X  O XO  ,4,0.75
+, OOX XO X,0,1.0
+, X X   OO,0,0.75
+,OOX XO X ,3,-1.25
+,  XXOX OO,1,1.0
+, XOOXX  O,7,0.75
+,OO  X XXO,2,2.0
+,X OXO  XO,1,0.75
+,OX OXX  O,6,1.0
+, OX OX   ,3,-0.75
+, XOXO XO ,8,-2.0
+,XX OOXO  ,7,0.75
+, XO XOXO ,3,0.75
+, XXO  O  ,5,0.75
+,  OOX   X,5,-0.75
+,XO OOX X ,6,0.375
+,  O  XOX ,3,0.75
+,X O  OOXX,3,-1.0
+,XO  X OXO,3,0.375
+, OXO   X ,6,0.75
+, OOX  OXX,4,1.0
+,O OX   X ,6,0.75
+,XXOX O O ,4,-1.0
+,XO  X OXO,5,0.375
+,X XOX OO ,5,-1.0
+,OX  O   X,5,0.75
+,O  X  O X,5,0.28125
+,OOX   OXX,4,-1.0
+,O OX XO X,7,-1.0
+,OXXX OO  ,4,0.75
+,X X   OO ,8,-1.0
+,OXX O  OX,6,-1.0
+, OXX  OOX,4,1.0
+,OXO  X OX,4,0.375
+, X    OXO,0,-1.0
+, OOX  XXO,4,-1.0
+,OOX   X  ,3,-0.75
+,XOO X X O,5,1.0
+,XX OOX O ,2,0.375

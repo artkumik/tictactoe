@@ -1,0 +1,10 @@
+including punishment for loss
+
+win = 1
+draw = 0.5
+loss = -1
+discount = 0.75
+
+easily gameable, more traiing needed
+maybe 200 with 0.005 increase?
+reached all draws with 100 games, 0.01 increase

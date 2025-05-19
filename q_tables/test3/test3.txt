@@ -1,0 +1,3 @@
+punishment for loss
+200 rounds , 0.005 for each
+good, but not draw state at the end

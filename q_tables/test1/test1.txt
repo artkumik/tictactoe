@@ -1,0 +1,10 @@
+500 rounds
+exploitation increasing by 0.002 for each
+got to exploitation of 0.568 then paused
+lack of general success, good basis
+
+no punish for loss
+
+win = 1
+draw = 0.5
+discount = 0.75

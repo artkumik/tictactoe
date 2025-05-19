@@ -131,13 +131,16 @@ def qlearning_move_O(board,available,current,exploitation):
 
 def check_win(board):
     win_conditions = [
-        [0, 1, 2], [3, 4, 5], [6, 7, 8],  # Rows
-        [0, 3, 6], [1, 4, 7], [2, 5, 8],  # Columns
-        [0, 4, 8], [2, 4, 6]   #Diagonals
+        [0, 1, 2], [3, 4, 5], [6, 7, 8],
+        [0, 3, 6], [1, 4, 7], [2, 5, 8], 
+        [0, 4, 8], [2, 4, 6] 
     ]
+
     for condition in win_conditions:
-        if board[condition[0]] == board[condition[1]] == board[condition[2]] != ' ':
-            return board[condition[0]]
+        if board[condition[0]] == board[condition[1]] == board[condition[2]]:
+            if board[condition[0]] != "":
+                return board[condition[0]]
+    
     return None
 
 def tictactoe(training,player,exploitation):
@@ -159,7 +162,6 @@ def tictactoe(training,player,exploitation):
                 board,available,item = qlearning_move_O(board,available,current,exploitation)
                 movelist_O.append(item)
             current = 1
-
         #X move
         else:
             if player == "X":
@@ -184,7 +186,6 @@ def qtable_setup(path):
         df = pd.DataFrame(columns=['state', 'action', 'pos'])
         df.to_csv(path)
         print(f"q-table has been setup at {path}")
-
 
 #adding item to qtable
 def qtable_add(path,item):
@@ -244,12 +245,12 @@ if __name__ == "__main__":
     qtable_setup(path_O)
 
     if training:
-        exploitation = 0
-        for x in range(100):
+        exploitation = 0 #at 12:31 am i am at value of 0.568
+        for x in range(200):
             print("*"*30)
             print(f"Training round {x}, exploitation of {exploitation}")
 
-            exploitation = exploitation + 0.01
+            exploitation = exploitation + 0.005
             if exploitation > 1:
                 exploitation = 1
 
@@ -261,7 +262,7 @@ if __name__ == "__main__":
             for x in range(100):
                 movelist_X,movelist_O,board,winner = tictactoe(training,0,exploitation)
 
-                print(f"{x} : {winner}")
+                #print(f"{x} : {winner}")
                 #print_board(board)
                 
                 if winner =="O":
@@ -272,6 +273,12 @@ if __name__ == "__main__":
                         reward = reward * 0.75
                         qtable_changepos(path_O,item)
 
+                    punish = -1
+                    for item in movelist_X[::-1]:
+                        item[2] += punish
+                        punish = punish * 0.75
+                        qtable_changepos(path_O,item)
+
                 elif winner =="X":
                     X_wins += 1
                     reward = 1
@@ -279,6 +286,12 @@ if __name__ == "__main__":
                         item[2] += reward
                         reward = reward * 0.75
                         qtable_changepos(path_X,item)
+
+                    punish = -1
+                    for item in movelist_O[::-1]:
+                        item[2] += punish
+                        punish = punish * 0.75
+                        qtable_changepos(path_O,item)
 
                 else: 
                     Draws += 1
