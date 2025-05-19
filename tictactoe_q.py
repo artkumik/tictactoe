@@ -245,14 +245,19 @@ if __name__ == "__main__":
     qtable_setup(path_O)
 
     if training:
-        exploitation = 0 #at 12:31 am i am at value of 0.568
-        for x in range(200):
+        exploitation = 0
+        exploration = 1 - exploitation 
+        for x in range(500):
+            exploration_decay = exploration / (500/2) #create decay
+            exploration -= exploration_decay #apply decay
+            exploration = max(0.01, exploration) #prevent too low
+            exploitation = 1 - exploration
+            
+            if x < 433:
+                continue     
+
             print("*"*30)
             print(f"Training round {x}, exploitation of {exploitation}")
-
-            exploitation = exploitation + 0.005
-            if exploitation > 1:
-                exploitation = 1
 
             X_wins = 0
             O_wins = 0
@@ -264,6 +269,9 @@ if __name__ == "__main__":
 
                 #print(f"{x} : {winner}")
                 #print_board(board)
+
+                #maybe add alpha for how much new information passes old information.
+                #idk what gemini was on with the average stuff
                 
                 if winner =="O":
                     O_wins += 1
