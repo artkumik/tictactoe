@@ -238,7 +238,7 @@ def qtable_changepos(path, item):
     
 
 if __name__ == "__main__":
-    training = False
+    training = True
 
     #setting up the q-table (check and spaces fixed)
     qtable_setup(path_X)
@@ -247,73 +247,75 @@ if __name__ == "__main__":
     if training:
         exploitation = 0
         exploration = 1 - exploitation 
-        for x in range(500):
-            exploration_decay = exploration / (500/2) #create decay
+        alpha = 1
+        alpha_decay = 0.01
+
+        for x in range(100):
+            exploration_decay = exploration / (100/2) #create decay
             exploration -= exploration_decay #apply decay
             exploration = max(0.01, exploration) #prevent too low
             exploitation = 1 - exploration
-            
-            if x < 433:
-                continue     
+
+            alpha -= alpha_decay
+            if alpha < 0:
+                alpha = 0
+
+            if x < 38: #because it is late
+                continue
 
             print("*"*30)
-            print(f"Training round {x}, exploitation of {exploitation}")
+            print(f"training round {x}, exploitation of {exploitation}")
 
             X_wins = 0
             O_wins = 0
             Draws = 0
 
             #one round of training
-            for x in range(100):
+            for x in range(500):
+                print(f"game {x} / 500", end='\r')
                 movelist_X,movelist_O,board,winner = tictactoe(training,0,exploitation)
-
-                #print(f"{x} : {winner}")
-                #print_board(board)
-
-                #maybe add alpha for how much new information passes old information.
-                #idk what gemini was on with the average stuff
-                
                 if winner =="O":
                     O_wins += 1
                     reward = 1
                     for item in movelist_O[::-1]:
-                        item[2] += reward
-                        reward = reward * 0.75
+                        item[2] += reward * alpha
+                        reward = reward * 0.9
                         qtable_changepos(path_O,item)
 
                     punish = -1
                     for item in movelist_X[::-1]:
-                        item[2] += punish
-                        punish = punish * 0.75
-                        qtable_changepos(path_O,item)
+                        item[2] += punish * alpha
+                        punish = punish * 0.9
+                        qtable_changepos(path_X,item)
 
                 elif winner =="X":
                     X_wins += 1
                     reward = 1
                     for item in movelist_X[::-1]:
-                        item[2] += reward
-                        reward = reward * 0.75
+                        item[2] += reward * alpha
+                        reward = reward * 0.9
                         qtable_changepos(path_X,item)
 
                     punish = -1
                     for item in movelist_O[::-1]:
-                        item[2] += punish
-                        punish = punish * 0.75
+                        item[2] += punish * alpha
+                        punish = punish * 0.9
                         qtable_changepos(path_O,item)
 
                 else: 
                     Draws += 1
                     reward = 0.5
                     for item in movelist_O[::-1]:
-                        item[2] += reward
-                        reward = reward * 0.75
+                        item[2] += reward * alpha
+                        reward = reward * 0.9
                         qtable_changepos(path_O,item)
 
                     reward = 0.5
                     for item in movelist_X[::-1]:
-                        item[2] += reward
+                        item[2] += reward * alpha
                         reward = reward * 0.9
                         qtable_changepos(path_X,item)
+            print("game 500 / 500")
             print(f"X wins : {X_wins}")
             print(f"O wins : {O_wins}")
             print(f"Draws : {Draws}")
