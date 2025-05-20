@@ -1,0 +1,5 @@
+repeat training, but with new method
+add exploration decay and make it equal to exploration / (number of rounds / 2)
+this will hopefully add a bit of a tapering off and improve training
+
+500 rounds of 100 games, with change occuring after each round

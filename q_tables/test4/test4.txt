@@ -1,1 +1,3 @@
 copy of the first q tables from 500 repeats with deletion, trying to see if any difference
+
+found error in game scoring, so fixed

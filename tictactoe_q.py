@@ -3,13 +3,6 @@ import pandas as pd
 import pickle
 import os
 
-print("Welcome to Tic Tac Toe")
-print()
-
-#important variables
-path_X = "q-table_X.csv"
-path_O = "q-table_O.csv"
-
 def list_to_string(list):
     temp = ""
     for x in list:
@@ -236,9 +229,16 @@ def qtable_changepos(path, item):
         data.loc[mask, "pos"] += add_value
         data.to_csv(path, index=False)
     
-
 if __name__ == "__main__":
-    training = True
+    print("Welcome to Tic Tac Toe")
+    print()
+
+    #important variables
+    path_X = "q-table_X.csv"
+    path_O = "q-table_O.csv"
+
+    #change here for training or gameplay
+    training = False
 
     #setting up the q-table (check and spaces fixed)
     qtable_setup(path_X)
@@ -259,9 +259,6 @@ if __name__ == "__main__":
             alpha -= alpha_decay
             if alpha < 0:
                 alpha = 0
-
-            if x < 38: #because it is late
-                continue
 
             print("*"*30)
             print(f"training round {x}, exploitation of {exploitation}")
@@ -315,6 +312,7 @@ if __name__ == "__main__":
                         item[2] += reward * alpha
                         reward = reward * 0.9
                         qtable_changepos(path_X,item)
+            
             print("game 500 / 500")
             print(f"X wins : {X_wins}")
             print(f"O wins : {O_wins}")
@@ -322,15 +320,15 @@ if __name__ == "__main__":
 
     #human wants to play
     else:
-        player = ""
         exploration = 1
 
-        print()
-
+        player = input("What side would you like to start with? (X or O)")
         while player != "X" and player != "O":
             player = input("What side would you like to start with? (X or O)")
 
         movelist_X,movelist_O,board,winner = tictactoe(training,player,exploration)
-        print(f"winner : {winner}")
+
         print_board(board)
+        print("*"*30)
+        print(f"winner : {winner}")
 
