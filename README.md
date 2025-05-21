@@ -6,3 +6,4 @@ Q tables of previous training attempts are stored in the q tables folder, along 
 
 Libraries used
 - pandas
+- pygame
