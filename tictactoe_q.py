@@ -56,7 +56,7 @@ def random_move(board, available,current):
     return board,available
 
 #gets a q learning move for X, use proper table and such
-def qlearning_move_X(board,available,current,exploitation):
+def qlearning_move_X(board,available,exploitation):
     #check whether to pick random or known
     if random.random() >= exploitation:
         action_pos = random.randint(0,len(available)-1)
@@ -89,7 +89,7 @@ def qlearning_move_X(board,available,current,exploitation):
         return board,available,item
     
 #O for q learning
-def qlearning_move_O(board,available,current,exploitation):
+def qlearning_move_O(board,available,exploitation):
     
     #check whether to pick random or known
     if random.random() >= exploitation:
@@ -136,7 +136,7 @@ def check_win(board):
     
     return None
 
-def tictactoe(training,player,exploitation):
+def tictactoe(player,exploitation):
     current = 0
 
     movelist_X = []
@@ -152,7 +152,7 @@ def tictactoe(training,player,exploitation):
             if player == "O":
                 board,available = human_move(board,available,current)
             else:
-                board,available,item = qlearning_move_O(board,available,current,exploitation)
+                board,available,item = qlearning_move_O(board,available,exploitation)
                 movelist_O.append(item)
             current = 1
         #X move
@@ -160,7 +160,7 @@ def tictactoe(training,player,exploitation):
             if player == "X":
                 board,available = human_move(board,available,current)
             else:
-                board,available,item = qlearning_move_X(board,available,current,exploitation)
+                board,available,item = qlearning_move_X(board,available,exploitation)
                 movelist_X.append(item)
             current = 0
         
@@ -243,6 +243,7 @@ if __name__ == "__main__":
     #setting up the q-table (check and spaces fixed)
     qtable_setup(path_X)
     qtable_setup(path_O)
+    print()
 
     if training:
         exploitation = 0
@@ -270,7 +271,7 @@ if __name__ == "__main__":
             #one round of training
             for x in range(500):
                 print(f"game {x} / 500", end='\r')
-                movelist_X,movelist_O,board,winner = tictactoe(training,0,exploitation)
+                movelist_X,movelist_O,board,winner = tictactoe(0,exploitation)
                 if winner =="O":
                     O_wins += 1
                     reward = 1
@@ -326,7 +327,7 @@ if __name__ == "__main__":
         while player != "X" and player != "O":
             player = input("What side would you like to start with? (X or O)")
 
-        movelist_X,movelist_O,board,winner = tictactoe(training,player,exploration)
+        movelist_X,movelist_O,board,winner = tictactoe(player,exploration)
 
         print_board(board)
         print("*"*30)
