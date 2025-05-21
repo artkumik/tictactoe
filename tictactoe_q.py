@@ -56,7 +56,7 @@ def random_move(board, available,current):
     return board,available
 
 #gets a q learning move for X, use proper table and such
-def qlearning_move_X(board,available,exploitation):
+def qlearning_move_X(board,available,exploitation,path_X):
     #check whether to pick random or known
     if random.random() >= exploitation:
         action_pos = random.randint(0,len(available)-1)
@@ -89,7 +89,7 @@ def qlearning_move_X(board,available,exploitation):
         return board,available,item
     
 #O for q learning
-def qlearning_move_O(board,available,exploitation):
+def qlearning_move_O(board,available,exploitation,path_O):
     
     #check whether to pick random or known
     if random.random() >= exploitation:
@@ -152,7 +152,7 @@ def tictactoe(player,exploitation):
             if player == "O":
                 board,available = human_move(board,available,current)
             else:
-                board,available,item = qlearning_move_O(board,available,exploitation)
+                board,available,item = qlearning_move_O(board,available,exploitation,path_O)
                 movelist_O.append(item)
             current = 1
         #X move
@@ -160,7 +160,7 @@ def tictactoe(player,exploitation):
             if player == "X":
                 board,available = human_move(board,available,current)
             else:
-                board,available,item = qlearning_move_X(board,available,exploitation)
+                board,available,item = qlearning_move_X(board,available,exploitation,path_X)
                 movelist_X.append(item)
             current = 0
         
