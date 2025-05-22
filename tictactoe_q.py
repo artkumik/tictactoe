@@ -41,6 +41,7 @@ def human_move(board,available,current):
 
     return board,available
 
+#make a random move (not used)
 def random_move(board, available,current):
     pos = 9999
     pos = random.randint(0,len(available)-1)
@@ -217,7 +218,7 @@ def qtable_getbest(path,state):
         return None
     return data[data["pos"] == data["pos"].max()]["action"].iloc[0]
 
-#change the pos of a cerain state, action combination by a flat value
+#change the expected positive outcome (pos) of a cerain state, action combination by a flat value
 def qtable_changepos(path, item):
     data = pd.read_csv(path)
     data["state"] = data["state"].astype(str)

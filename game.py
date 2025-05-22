@@ -11,9 +11,6 @@ pygame.display.set_caption("Q-learning Tic-Tac-Toe")
 clock = pygame.time.Clock()
 
 #item init
-font = pygame.font.Font("fonts/Pixeltype.ttf", 70)
-text_surface = font.render("hello", False, "black")
-
 grid = pygame.image.load("images/grid.jpg")
 grid = pygame.transform.scale(grid, (300, 300))
 x_object = pygame.image.load("images/x.png")
@@ -31,7 +28,8 @@ PvP = pygame.transform.scale(PvP, (100, 100*2/3))
 reset = pygame.image.load("images/Reset.png")
 reset = pygame.transform.scale(reset, (100, 66))
 
-def display_message(message,distance_from_top = 50):
+def display_message(message,distance_from_top = 50, font_size = 70):
+    font = pygame.font.Font("fonts/Pixeltype.ttf", font_size)
     text_surface = font.render(message, True, "Black") 
     text_rect = text_surface.get_rect(center=(500 // 2, distance_from_top)) 
     screen.blit(text_surface, text_rect)
@@ -66,11 +64,11 @@ while True:
             
             #welocme screen and menu
             if welcome_screen:
-                if mouse_x >= 50 and mouse_x <= 150 and mouse_y >= 200 and mouse_y <= 266:
+                if mouse_x >= 50 and mouse_x <= 150 and mouse_y >= 300 and mouse_y <= 366:
                     AI_control = "O"
-                elif mouse_x >= 200 and mouse_x <= 300 and mouse_y >= 200 and mouse_y <= 266:
+                elif mouse_x >= 200 and mouse_x <= 300 and mouse_y >= 300 and mouse_y <= 366:
                     AI_control = "X"
-                elif mouse_x >= 350 and mouse_x <= 450 and mouse_y >= 200 and mouse_y <= 266:
+                elif mouse_x >= 350 and mouse_x <= 450 and mouse_y >= 300 and mouse_y <= 366:
                     AI_control = ""
                 else: 
                     continue
@@ -120,12 +118,13 @@ while True:
     
     #welcome screen options
     if welcome_screen:
-        screen.fill("Yellow")
-        display_message("Welcome to Tic-Tac-Toe",100)
+        screen.fill("White")
+        display_message("Welcome to",150)
+        display_message("Tic-Tac-Toe!", 200, 100)
 
-        screen.blit(AIO, (50,200))
-        screen.blit(AIX, (200,200))
-        screen.blit(PvP, (350,200))
+        screen.blit(AIO, (50,300))
+        screen.blit(AIX, (200,300))
+        screen.blit(PvP, (350,300))
     
     #during gameplay options
     elif game_active:
