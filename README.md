@@ -7,3 +7,6 @@ Q tables of previous training attempts are stored in the q tables folder, along 
 Libraries used
 - pandas
 - pygame
+
+Run tictactoe_q.py for tic tac toe with a Command Line interface.
+Run game.py for tic tac toe with pygame interface.
