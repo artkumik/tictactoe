@@ -239,7 +239,7 @@ if __name__ == "__main__":
     path_O = "q-table_O.csv"
 
     #change here for training or gameplay
-    training = False
+    training = True
 
     #setting up the q-table (check and spaces fixed)
     qtable_setup(path_X)
@@ -253,7 +253,8 @@ if __name__ == "__main__":
         alpha_decay = 0.01
 
         for x in range(100):
-            exploration_decay = exploration / (100/2) #create decay
+            #exploration_decay = exploration / (100/2) #create decay
+            exploration_decay = 0.01
             exploration -= exploration_decay #apply decay
             exploration = max(0.01, exploration) #prevent too low
             exploitation = 1 - exploration

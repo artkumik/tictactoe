@@ -10,3 +10,5 @@ Libraries used
 
 Run tictactoe_q.py for tic tac toe with a Command Line interface.
 Run game.py for tic tac toe with pygame interface.
+
+Currently using q tables from test6 as they give the best results. 

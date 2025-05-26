@@ -1,0 +1,2 @@
+more training for test 6
+did not improve results significantly
